@@ -1,11 +1,7 @@
-# see https://github.com/AustralianBioCommons/human-omics-data-sharing-field-guide/blob/main/_data/footer.yml
-copyright: Copyright notice
-extra_line:
+# see https://github.com/ELIXIR-Belgium/elixir-toolkit-theme
 columns:
-  - type: links
+  - type: image
+    image_width: 120px
     width: 3
-    children:
-      - url_text: Home
-        url: /
-      - url_text: Contributors
-        url: /contributors
+    src: 'assets/img/main_logo.png'
+    alt: Australian BioCommons logo

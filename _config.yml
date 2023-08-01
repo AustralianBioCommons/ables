@@ -1,23 +1,17 @@
-title: How-to Guide
-# This appears in the html browser tab for the site title (seen mostly by search engines, not users)
-
-#topnav_title: Website title
-# Optional: this appears on the top navigation bar next to the main_logo.svg icon
-
-description: "A bioinformatics focused How-to Guide"
-# Metadata description of the website
-
+# see https://github.com/ELIXIR-Belgium/elixir-toolkit-theme
+title: ABLeS
+topnav_title: ABLeS
+description: ABLeS
 remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@1.26.0
+permalink: pretty
 
 theme_variables:
   # biocommons blue
   theme_color: 205a86
+  back_to_top: true
   topnav:
-    brand_logo: assets/img/logo_example.png
-
-exclude:
-  - README.md
-  - vendor
+    brand_logo: assets/img/main_logo.png
+    github: true
 
 defaults:
   -
@@ -25,12 +19,27 @@ defaults:
       path: ""
       type: "pages"
     values:
-      permalink: /:basename
       layout: "page"
       sidebar: main
 
-plugins:
-  - jemoji
-  - jekyll-sitemap
-  - jekyll-github-metadata
-  - webrick
+# Footer "Edit this page on GitHub" link text
+#gh_edit_link: true # show or hide edit this page link
+#gh_edit_link_text: "Edit this page on GitHub."
+#gh_edit_repository: "https://github.com/AustralianBioCommons/ables" # the github URL for your repo
+#gh_edit_branch: "main" # the branch that your docs is served from
+#gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+# Enable or disable heading anchors
+#heading_anchors: true
+
+# Back to top link
+#back_to_top: true
+#back_to_top_text: "Back to top"
+
+# Aux links for the upper right navigation
+#aux_links:
+#  "View these docs on GitHub":
+#    - "https://github.com/AustralianBioCommons/ables/tree/main"
+
+# Makes Aux links open in a new tab. Default is false
+#aux_links_new_tab: true

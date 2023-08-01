@@ -1,12 +1,17 @@
-## About
-
-Please see the [How-to Guide for the template](https://australianbiocommons.github.io/how-to-guide-template/) for more information on how to get started.  
+# ABLeS repository
 
 
-## Acknowledgements for the guides
+# Acknowledgements
 
-This work is supported by the [Australian BioCommons](https://www.biocommons.org.au/) via funding from [Bioplatforms Australia](https://bioplatforms.com/), the Australian Research Data Commons (https://doi.org/10.47486/PL105) and the Queensland Government RICF programme. Bioplatforms Australia and the Australian Research Data Commons are funded by the National Collaborative Research Infrastructure Strategy (NCRIS).
+This repository makes use of the ELIXIR toolkit theme:
 
-This repository makes use of the ELIXIR toolkit theme: [![theme badge](https://img.shields.io/badge/ELIXIR%20toolkit%20theme-jekyll-blue?color=0d6efd)](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme)
+[![theme badge](https://img.shields.io/badge/ELIXIR%20toolkit%20theme-jekyll-blue?color=0d6efd)](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme)
 
-This template is based on the [ELIXIR Toolkit Theme example](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme-example).
+# Other attributions
+
+## Building the site
+
+- [![theme badge](https://img.shields.io/badge/ELIXIR%20toolkit%20theme-jekyll-blue?color=0d6efd)](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme)
+- [Adding an image caption](https://stackoverflow.com/a/30366422)
+- [CSS tutorial](https://www.w3schools.com/css/default.asp)
+- [just-the-docs](https://pmarsceill.github.io/just-the-docs/#getting-started)
