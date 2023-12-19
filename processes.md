@@ -6,7 +6,7 @@ title: ABLeS processes
 
 The Australian BioCommons and the bioinformatics leads for each community have different roles in initiation, onboarding and reporting for ABLeS. 
 
-ABLeS projects are led and maintained by their [communities](communities.md) with the support of the ABLeS team to facilitate the access to ABLeS resources. 
+ABLeS projects are led and maintained by their users with the support of the ABLeS team to facilitate the access to ABLeS resources. 
 
 If you are new to ABLeS program, please follow the diagram below in order to start using ABLeS resources or **[contact us](contact-us.md)** for more information and assistance. 
 
