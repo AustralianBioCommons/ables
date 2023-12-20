@@ -2,10 +2,91 @@
 title: Resources available for ABLeS communities
 ---
 
+## Available reources for ABLeS schemes
+<div style="display: block; margin-left: auto;  margin-right: auto;">
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+    overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+    font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-ltol{background-color:#0000ff;border-color:#000000;text-align:center;vertical-align:middle}
+    .tg .tg-4jry{background-color:#c0c0c0;border-color:#000000;text-align:center;vertical-align:middle}
+    .tg .tg-j13t{background-color:#3166FF;border-color:#000000;text-align:center;vertical-align:top}
+    .tg .tg-hxuv{background-color:#3166ff;border-color:#000000;text-align:center;vertical-align:middle}
+    .tg .tg-maf8{background-color:#656565;border-color:#000000;color:#ffffff;text-align:center;vertical-align:middle}
+    .tg .tg-xwyw{border-color:#000000;text-align:center;vertical-align:middle}
+    .tg .tg-yn16{background-color:#9b9b9b;border-color:#000000;color:#ffffff;text-align:center;vertical-align:middle}
+    </style>
+    <table class="tg">
+    <thead>
+    <tr>
+        <th class="tg-xwyw"></th>
+        <th class="tg-maf8" colspan="6">ABLeS Resources</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td class="tg-ltol" rowspan="2"><span style="color:#FFF">Resource</span></td>
+        <td class="tg-yn16" colspan="2">Reference Data</td>
+        <td class="tg-yn16" colspan="2">Production Bioinformatics</td>
+        <td class="tg-yn16" colspan="2">Software Accelerator</td>
+    </tr>
+    <tr>
+        <td class="tg-4jry">NCI</td>
+        <td class="tg-4jry">Pawsey</td>
+        <td class="tg-4jry">NCI</td>
+        <td class="tg-4jry">Pawsey</td>
+        <td class="tg-4jry">NCI</td>
+        <td class="tg-4jry">Pawsey</td>
+    </tr>
+    <tr>
+        <td class="tg-hxuv">Compute <br>infrastructure</td>
+        <td class="tg-xwyw" colspan="6">HPC and Cloud</td>
+    </tr>
+    <tr>
+        <td class="tg-hxuv">Temporary<br>storage</td>
+        <td class="tg-xwyw">5 TB</td>
+        <td class="tg-xwyw">1PB</td>
+        <td class="tg-xwyw">5 TB</td>
+        <td class="tg-xwyw">1PB</td>
+        <td class="tg-xwyw">5 TB</td>
+        <td class="tg-xwyw">1PB</td>
+    </tr>
+    <tr>
+        <td class="tg-hxuv">Project<br>Storage</td>
+        <td class="tg-xwyw" colspan="2">5 TB</td>
+        <td class="tg-xwyw" colspan="2">5 TB</td>
+        <td class="tg-xwyw" colspan="2">5 TB</td>
+    </tr>
+    <tr>
+        <td class="tg-hxuv">Default <br>service unites</td>
+        <td class="tg-xwyw" colspan="2">100 kSUs per Quarter</td>
+        <td class="tg-xwyw" colspan="2">50 kSUs per Quarter</td>
+        <td class="tg-xwyw" colspan="2">10 kSUs per Quarte</td>
+    </tr>
+    <tr>
+        <td class="tg-hxuv">Time frame</td>
+        <td class="tg-xwyw" colspan="4">Ongoing</td>
+        <td class="tg-xwyw" colspan="2">6-12 Months</td>
+    </tr>
+    <tr>
+        <td class="tg-j13t">Specialist<br>support</td>
+        <td class="tg-xwyw" colspan="6">Yes</td>
+    </tr>
+    <tr>
+        <td class="tg-j13t">Additional <br>resources</td>
+        <td class="tg-xwyw" colspan="4">Yes</td>
+        <td class="tg-xwyw" colspan="2">Yes if the previous usage<br> is &gt; 60%</td>
+    </tr>
+    </tbody>
+    </table>
+</div>
+
 ## Specialist expertise
 
-ABLeS communities are supported by the NCI, Pawsey and ABLeS specialists to install, develop, optimise and deploy tools and workflows on ABLeS projects.
-If you are part of an ABLeS community, and need help, please submit a request through the **[GoogleForm](https://docs.google.com/forms/d/e/1FAIpQLSfzHJajEKTnGuYWb1gLRR2nlUExLIRM7qSGy_hhbiCKB3KX2Q/viewform?usp=sf_link)**.
+ABLeS projects are supported by the NCI, Pawsey and ABLeS specialists to install, develop, optimise and deploy tools and workflows on ABLeS projects.
+If you are part of an ABLeS prject, and need help, please submit a request through the **[GoogleForm](https://docs.google.com/forms/d/e/1FAIpQLSfzHJajEKTnGuYWb1gLRR2nlUExLIRM7qSGy_hhbiCKB3KX2Q/viewform?usp=sf_link)**.
 
 ## Computational resources at Pawsey
 
@@ -29,7 +110,7 @@ Details on:
 - [Gadi HPC resources](https://nci.org.au/our-systems/hpc-systems) 
 - [Gadi storage system](https://nci.org.au/our-systems/storage-systems).
 
-ABLes computational resources are allocated to each community according to the quarterly plan submitted by the bioinformatics lead of the community. 
+ABLes computational resources are allocated to each project quarterly and additional resources can be requested by the bioinformatics lead of the projects. 
 
 > **Note:** Additional resources can be requested through the form [here](https://docs.google.com/forms/d/e/1FAIpQLSfzHJajEKTnGuYWb1gLRR2nlUExLIRM7qSGy_hhbiCKB3KX2Q/viewform?usp=sf_link)
 
@@ -39,9 +120,9 @@ Details about software available through the NCI are available [here](https://op
 
 ### Shared repository of tools and software
 
-ABLeS communities have access to the `Australian BioCommons Tools and Workflows project`, in project allocation `if89`.
+ABLeS projects at NCI have access to the `Australian BioCommons Tools and Workflows project`, in project allocation `if89`.
 This is a repository of popular tools, containers and workflows that can be used by 
-anyone in the NCI user community.
-Anyone from an NCI community can contribute to `if89` and add more tools that will be shared with others.
+anyone in the NCI user.
+Anyone from an NCI project can contribute to `if89` and add more tools that will be shared with others.
 
 Details on if89 are available at **[if89 page](/ables/if89/)**

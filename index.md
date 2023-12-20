@@ -10,7 +10,8 @@ toc: false
     <a class="btn btn-primary col-lg-3 col-xl-3 col-xxl-3 col-md-3 col-sm-12 col-12" href="https://docs.google.com/forms/d/e/1FAIpQLSf9UVEuhbAsbvVzTEvvE9mLoietryb7e3sDmv74Xhl-1YWj2Q/viewform?usp=sf_link">Request New Project</a>
     <a class="btn btn-primary col-lg-3 col-xl-3 col-xxl-3 col-md-3 col-sm-12 col-12" href="https://docs.google.com/forms/d/e/1FAIpQLSfzHJajEKTnGuYWb1gLRR2nlUExLIRM7qSGy_hhbiCKB3KX2Q/viewform?usp=sf_link">Request Additional Resources</a>
     <a class="btn btn-primary col-lg-3 col-xl-3 col-xxl-3 col-md-3 col-sm-12 col-12" href="https://docs.google.com/forms/d/e/1FAIpQLScpiyqERdxw6gMxjlq_CkiI3qvJ60YaeWHKTJChMjcnv8aBBA/viewform?usp=sf_link">Request Software Installation</a>
-    <div class="w-100"></div>
+  </div>
+  <div class="row">
     <a class="btn btn-primary col-lg-3 col-xl-3 col-xxl-3 col-md-3 col-sm-12 col-12" href="https://docs.google.com/forms/d/e/1FAIpQLSere1PvgPEuJkpvQUk1-11C88IAeQNQKEUFc-Qgbn5GgKK2jw/viewform?usp=sf_link">Request Help</a>
     <a class="btn btn-primary col-lg-3 col-xl-3 col-xxl-3 col-md-3 col-sm-12 col-12" href="https://docs.google.com/forms/d/e/1FAIpQLSdO1w-RY8OexUBwJx8BHNMwSRNPA3_-5r6pefdQW8ancbKZqw/viewform?usp=sf_link">Report Project Outcome</a>
     <a class="btn btn-primary col-lg-3 col-xl-3 col-xxl-3 col-md-3 col-sm-12 col-12" href="/ables/resources/#shared-repository-of-tools-and-software">Available Tools</a>
