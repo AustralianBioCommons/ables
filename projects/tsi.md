@@ -1,7 +1,7 @@
 ---
 title: Threatened Species Initiative
 contributors: [Ziad Al-Bkhetan, Johan Gustafsson]
-description: Bioinformatics analyese for Threatened Species Initiative
+description: Bioinformatics analyses for the Threatened Species Initiative
 toc: false
 type: projects
 ---
