@@ -85,8 +85,8 @@ title: Resources available for ABLeS communities
 
 ## Specialist expertise
 
-ABLeS projects are supported by the NCI, Pawsey and ABLeS specialists to install, develop, optimise and deploy tools and workflows on ABLeS projects.
-If you are part of an ABLeS prject, and need help, please submit a request through the **[GoogleForm](https://docs.google.com/forms/d/e/1FAIpQLSfzHJajEKTnGuYWb1gLRR2nlUExLIRM7qSGy_hhbiCKB3KX2Q/viewform?usp=sf_link)**.
+ABLeS projects are supported by NCI, Pawsey and ABLeS specialists to install, develop, optimise and deploy tools and workflows on ABLeS projects.
+If you are part of an ABLeS project, and need help, please submit a request through the **[GoogleForm](https://docs.google.com/forms/d/e/1FAIpQLSfzHJajEKTnGuYWb1gLRR2nlUExLIRM7qSGy_hhbiCKB3KX2Q/viewform?usp=sf_link)**.
 
 ## Computational resources at Pawsey
 
@@ -116,13 +116,13 @@ ABLes computational resources are allocated to each project quarterly and additi
 
 ### Centrally supported tools and software through NCI (`/apps`)
 
-Details about software available through the NCI are available [here](https://opus.nci.org.au/display/Help/5.+Software+Applications)
+Details about software available through NCI are available [here](https://opus.nci.org.au/display/Help/5.+Software+Applications)
 
 ### Shared repository of tools and software
 
 ABLeS projects at NCI have access to the `Australian BioCommons Tools and Workflows project`, in project allocation `if89`.
 This is a repository of popular tools, containers and workflows that can be used by 
-anyone in the NCI user.
+anyone in the NCI system.
 Anyone from an NCI project can contribute to `if89` and add more tools that will be shared with others.
 
 Details on if89 are available at **[if89 page](/ables/if89/)**
