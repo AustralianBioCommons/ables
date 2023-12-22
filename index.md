@@ -16,7 +16,7 @@ toc: false
 
 ## About ABLeS
 
-The ABLeS (Australian Biocommons Leadership Share) program was established in April 2021 to more readily support data-driven bioinformatics. This effort is supported by the [Australian Biocommons](https://www.biocommons.org.au/) in partnership with Bioplatforms Australia, the National Computational Infrastructure ([NCI](https://nci.org.au/), Canberra), and the Pawsey Supercomputing Centre ([Pawsey](https://pawsey.org.au/), Perth). ABLeS targets established groups and communities that are focused on a common research theme, create reference data and/or software, and have the ability to plan and prioritise a computational research program. 
+The ABLeS (Australian BioCommons Leadership Share) program was established in April 2021 to more readily support data-driven bioinformatics. This effort is supported by the [Australian BioCommons](https://www.biocommons.org.au/) in partnership with Bioplatforms Australia, the National Computational Infrastructure ([NCI](https://nci.org.au/), Canberra), and the Pawsey Supercomputing Research Centre ([Pawsey](https://pawsey.org.au/), Perth). ABLeS targets established groups and communities that are focused on a common research theme, create reference data and/or software, and have the ability to plan and prioritise a computational research program. 
 
 The support available includes access to computational and data infrastructure, specialist expertise, support to adopt best practices and share outputs effectively, and a community led and shared repository of bioinformatics software (i.e. tools and workflows).
 
@@ -27,7 +27,7 @@ ABLeS projects broadly align with the following three principles:
 
 2. The project users have expertise which will drive and execute its bioinformatics agenda of the project.
 
-3. ABLeS resources are planned and approached with a level of care appropriate to their status as limited and consumable resources.
+3. Resources are planned and approached with a level of care appropriate to their status as limited and consumable resources.
 
 More details are available in the ABLeS publication:
 
