@@ -29,7 +29,7 @@ toc: false
         </h2>
         <div id="collapse-faq-2" class="accordion-collapse collapse" aria-labelledby="heading-faq-2" data-bs-parent="#accordion-faq">
           <div class="accordion-body">
-            The allocation of SUs is on a quarterly basis. At the beginning of each quarter, Biocommons will allocate 100 kSU of computational resources to each community. Additional resources will be allocated according to the quarterly plan proposed by the community, as well as the resources still available in that quarter. 
+            The allocation of SUs is on a quarterly basis. At the beginning of each quarter, BioCommons will allocate 100 kSU of computational resources to each community. Additional resources will be allocated according to the quarterly plan proposed by the community, as well as the resources still available in that quarter. 
             <br/>Communities should utilise the allocated SUs:
             <ol>
                 <li>For projects approved by the steering committee.</li> 
