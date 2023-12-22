@@ -4,13 +4,13 @@ toc: false
 ---
 
 
-## ABLeS process for different stages of project life
+## ABLeS process for different stages of a project's lifetime
 
 The Australian BioCommons and the bioinformatics leads for each group have different roles in initiation, onboarding and reporting for ABLeS. 
 
-ABLeS projects are led and maintained by their users with the support of the ABLeS team to facilitate the access to ABLeS resources. 
+ABLeS projects are led and maintained by their users with the support of the ABLeS team to facilitate access to ABLeS resources. 
 
-If you are new to ABLeS program, please read the processes below in order to start using ABLeS resources or **[contact us](contact-us.md)** for more information and assistance. 
+If you are new to the ABLeS program, please read the processes below in order to start using ABLeS resources or **[contact us](contact-us.md)** for more information and assistance. 
 
 <div class="accordion" id="accordion-processes">
       <div class="accordion-item">
@@ -32,7 +32,7 @@ If you are new to ABLeS program, please read the processes below in order to sta
             <li>Creation of a project allocation at the NCI for a community</li>
             <li>Inviting community bioinformatics leads to a project allocation as Chief Investigators</li>
             <li>Providing information on how to utilise ABLeS resources and contribute to the shared tool and software repository.</li>
-            <li>Biocommons manage the resources available to the ABLeS programme across all active projects.</li>
+            <li>BioCommons manage the resources available to the ABLeS programme across all active projects.</li>
           </ol>
           </div>
         </div>
@@ -47,9 +47,9 @@ If you are new to ABLeS program, please read the processes below in order to sta
           <div class="accordion-body">
           <b>Project bioinformatics lead role:</b>
           <ol>
-            <li>Request additional resources (<a href="https://docs.google.com/forms/d/e/1FAIpQLSfzHJajEKTnGuYWb1gLRR2nlUExLIRM7qSGy_hhbiCKB3KX2Q/viewform?usp=sf_link">link</a>) when the project needs more resources than the available. Each project gets <a href="ables/resources">default resources</a> automatically at the beginning of each quarter without the need to request them.</li>
-            <li>Attend a quarterly meeting with BioCommons to discuss and report the outcomes of the community work (data, methods, publications..) in the last quarter.</li>
-            <li>project bioinformatics leads manage the resources provided by ABLeS including:
+            <li>Request additional resources (<a href="https://docs.google.com/forms/d/e/1FAIpQLSfzHJajEKTnGuYWb1gLRR2nlUExLIRM7qSGy_hhbiCKB3KX2Q/viewform?usp=sf_link">link</a>) when the project needs more resources than are available. Each project gets <a href="ables/resources">default resources</a> automatically at the beginning of each quarter without the need to request them.</li>
+            <li>Attend a quarterly meeting with BioCommons to discuss and report the outcomes of the community work (data, methods, publications..) in the previous quarter.</li>
+            <li>Project bioinformatics leads manage the resources provided by ABLeS including:
               <ul>
                 <li>Adding members to the projects.</li>
                 <li>Educating / onboarding new members on ABLeS projects.</li>
@@ -84,7 +84,7 @@ If you are new to ABLeS program, please read the processes below in order to sta
           <b>Project bioinformatics lead role:</b>
           <ol>
             <li>Notify the AUstralian BioCommons when you are ready to close your project.</li>
-            <li>Make sure all project data is archived as the project stroage will be released.</li>
+            <li>Make sure all project data is archived as the project storage will be released.</li>
             <li>Make sure all workflows are registered at <a>workflowhub</a> and well documented so they are findable.</li>
             <li>Report the project outcomes to the Australian BioCommons.</li>
           </ol>
@@ -173,7 +173,7 @@ If you are new to ABLeS program, please read the processes below in order to sta
 </table>
 
 <br/>
-Consdering the three schemes supported by ABLeS (Creation of reference data assets, Production analysis, and Bioinformatics software accelerator), ABLeS users will follow one of the paths demonstrated below.<br/>
+Considering the three schemes supported by ABLeS (Creation of reference data assets, Production analysis, and Bioinformatics software accelerator), ABLeS users will follow one of the paths demonstrated below.<br/>
 
 ![ABLeS pathways](images/ABLeS.png){: height="85%" width="80%"  style="display: block; margin-left: auto;  margin-right: auto;"}
 
