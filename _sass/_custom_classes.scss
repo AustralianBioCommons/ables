@@ -1,5 +1,6 @@
 /* see https://github.com/ELIXIR-Belgium/elixir-toolkit-theme*/
 
+/*
 .navbar {
     .navbar-brand {
         font-size: 2.25rem;
@@ -7,6 +8,7 @@
         padding-bottom: 0;
     }
 }
+*/
 img {
     @extend .img-fluid;
 }
@@ -21,4 +23,40 @@ img {
 .accordion-button {
  background-color:#f8f9fa;
 
+}
+
+header .navbar {
+    .navbar-brand {
+        font-size: 2.25rem;
+        //color: $white !important;
+            img {
+                max-height: 80px;
+            }
+    }
+}
+
+.navigation-tiles {
+    .card:hover {
+        box-shadow: $box-shadow;
+    }
+
+    .card-header {
+        a:hover {
+            text-decoration: none;
+        }
+        h3 {
+            font-size: 1.1rem;
+        }
+    }
+    .card-text {
+        font-size: 0.9rem;
+    }
+
+}
+.navigation-tiles {
+    .card {
+        .card-header {
+            background-color: #8ea869;       
+        }
+    }
 }

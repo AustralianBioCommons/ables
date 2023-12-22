@@ -10,29 +10,29 @@ title: Resources available for ABLeS communities
     overflow:hidden;padding:10px 5px;word-break:normal;}
     .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
     font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-    .tg .tg-ltol{background-color:#0000ff;border-color:#000000;text-align:center;vertical-align:middle}
+    .tg .tg-ltol{background-color:#205a86;border-color:#000000;text-align:center;vertical-align:middle}
     .tg .tg-4jry{background-color:#c0c0c0;border-color:#000000;text-align:center;vertical-align:middle}
-    .tg .tg-j13t{background-color:#3166FF;border-color:#000000;text-align:center;vertical-align:top}
-    .tg .tg-hxuv{background-color:#3166ff;border-color:#000000;text-align:center;vertical-align:middle}
+    .tg .tg-j13t{background-color:#205a86;border-color:#000000;text-align:center;vertical-align:top}
+    .tg .tg-hxuv{background-color:#205a86;border-color:#000000;text-align:center;vertical-align:middle}
     .tg .tg-maf8{background-color:#656565;border-color:#000000;color:#ffffff;text-align:center;vertical-align:middle}
     .tg .tg-xwyw{border-color:#000000;text-align:center;vertical-align:middle}
     .tg .tg-yn16{background-color:#9b9b9b;border-color:#000000;color:#ffffff;text-align:center;vertical-align:middle}
     </style>
     <table class="tg">
     <thead>
-    <tr>
+    <tr style="font-weight: bold;">
         <th class="tg-xwyw"></th>
         <th class="tg-maf8" colspan="6">ABLeS Resources</th>
     </tr>
     </thead>
     <tbody>
-    <tr>
+    <tr style="font-weight: bold;">
         <td class="tg-ltol" rowspan="2"><span style="color:#FFF">Resource</span></td>
         <td class="tg-yn16" colspan="2">Reference Data</td>
         <td class="tg-yn16" colspan="2">Production Bioinformatics</td>
         <td class="tg-yn16" colspan="2">Software Accelerator</td>
     </tr>
-    <tr>
+    <tr style="font-weight: bold;">
         <td class="tg-4jry">NCI</td>
         <td class="tg-4jry">Pawsey</td>
         <td class="tg-4jry">NCI</td>
@@ -60,10 +60,10 @@ title: Resources available for ABLeS communities
         <td class="tg-xwyw" colspan="2">5 TB</td>
     </tr>
     <tr>
-        <td class="tg-hxuv">Default <br>service unites</td>
+        <td class="tg-hxuv">Default <br>service units</td>
         <td class="tg-xwyw" colspan="2">100 kSUs per Quarter</td>
         <td class="tg-xwyw" colspan="2">50 kSUs per Quarter</td>
-        <td class="tg-xwyw" colspan="2">10 kSUs per Quarte</td>
+        <td class="tg-xwyw" colspan="2">10 kSUs per Quarter</td>
     </tr>
     <tr>
         <td class="tg-hxuv">Time frame</td>

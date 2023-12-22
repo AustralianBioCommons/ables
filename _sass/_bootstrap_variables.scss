@@ -2,13 +2,46 @@
 
 /*-----Theme colors-----*/
 $primary:       #205a86;
-$secondary:     #5ac3b1;
+$secondary:     #8ea869;
 $light:         #f8f9fa;
 $blue:          #205a86;
 $dark:          #212529;
-
+$white:         #FFFFFF;
 /*-----Custom values for Bootstrap variables-----*/
 $link-decoration: none;
-$nav-link-color: $dark;
+//$nav-link-color: $dark;
 $nav-link-hover-color: $primary;
 $link-color: $blue;
+$navbar-dark-color: $white;
+$navbar-dark-hover-color: $white;
+$navbar-light-hover-color: $light;
+$link-color: #205a86;
+$nav-link-color: $white;
+$nav-link-hover-color: $light;
+
+/*
+
+$bioc-pink:#ed087c;
+$bioc-purple: #b21e8d;
+$bioc-blue: #205a86;
+$bioc-yellow: #f49f1d;
+$bioc-teal: #5ac3b1;
+$bioc-olive: #8ea869;
+$bioc-green: #2cb77c;
+
+$primary:       $bioc-blue;
+$secondary:     $bioc-green;
+$light:         #f8f9fa;
+$white:         #FFFFFF;
+$blue:          $bioc-blue;
+$dark:          #212529;
+
+$link-decoration: none;
+$navbar-dark-color: $white;
+$navbar-dark-hover-color: $white;
+$navbar-light-hover-color: $light;
+$link-color: $bioc-blue;
+$nav-link-color: $white;
+$nav-link-hover-color: $light;
+
+*/

@@ -6,13 +6,8 @@ subitems:
     url: /processes
   - title: Available resources
     url: /resources
-  - title: Projects
-    url: /communities
-    subitems:
-      - title: AusARG
-        url: /projects/ausARG
-      - title: Plant Pathogenes
-        url: /projects/plant-pathogenes
+  - title: Current projects
+    url: /projects
   - title: if89 repository
     url: /if89
   - title: Acknowledgements and authorship
