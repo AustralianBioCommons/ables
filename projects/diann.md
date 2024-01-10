@@ -1,14 +1,16 @@
 ---
-title: Development and Optimisation of DIA-NN
-contributors: [Ziad Al-Bkhetan, Johan Gustafsson]
-description: Development of a scalable DIA-NN workflow for the processing of scanningSWATH mass spectra.
+title: Development and optimisation of a DIA-NN workflow
+description: Development of a scalable DIA-NN workflow for the processing of scanning SWATH mass spectra.
 toc: false
 type: projects
 ---
 
-## Bioinfomatics leads
+## Bioinformatics leads
 
-Carsten Schmitz-Peiffer, Nathaniel Butterworth, and Cali Willet.
+- Cali Willet
+- Carsten Schmitz-Peiffer 
+- Nathaniel Butterworth
+
 
 ## Details
 
@@ -19,4 +21,7 @@ The workflow will enable rapid generation of unbiased quantitative data concerni
 We aspire to publish our studies in journals such as Cell Metabolism or Nature Communications. Data will be made freely available in a public database such as the ProteomeXchange Consortium.
 Mouse species will be investigated during this project.
 
-This is a new collaboration at Sydney University between the Precision Nutrition research group, School of Life and Environmental Sciences (CSP) and the Bioinformatics Group, Sydney Informatics Hub.
+This is a new collaboration at the University of Sydney between the Precision Nutrition research group, School of Life and Environmental Sciences (CSP) and the Bioinformatics Group, Sydney Informatics Hub.
+
+
+## [GitHub](https://github.com/Sydney-Informatics-Hub/Scalable-DIA-NN)

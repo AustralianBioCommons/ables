@@ -1,14 +1,14 @@
 ---
 title: Whole-genome structural variant profiling in heritable neuropathies
-contributors: [Ziad Al-Bkhetan, Johan Gustafsson]
 description: 
 toc: false
 type: projects
 ---
 
-## Bioinfomatics leads
+## Bioinformatics leads
 
-Georgina Samaha <georgina.samaha@sydney.edu.au>
+- Georgina Samaha <georgina.samaha@sydney.edu.au>
+
 
 ## Details
 

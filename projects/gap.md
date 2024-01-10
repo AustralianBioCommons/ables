@@ -1,14 +1,14 @@
 ---
 title: Genomics of Australian Plants (GAP)
-contributors: [Ziad Al-Bkhetan, Johan Gustafsson]
 description: Development of genomics resources to enhance our understanding of the evolution and conservation of the unique Australian flora
 toc: false
 type: projects
 ---
 
-## Bioinfomatics leads
+## Bioinformatics leads
 
-Theodore Allnutt <Theodore.Allnutt@rbg.vic.gov.au>
+- Theodore Allnutt <Theodore.Allnutt@rbg.vic.gov.au>
+
 
 ## Details
 
