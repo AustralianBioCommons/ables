@@ -16,14 +16,14 @@ Johan Gustafsson:
     email: johan@biocommons.org.au
     orcid: 0000-0002-2977-5032
     role: Engagement
-    affiliation: Australian BioCommons / University of Melbourne
+    affiliation: Australian BioCommons, University of Melbourne
 
 Ziad Al Bkhetan:
     git: ziadbkh
     email: ziad@biocommons.org.au
     orcid: 0000-0002-4032-5331
     role: Technical/Engagement
-    affiliation: Australian BioCommons / University of Melbourne
+    affiliation: Australian BioCommons, University of Melbourne
 
 Hardip Patel:
     git: hp2048
@@ -37,21 +37,21 @@ J King Chang:
     email: joykchang@hotmail.com
     orcid: 
     role: if89 Contributor
-    affiliation: School of Biotechnology and Biomolecular Science, Faculty of Science, UNSW Sydney
+    affiliation: School of Biotechnology and Biomolecular Science, Faculty of Science, UNSW, Sydney
 
 Dale Roberts:
     git: dsroberts
     email: dsroberts@unimelb.edu.au
     orcid: 0000-0003-3952-6344
     role: if89 Contributor
-    affiliation: NCI (at the time of this work), ARC Centre of Excellence for Climate Extremes
+    affiliation: National Computational Infrastructure (NCI) (at the time of this work), ARC Centre of Excellence for Climate Extremes
 
 Andrey Bliznyuk:
     git: 
     email: Andrey.Bliznyuk@anu.edu.au
     orcid: 
     role: if89 Contributor
-    affiliation: NCI
+    affiliation: National Computational Infrastructure (NCI)
 
 Kyle Drover:
     git:  dorkylever
@@ -73,4 +73,4 @@ Javed Shaikh:
     email: javed.shaikh@anu.edu.au 
     orcid: 
     role: if89 Contributor
-    affiliation: NCI/ANU
+    affiliation: National Computational Infrastructure (NCI), Australian National University (ANU)

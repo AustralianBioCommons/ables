@@ -2,15 +2,15 @@
 subitems:
   - title: Home
     url: /index
-  - title: ABLeS processes
+  - title: Getting started
     url: /processes
   - title: Available resources
     url: /resources
-  - title: Current projects
+  - title: Existing projects
     url: /projects
-  - title: if89 repository
+  - title: Shared software and reference data
     url: /if89
-  - title: Acknowledgements and authorship
+  - title: Acknowledging ABLeS
     url: /acknowledgements
   - title: Help and contact details
     url: /contact-us
