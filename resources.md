@@ -7,7 +7,8 @@ title: Resources available for ABLeS communities
 
 ABLes computational resources are allocated to each project quarterly and additional resources can be requested by the bioinformatics lead of the projects. 
 
-> **Note:** Additional resources can be requested [using this form](https://docs.google.com/forms/d/e/1FAIpQLSfzHJajEKTnGuYWb1gLRR2nlUExLIRM7qSGy_hhbiCKB3KX2Q/viewform?usp=sf_link)
+{% include callout.html type="note" content="Additional resources can be requested [using this form](https://docs.google.com/forms/d/e/1FAIpQLSfzHJajEKTnGuYWb1gLRR2nlUExLIRM7qSGy_hhbiCKB3KX2Q/viewform?usp=sf_link)." %}
+
 
 ### Pawsey Supercomputing Centre
 
@@ -26,12 +27,14 @@ Details on:
 
 ABLeS projects are supported by NCI, Pawsey and ABLeS specialists to install, develop, optimise and deploy tools and workflows on ABLeS projects.
 
-If you are part of an ABLeS project, and need help, please submit a request through the **[GoogleForm](https://docs.google.com/forms/d/e/1FAIpQLSfzHJajEKTnGuYWb1gLRR2nlUExLIRM7qSGy_hhbiCKB3KX2Q/viewform?usp=sf_link)**.
+{% include callout.html type="note" content="If you are part of an ABLeS project, and need help, please submit a request through [this GoogleForm](https://docs.google.com/forms/d/e/1FAIpQLSfzHJajEKTnGuYWb1gLRR2nlUExLIRM7qSGy_hhbiCKB3KX2Q/viewform?usp=sf_link)." %}
 
 
 ## Available software and reference data
 
 ### Pawsey Supercomputing Centre
+
+#### Software
 
 There is a wide range of centrally installed software for Setonix users, including popular bioinformatics tools. More information about [software on Setonix](https://support.pawsey.org.au/documentation/display/US/Software+Stack).
 
