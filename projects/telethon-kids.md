@@ -1,14 +1,14 @@
 ---
-title: Telethon kids institute
-contributors: [Ziad Al-Bkhetan, Johan Gustafsson]
+title: Telethon Kids Institute
 description: Prenatal programming of respiratory epithelial progenitors and early postnatal respiratory disease.
 toc: false
 type: projects
 ---
 
-## Bioinfomatics leads
+## Bioinformatics leads
 
-Patricia Agudelo-romero <patricia.agudeloromero@telethonkids.org.au>
+- Patricia Agudelo-romero <patricia.agudeloromero@telethonkids.org.au>
+
 
 ## Details
 

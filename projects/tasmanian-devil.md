@@ -1,18 +1,18 @@
 ---
-title: Genomic anslysis of Tasmanian Devil
-contributors: [Ziad Al-Bkhetan, Johan Gustafsson]
+title: Genomic analysis of Tasmanian Devil
 description: The project will analyse Tasmanian Devil genome to shed light on causes of Tasmanian  Devil facial tumour disease (DFTD) disease. 
 toc: false
 type: projects
 ---
 
-## Bioinfomatics leads
+## Bioinformatics leads
 
-Ambikesh Jayal <ambi.jayal@canberra.edu.au>
+- Ambikesh Jayal <ambi.jayal@canberra.edu.au>
+
 
 ## Details
 
-Background and Aims: 
+### Background and Aims 
 
 The project deals with the characterisation of the subtelomeres in the Tasmanian devil (TD) which is the largest carnivore marsupial in the Australian Dasyuridae family. TD is listed as a threatened species due to two facial tumours (devil facial tumour 1 (DFT1) and devil facial tumour 2 (DFT2)). These tumours have resulted in about 90% reduction in the TD population. The exact cause of these facial tumours is yet unknown (McCallum et al., 2007); however, the DFT1 is believed to have originated from telomeres (the end cap of linear chromosomes that protects it from degradation and end-to-end fusion) on one homologue of chromosomes 1 and X (Taylor et al., 2017).
 
@@ -22,12 +22,12 @@ The subtelomere is the adjacent region to the telomere sequences; this region se
 
 The subtelomeres of only a few species have been characterised so far; this includes humans, budding yeast and some human parasites (Plasmodium falciparum and Trypanosoma brucei) (Louis et al., 2014). However, this region has never been investigated in marsupials previously. Therefore, with its high-quality assembled genome, the Tasmanian devil ((mSarHar1.11) (GenBank assembly: GCA_902635505.1)) genome offers unique opportunity to investigate and characterise the terminal subtelomeric region in any marsupial. Also, given the unique structure of the Tasmanian devil telomere and its link to the facial tumour disease, the main threat to this species' existence, there are other excellent reasons for investigating the Tasmanian devil subtelomeres.
 
-The aims of this project is to:
+### The aims of this project
 
-1. characterise the terminal and subtelomeric region of the Tasmanian devil chromosomes; this includes the characterisation of repeat sequences (e.g., transposable elements, simple repeats, telomeres and telomere-like sequences), genes, and segmental duplications.
+1. Characterise the terminal and subtelomeric region of the Tasmanian devil chromosomes; this includes the characterisation of repeat sequences (e.g., transposable elements, simple repeats, telomeres and telomere-like sequences), genes, and segmental duplications.
 
-2. to compare the conservation status of this genomic region with other species like humans and finally.
+2. Compare the conservation status of this genomic region with other species like humans and finally.
 
-3. to explore the subtelomere's role in regulating the Tasmanian devil's unique telomere and its facial tumours.
+3. Explore the subtelomere's role in regulating the Tasmanian devil's unique telomere and its facial tumours.
 
  

@@ -1,14 +1,14 @@
 ---
 title: Threatened Species Initiative
-contributors: [Ziad Al-Bkhetan, Johan Gustafsson]
 description: Bioinformatics analyses for the Threatened Species Initiative
 toc: false
 type: projects
 ---
 
-## Bioinfomatics leads
+## Bioinformatics leads
 
-Kate Farquharson <katherine.farquharson@sydney.edu.au> 
+- Kate Farquharson <katherine.farquharson@sydney.edu.au> 
+
 
 ## Details
 
