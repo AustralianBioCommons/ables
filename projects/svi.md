@@ -1,6 +1,6 @@
 ---
 title: St. Vincent’s Institute of Medical Research - Crismani Bioinformatics
-description: Bioinformatics analyses by Crismani Bioinformatics
+description: Bioinformatics analyses by Crismani Bioinformatics.
 toc: false
 type: projects
 ---
