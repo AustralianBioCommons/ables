@@ -1,6 +1,6 @@
 ---
 title: ZERO Childhood Cancer - transcriptomics
-description: Analysis of high-risk paediatric children enrolled in the zero childhood cancer program.
+description: Analysis of high-risk paediatric children enrolled in the Zero Childhood Cancer initiative.
 toc: false
 type: projects
 ---
