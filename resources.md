@@ -5,7 +5,7 @@ title: Resources available for ABLeS communities
 
 ## Computational resources
 
-ABLes computational resources are allocated to each project quarterly and additional resources can be requested by the bioinformatics lead of the projects. 
+ABLes computational resources are allocated to each project quarterly and additional resources can be requested by each project's bioinformatics lead. 
 
 {% include callout.html type="note" content="Additional resources can be requested [using this form](https://docs.google.com/forms/d/e/1FAIpQLSfzHJajEKTnGuYWb1gLRR2nlUExLIRM7qSGy_hhbiCKB3KX2Q/viewform?usp=sf_link)." %}
 
@@ -16,7 +16,7 @@ ABLeS includes 10 million service units (SUs) of compute capacity on [Setonix](h
 
 ### National Computational Infrastructure (NCI)
 
-ABLeS encompasses 16 million service units (SUs) of compute capacity and 500 TB of storage available per annum on the [Gadi supercomputer at the NCI](https://nci.org.au/our-systems/hpc-systems). These SUs can be utilised to run jobs on different nodes of GADI that are equipped with either CPUs or GPUs. 
+ABLeS encompasses 16 million SUs of compute capacity and 500 TB of storage available per annum on the [Gadi supercomputer at the NCI](https://nci.org.au/our-systems/hpc-systems). These SUs can be utilised to run jobs on different nodes of GADI that are equipped with either CPUs or GPUs. 
 
 Details on:
 - [Gadi HPC resources](https://nci.org.au/our-systems/hpc-systems) 
@@ -25,9 +25,9 @@ Details on:
 
 ## Specialist expertise
 
-ABLeS projects are supported by NCI, Pawsey and ABLeS specialists to install, develop, optimise and deploy tools and workflows on ABLeS projects.
+ABLeS projects are supported by NCI, Pawsey and ABLeS specialists to install, develop, optimise and deploy tools and workflows.
 
-{% include callout.html type="note" content="If you are part of an ABLeS project, and need help, please submit a request through [this GoogleForm](https://docs.google.com/forms/d/e/1FAIpQLSfzHJajEKTnGuYWb1gLRR2nlUExLIRM7qSGy_hhbiCKB3KX2Q/viewform?usp=sf_link)." %}
+{% include callout.html type="note" content="If you are part of an ABLeS project and need help, please submit a request through [this GoogleForm](https://docs.google.com/forms/d/e/1FAIpQLSfzHJajEKTnGuYWb1gLRR2nlUExLIRM7qSGy_hhbiCKB3KX2Q/viewform?usp=sf_link)." %}
 
 
 ## Available software and reference data
@@ -49,7 +49,7 @@ Popular bioinformatics [reference datasets](https://support.pawsey.org.au/docume
 
 #### Centrally supported software (`/apps`)
 
-Centrally supported software available through NCI can be viewed [here](https://opus.nci.org.au/display/Help/5.+Software+Applications)
+Centrally supported software available through NCI can be viewed [here](https://opus.nci.org.au/display/Help/5.+Software+Applications).
 
 #### Shared repository of tools and software
 
@@ -57,7 +57,7 @@ Users at NCI also have access to the `Australian BioCommons Tools and Workflows 
 
 Anyone from an NCI project is also invited to contribute to `if89`, and add more software installations that can be shared with others.
 
-Details are available **[here](/ables/if89/)**
+Details are available **[here](/ables/if89/)**.
 
 
 ## Resource summary
@@ -105,14 +105,14 @@ Details are available **[here](/ables/if89/)**
     <tr>
         <td class="tg-hxuv">Temporary<br>storage</td>
         <td class="tg-xwyw">5 TB</td>
-        <td class="tg-xwyw">1PB</td>
+        <td class="tg-xwyw">1 PB</td>
         <td class="tg-xwyw">5 TB</td>
-        <td class="tg-xwyw">1PB</td>
+        <td class="tg-xwyw">1 PB</td>
         <td class="tg-xwyw">5 TB</td>
-        <td class="tg-xwyw">1PB</td>
+        <td class="tg-xwyw">1 PB</td>
     </tr>
     <tr>
-        <td class="tg-hxuv">Project<br>Storage</td>
+        <td class="tg-hxuv">Project<br>storage</td>
         <td class="tg-xwyw" colspan="2">5 TB</td>
         <td class="tg-xwyw" colspan="2">5 TB</td>
         <td class="tg-xwyw" colspan="2">5 TB</td>
@@ -126,7 +126,7 @@ Details are available **[here](/ables/if89/)**
     <tr>
         <td class="tg-hxuv">Time frame</td>
         <td class="tg-xwyw" colspan="4">Ongoing</td>
-        <td class="tg-xwyw" colspan="2">6-12 Months</td>
+        <td class="tg-xwyw" colspan="2">6-12 months</td>
     </tr>
     <tr>
         <td class="tg-j13t">Specialist<br>support</td>
