@@ -41,7 +41,7 @@ More details are available in the ABLeS publication:
 
 ABLeS reference data allocations support research groups and consortia within the life sciences to access the dedicated compute capacity required to efficiently construct reference data.
 
-### Production analysis
+### Production bioinformatics
 
 Institutes, consortia and core facilities are increasingly facing issues scaling their in-house compute and data infrastructure to the questions, sample sizes, and data set sizes they are addressing as part of their research programs. ABLeS production allocations support these groups to implement and run their computational workflow approaches for omics data analysis *at scale*.
 
