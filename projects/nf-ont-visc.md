@@ -1,5 +1,5 @@
 ---
-title: Development of an end-to-end nextflow ONT-based viral screening for plants
+title: Development of an end-to-end nextflow ONT-based viral screening for plants.
 description: 
 toc: false
 type: projects
