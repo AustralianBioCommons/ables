@@ -1,6 +1,6 @@
 ---
 title: Threatened Species Initiative
-description: Bioinformatics analyses for the Threatened Species Initiative
+description: Bioinformatics analyses for the Threatened Species Initiative.
 toc: false
 type: projects
 ---
