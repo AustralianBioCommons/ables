@@ -1,6 +1,6 @@
 ---
 title: Genomics of Australian Plants (GAP)
-description: Development of genomics resources to enhance our understanding of the evolution and conservation of the unique Australian flora
+description: Development of genomics resources to enhance our understanding of the evolution and conservation of the unique Australian flora.
 toc: false
 type: projects
 ---
