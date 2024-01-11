@@ -1,5 +1,5 @@
 ---
-title: Whole-genome structural variant profiling in heritable neuropathies
+title: Whole-genome structural variant profiling in heritable neuropathies.
 description: 
 toc: false
 type: projects
