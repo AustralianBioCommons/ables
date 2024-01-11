@@ -13,9 +13,9 @@ type: projects
 
 ## Details
 
-The [Australian Amphibian and Reptile Genomics Initiative (AusARG)](https://ausargenomics.com/) is a national collaborative project that will facilitate research using genomics approaches towards a more thorough understanding of evolution and conservation of Australia’s unique native Amphibians and Reptiles that are now under threat, through climate, disease or habitat modification.
+The [Australian Amphibian and Reptile Genomics Initiative (AusARG)](https://ausargenomics.com/) is a national collaborative project that will facilitate research using genomics approaches towards a more thorough understanding of evolution and conservation of Australia’s unique native amphibians and reptiles that are now under threat, through climate, disease or habitat modification.
 
-The mission of the Australian Amphibian and Reptile Genomics (AusARG) initiative is to build genomic resources to understand and protect Australia’s reptiles and amphibians.
+AusARG's mission is to build genomic resources to understand and protect Australia’s reptiles and amphibians.
 
 + Reference genomes
 + Phylogenomics
