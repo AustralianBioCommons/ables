@@ -1,6 +1,6 @@
 ---
 title: Australian Wine Research Institute
-description: Genetic diversity of Australian wine grapevine germplasm
+description: Genetic diversity of Australian wine grapevine germplasm.
 toc: false
 type: projects
 ---
