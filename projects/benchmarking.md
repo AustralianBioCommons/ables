@@ -1,6 +1,6 @@
 ---
 title: Benchmarking life science software on national and institutional HPC platforms.
-description: A benchmarking project across multiple research organisations
+description: A benchmarking project across multiple research organisations.
 toc: false
 type: projects
 ---
@@ -12,7 +12,7 @@ Johan Gustafsson <johan@biocommons.org.au>, Ziad Al Bkhetan <ziad@biocommons.org
 
 ## Details
 
-The goal of this project is to benchmark software that is commonly used throughout life sciences on Australia’s national HPC facilities. The software benchmarked will span research areas such as bioinformatics and molecular dynamics, as well as general software that is commonly used like [`NumPy`](https://bio.tools/numpy) and [`R`](https://bio.tools/r). The benchmarks also aim to test a variety of workloads, such as machine learning & artificial intelligence (ML/AI), traditional HPC (on a small to moderate scale), I/O dependent software (latency and bandwidth), and high throughput workloads.
+The goal of this project is to benchmark software that is commonly used throughout the life sciences on Australia’s national HPC facilities. The software benchmarked will span research areas such as bioinformatics and molecular dynamics, as well as general software that is commonly used such as [`NumPy`](https://bio.tools/numpy) and [`R`](https://bio.tools/r). The benchmarks also aim to test a variety of workloads, such as machine learning & artificial intelligence (ML/AI), traditional HPC (on a small to moderate scale), I/O dependent software (latency and bandwidth), and high throughput workloads.
 
 Life science researchers will benefit from this as it will:
 
