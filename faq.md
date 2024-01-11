@@ -67,7 +67,7 @@ toc: false
                 </h2>
                 <div id="collapse-faq-4" class="accordion-collapse collapse" aria-labelledby="heading-faq-4" data-bs-parent="#accordion-faq">
                   <div class="accordion-body">
-                   Please see <a href="/ables/acknowledgements">the resources page</a> for details on how to acknowledge and cite ABLeS, as well as information about the ABLeS program authorship policy.
+                   Please see <a href="/ables/acknowledgements">the acknowledgements page</a> for details on how to acknowledge and cite ABLeS, as well as information about the ABLeS program authorship policy.
                   </div>
                 </div>
               </div>
