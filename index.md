@@ -18,7 +18,7 @@ toc: false
 
 The ABLeS (Australian BioCommons Leadership Share) program was established in April 2021 to more readily support data-driven bioinformatics. This effort is supported by the [Australian BioCommons](https://www.biocommons.org.au/) in partnership with Bioplatforms Australia, the [National Computational Infrastructure (NCI, Canberra)](https://nci.org.au/), and the [Pawsey Supercomputing Research Centre (Pawsey, Perth)](https://pawsey.org.au/). 
 
-ABLeS targets established participants and participants that are focused on a common research theme, create reference data and/or software, and have the ability to plan and prioritise a computational research program.
+ABLeS targets established groups and communities that are focused on a common research theme, create reference data and/or software, and have the ability to plan and prioritise a computational research program.
 
 ABLeS projects broadly align with the following three principles:
 
@@ -28,7 +28,7 @@ ABLeS projects broadly align with the following three principles:
 
 3. Resources are planned and approached with a level of care appropriate to their status as limited and consumable resources.
 
-The support available includes access to computational and data infrastructure, specialist expertise, support to adopt best practices and share outputs effectively, and a participant led and shared repository of bioinformatics software (i.e. tools and workflows).
+The support available includes access to computational and data infrastructure, specialist expertise, support to adopt best practices and share outputs effectively, and a community led and shared repository of bioinformatics software (i.e. tools and workflows).
 
 More details are available in the ABLeS publication:
 
@@ -39,11 +39,11 @@ More details are available in the ABLeS publication:
 
 ### Creation of reference data assets
 
-ABLeS reference data allocations support research participants and consortia within the life sciences to access the dedicated compute capacity required to efficiently construct reference data.
+ABLeS reference data allocations support research groups and consortia within the life sciences to access the dedicated compute capacity required to efficiently construct reference data.
 
 ### Production bioinformatics
 
-Institutes, consortia and core facilities are increasingly facing issues scaling their in-house compute and data infrastructure to the questions, sample sizes, and data set sizes they are addressing as part of their research programs. ABLeS production allocations support these participants to implement and run their computational workflow approaches for omics data analysis *at scale*.
+Institutes, consortia and core facilities are increasingly facing issues scaling their in-house compute and data infrastructure to the questions, sample sizes, and data set sizes they are addressing as part of their research programs. ABLeS production allocations support these groups to implement and run their computational workflow approaches for omics data analysis *at scale*.
 
 ### Software accelerator
 

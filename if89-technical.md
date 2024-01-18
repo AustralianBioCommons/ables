@@ -6,7 +6,7 @@ title: ABLeS - Application Installation Guidelines
 
 The following documentation describes the installation procedures for bioinformatics software at the National Computational Infrastructure (NCI project allocation if89) enabled by the Australian BioCommons and included in Tools and Workflows repository.
 
-The maintenance process is purposely standardised using scripts to allow for sustainability. These scripts were developed to be similar to the NCI software management scripts to enable transferability. NCI staff, AusARG bioinformatics participant, and bioinformatics/computational biology leads for the Australian BioCommons Leadership Share (ABLeS) program contributed to these scripts.
+The maintenance process is purposely standardised using scripts to allow for sustainability. These scripts were developed to be similar to the NCI software management scripts to enable transferability. NCI staff, AusARG bioinformatics community, and bioinformatics/computational biology leads for the Australian BioCommons Leadership Share (ABLeS) program contributed to these scripts.
 
 >* All software on if89 should be installed into `/g/data/if89/apps directory`. 
 >* One directory for each software, then a subdirectory for each version of this software. 
@@ -22,7 +22,7 @@ This script should be added to the repository of all scripts and patches, which 
 In order to contribute to `if89`, you need to satisfy the following conditions:
 
 1. **Obtain access to the `if89` project**: Everyone can request access to `if89` if they have a user account on GADI. Simply, request to join at this [link](https://my.nci.org.au/mancini/project/if89).
-2. **Request to join the writer participant under `if89`**: request to join at this [link](https://my.nci.org.au/mancini/project/if89_w)
+2. **Request to join the writer group under `if89`**: request to join at this [link](https://my.nci.org.au/mancini/project/if89_w)
 3. **Request access to `ables-software-installations` repository**: The repository link is [https://git.nci.org.au/dsr900/ables-software-installations](https://git.nci.org.au/dsr900/ables-software-installations). Access is managed through your Gadi username and password.
    
    If you do not have access, please contact one of the following repository maintainers and they will add you:

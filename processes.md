@@ -37,7 +37,7 @@ If you are new to the ABLeS program, please read the processes below to get star
 <tbody>
   <tr>
     <td class="tg-baqh">Data centric outcomes</td>
-    <td class="tg-0lax">Production of reference and derived data assets that will be published to enable use / reuse by others outside the participant.</td>
+    <td class="tg-0lax">Production of reference and derived data assets that will be published to enable use / reuse by others outside the group.</td>
     <td class="tg-ibb5">Yes</td>
     <td class="tg-ibb5">Yes</td>
     <td class="tg-baqh"></td>
@@ -51,14 +51,14 @@ If you are new to the ABLeS program, please read the processes below to get star
   </tr>
   <tr>
     <td class="tg-baqh">Software centric outcomes</td>
-    <td class="tg-0lax">Creation, development, installation, testing and/or optimisation of software that will be made available for use / reuse by others in the life sciences participant.</td>
+    <td class="tg-0lax">Creation, development, installation, testing and/or optimisation of software that will be made available for use / reuse by others in the life sciences community.</td>
     <td class="tg-baqh"></td>
     <td class="tg-baqh"></td>
     <td class="tg-ibb5">Yes</td>
   </tr>
   <tr>
     <td class="tg-baqh">Common research theme</td>
-    <td class="tg-0lax">A defined cross-institutional collaboration, project, participant, consortium, or some other collaborative construct, that is focused on a common research theme.</td>
+    <td class="tg-0lax">A defined cross-institutional collaboration, project, community, consortium, or some other collaborative construct, that is focused on a common research theme.</td>
     <td class="tg-ibb5" colspan="3">Yes</td>
   </tr>
   <tr>
@@ -73,7 +73,7 @@ If you are new to the ABLeS program, please read the processes below to get star
   </tr>
   <tr>
     <td class="tg-baqh">Sharing</td>
-    <td class="tg-0lax">Appropriate mechanisms are used to share outputs that support and assist other participants, with examples provided <a href="https://doi.org/10.5281/zenodo.10139651">in the ABLeS publication</a>. Outputs include software, methods, training, resource usage and quality assessments for derived reference data sets, submissions to data international repositories and research publications.</td>
+    <td class="tg-0lax">Appropriate mechanisms are used to share outputs that support and assist other groups, with examples provided <a href="https://doi.org/10.5281/zenodo.10139651">in the ABLeS publication</a>. Outputs include software, methods, training, resource usage and quality assessments for derived reference data sets, submissions to data international repositories and research publications.</td>
     <td class="tg-ibb5" colspan="3">Yes</td>
   </tr>
 </tbody>
@@ -91,7 +91,7 @@ ABLeS users will follow one of the paths illustrated below as per the three sche
 
 ## ABLeS process for different stages of a project's lifetime
 
-The Australian BioCommons and the bioinformatics leads for each participant have different roles during ABLeS project initiation, operation and close. 
+The Australian BioCommons and the bioinformatics leads for each group have different roles during ABLeS project initiation, operation and close. 
 
 ABLeS projects are led and maintained by their users with the support of the ABLeS team to facilitate access to ABLeS resources.
 
@@ -107,13 +107,13 @@ ABLeS projects are led and maintained by their users with the support of the ABL
           <b>Project bioinformatics lead's role:</b>
           <ol>
             <li>Familarise themselves with ABLeS schemes, expectations, and responsibilities.</li>
-            <li>Submit a project plan that contains the details of the project (<a href="https://docs.google.com/forms/d/e/1FAIpQLSf9UVEuhbAsbvVzTEvvE9mLoietryb7e3sDmv74Xhl-1YWj2Q/viewform?usp=sf_link">link</a>). The participant’s steering committee (or bioinformatics leads) should approve the plan.</li>
+            <li>Submit a project plan that contains the details of the project (<a href="https://docs.google.com/forms/d/e/1FAIpQLSf9UVEuhbAsbvVzTEvvE9mLoietryb7e3sDmv74Xhl-1YWj2Q/viewform?usp=sf_link">link</a>). The community’s steering committee (or bioinformatics leads) should approve the plan.</li>
             <li>Identify known challenges that BioCommons, NCI, or Pawsey may be able to address and / or support as part of ABLeS. You can use the <a href="https://docs.google.com/forms/d/e/1FAIpQLSere1PvgPEuJkpvQUk1-11C88IAeQNQKEUFc-Qgbn5GgKK2jw/viewform?usp=sf_link">GoogleForm</a> to let us know about these challenges.</li>
           </ol> 
           <b>Australian BioCommons' role:</b>
           <ol>
-            <li>Create of a project allocation (at NCI or Pawsey) for a participant</li>
-            <li>Invite participant bioinformatics leads to a project allocation as Chief Investigators</li>
+            <li>Create of a project allocation (at NCI or Pawsey) for a group</li>
+            <li>Invite the group bioinformatics leads to a project allocation as Chief Investigators</li>
             <li>Provide information on how to utilise ABLeS resources and contribute to the shared tool and software repository.</li>
             <li>Manage the resources available to the ABLeS programme across all active projects.</li>
           </ol>
@@ -131,12 +131,12 @@ ABLeS projects are led and maintained by their users with the support of the ABL
           <b>Project bioinformatics lead's role:</b>
           <ol>
             <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfzHJajEKTnGuYWb1gLRR2nlUExLIRM7qSGy_hhbiCKB3KX2Q/viewform?usp=sf_link">Request additional resources</a> when the project needs more resources than are available. Each project gets <a href="ables/resources">default resources</a> automatically at the beginning of each quarter without the need to request them.</li>
-            <li>Attend a quarterly meeting with BioCommons to discuss and report the outcomes of the participant work (data, methods, publications etc.) in the previous quarter.</li>
+            <li>Attend a quarterly meeting with BioCommons to discuss and report the outcomes of the project (data, methods, publications etc.) in the previous quarter.</li>
             <li>Manage the resources provided by ABLeS including:
               <ul>
                 <li>Adding members to the project(s).</li>
                 <li>Educating / onboarding new project members.</li>
-                <li>Contributing and / or coordinating contributions to the shared tool and software repository (if89), as well as encouraging participant contribution.</li>             
+                <li>Contributing and / or coordinating contributions to the shared tool and software repository (if89), as well as encouraging community contribution.</li>             
               </ul>
             </li>
           </ol>
@@ -188,9 +188,9 @@ ABLeS projects are led and maintained by their users with the support of the ABL
 |Principle| Description|
 |-------------|------------------------------------------------------------------|
 |**Project leadership**| A project lead is responsible for all use of resources provided, which will need to adhere to relevant facility processes and policies. The lead will also monitor and manage reasonable usage of their project computational infrastructure allocations.|
-|**Group-level decision making**| A collaborative decision making mechanism to prioritise the bioinformatics work using relevant computational resources must exist. This can be a formalised steering committee, a working participant, or some other forum which is representative of the collaboration. Resources used must be agreed upon / in line with the participant’s decision making mechanism and align with participant priorities.|
-|**Group-level expertise**|The participant has expertise which will drive and execute its bioinformatics agenda. This expertise offers a strong collaboration link with the expertise and support available through ABLeS, NCI and Pawsey.|
-|**Collaboration & consultation**|ABLeS is collaborative and involves BioCommons, the research participant, and the computational facilities. It is also a standing item for discussion and forums play a strong role in managing the use of ABLeS: participants will thus engage with BioCommons in an open and collaborative manner, with regular meetups.|
+|**Group-level decision making**| A collaborative decision making mechanism to prioritise the bioinformatics work using relevant computational resources must exist. This can be a formalised steering committee, a working group, or some other forum which is representative of the collaboration. Resources used must be agreed upon / in line with the community’s decision making mechanism and align with community priorities.|
+|**Group-level expertise**|The community has expertise which will drive and execute its bioinformatics agenda. This expertise offers a strong collaboration link with the expertise and support available through ABLeS, NCI and Pawsey.|
+|**Collaboration & consultation**|ABLeS is collaborative and involves BioCommons, the research community, and the computational facilities. It is also a standing item for discussion and forums play a strong role in managing the use of ABLeS: groups will thus engage with BioCommons in an open and collaborative manner, with regular meetups.|
 |**Follow compute facility access policies**|All users must abide by the relevant access policies of Pawsey and NCI. [NCI Terms and Conditions of Access](https://nci.org.au/users/nci-terms-and-conditions-access); [NCI Data Collections Management](https://opus.nci.org.au/display/NDP/NCI+Data+Collections+and+Publishing); and [Pawsey Conditions of Access](https://support.pawsey.org.au/documentation/display/US/Conditions+of+Use).|
 |**Time frame / duration of allocations**|Each project is reviewed at the 6 month mark, to ensure resources are being used as efficiently as practical and so challenges can be identified / addressed by the ABLeS team. Reference data and production projects are ongoing by definition, while software accelerator projects need to be renewed at 6 months if the work originally described for the project has not been completed.|
 
