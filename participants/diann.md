@@ -11,7 +11,9 @@ Development and optimisation of a DIA-NN workflow
 
 ## Collaborators and funding
 
-This is a new collaboration at the University of Sydney between the Precision Nutrition research participant, School of Life and Environmental Sciences (CSP) and the Bioinformatics Group, Sydney Informatics Hub.
+- Precision Nutrition research group, [School of Life and Environmental Sciences (CSP)](https://www.sydney.edu.au/science/schools/school-of-life-and-environmental-sciences.html), University of Sydney
+
+- Bioinformatics Group, [Sydney Informatics Hub](https://www.sydney.edu.au/research/facilities/sydney-informatics-hub.html), University of Sydney
 
 ## Contact(s)
 
