@@ -25,7 +25,7 @@ toc: false
     </div>
 </div>
 
-## ABLeS projects
+
 
 {% include section-navigation-tiles.html type="ABLeS Participant" search=true col="4" %}
 
