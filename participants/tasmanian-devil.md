@@ -2,17 +2,22 @@
 title: Genomic analysis of Tasmanian Devil
 description: The project will analyse Tasmanian Devil genome to shed light on causes of Tasmanian  Devil facial tumour disease (DFTD) disease. 
 toc: false
-type: projects
+type: ABLeS Participant
 ---
 
-## Bioinformatics leads
+## Project title
+
+Genomic analysis of Tasmanian Devil
+
+## Collaborators and funding
+
+
+## Contact(s)
 
 - Ambikesh Jayal <ambi.jayal@canberra.edu.au>
 
 
-## Details
-
-### Background and Aims 
+## Project description and aims
 
 The project deals with the characterisation of the subtelomeres in the Tasmanian devil (TD) which is the largest carnivore marsupial in the Australian Dasyuridae family. TD is listed as a threatened species due to two facial tumours (devil facial tumour 1 (DFT1) and devil facial tumour 2 (DFT2)). These tumours have resulted in about 90% reduction in the TD population. The exact cause of these facial tumours is yet unknown (McCallum et al., 2007); however, the DFT1 is believed to have originated from telomeres (the end cap of linear chromosomes that protects it from degradation and end-to-end fusion) on one homologue of chromosomes 1 and X (Taylor et al., 2017).
 
@@ -30,4 +35,14 @@ The subtelomeres of only a few species have been characterised so far; this incl
 
 3. Explore the subtelomere's role in regulating the Tasmanian devil's unique telomere and its facial tumours.
 
- 
+
+
+## How is ABLeS supporting this work?
+
+This work is supported through the production bioinformatics scheme provided by ABLeS. The supports includes 1 TB temporary storage on scratch, 0.5 TB permenant storage  and 50 KSUs per quarter.
+
+## Expected outputs enabled by participation in ABLeS
+
+<br/>
+
+> *These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above.*

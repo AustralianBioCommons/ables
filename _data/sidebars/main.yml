@@ -6,8 +6,8 @@ subitems:
     url: /processes
   - title: Available resources
     url: /resources
-  - title: Existing projects
-    url: /projects
+  - title: ABLeS Participants
+    url: /participants
   - title: Shared software and reference data
     url: /if89
   - title: Acknowledging ABLeS

@@ -2,15 +2,21 @@
 title: Parabricks and GATK benchmarking
 description: Benchmarking for NVIDIA Parabricks and GATK RNA-Seq variant calling workflows.
 toc: false
-type: projects
+type: ABLeS Participant
 ---
 
-## Bioinformatics leads
+## Project title
 
-- Locedie Mansueto <l.mansueto.10@student.scu.edu.au >
+Parabricks and GATK benchmarking
+
+## Collaborators and funding
 
 
-## Details
+## Contact(s)
+
+- Locedie Mansueto <l.mansueto.10@student.scu.edu.au>
+
+## Project description and aims
 
 This project is for an updated analysis for NVIDIA Parabricks and GATK benchmarking for RNA-Seq, based on NVIDIA recommendations.
 
@@ -23,3 +29,14 @@ The number of discovered variants, service unit (SU) usage and runtime will be c
 This is a follow-up run based on the recommendation from NVIDIA to use specific versions (`Parabricks 3.8`, `GATK v4.2.0.0`, `STAR v2.7.2`) for compatibility. 
 
 The test data are from 21 RNA-Seq Cannabis samples and cs10 genome assembly.
+
+
+## How is ABLeS supporting this work?
+
+This work is supported through Software accelerator scheme provided by ABLeS. The support includes 2 TB long term storage, 5 TB temoprary storage on scratch and 20 KSUs per quarter.
+
+## Expected outputs enabled by participation in ABLeS
+
+<br/>
+
+> *These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above.*

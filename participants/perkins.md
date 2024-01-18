@@ -2,16 +2,24 @@
 title: Rare Disease Genetics and Functional Genomics 
 description: Workflow consolidation, testing and implementation for Rare Disease Genetics and Functional Genomics managed by the Harry Perkins Institute of Medical Research.
 toc: false
-type: projects
+type: ABLeS Participant
 ---
 
-## Bioinformatics leads
+## Project title
+
+Rare Disease Genetics and Functional Genomics 
+
+## Collaborators and funding
+
+
+## Contact(s)
 
 - Gina Ravenscroft <gina.ravenscroft@perkins.uwa.edu.au>
 - Mridul Johari <mridul.johari@uwa.edu.au>
 
 
-## Details
+
+## Project description and aims
 
 We are analysing DNA and RNA sequencing data from rare disease patients to identify genomic variants that may be contributing to disease. This first requires the processing of the raw sequencing read (FASTQ) files to file formats that are compatibile with variant calling (BAM and VCF). 
 
@@ -42,3 +50,15 @@ The general workflows/analyses for this project are as follows:
 4. RNA-seq data processing using [nfcore/rnaseq](https://github.com/nf-core/rnaseq) 
 5. Detecting aberrant splicing and expression outliers in RNAseq data using the [Detection of RNA Outliers Pipeline (DROP)](https://gagneurlab-drop.readthedocs.io/en/latest/)
 6. Model protein structures using [AlphaFold](https://bio.tools/alphafold_2)
+
+
+## How is ABLeS supporting this work?
+
+This work is supported through Production bioinformatics scheme provided by ABLeS. The supports includes unlimited temporary storage on scratch, 1 TB permenant storage  and 50 KSUs per quarter.
+
+
+## Expected outputs enabled by participation in ABLeS
+
+<br/>
+
+> *These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above.*

@@ -2,15 +2,21 @@
 title: Development of an end-to-end nextflow ONT-based viral screening for plants.
 description: 
 toc: false
-type: projects
+type: ABLeS Participant
 ---
 
-## Bioinformatics leads
+## Project title
+
+Development of an end-to-end nextflow ONT-based viral screening for plants.
+
+## Collaborators and funding
+
+
+## Contact(s)
 
 - Magdalena Antczak <magdalena.antczak@qcif.edu.au>
 
-
-## Details
+## Project description and aims
 
 This project is funded by Queensland University of Technology (QUT) and the Australian BioCommons. 
 
@@ -22,3 +28,13 @@ Objectives:
 
 - Prepare a hands-on training user guide for the upskilling of end users and make the resource available through appropriate platforms.
 
+
+## How is ABLeS supporting this work?
+
+This work is supported through the software accelerator scheme provided by ABLeS. The support includes 0.5 TB long term storage, 1 TB temoprary storage on scratch and 10 KSUs per quarter.
+
+## Expected outputs enabled by participation in ABLeS
+
+<br/>
+
+> *These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above.*

@@ -1,5 +1,5 @@
 ---
-title: ABLeS projects
+title: ABLeS Participants
 toc: false
 ---
 
@@ -27,5 +27,5 @@ toc: false
 
 ## ABLeS projects
 
-{% include section-navigation-tiles.html type="projects" search=true col="4" %}
+{% include section-navigation-tiles.html type="ABLeS Participant" search=true col="4" %}
 

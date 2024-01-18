@@ -1,5 +1,5 @@
 ---
-title: Resources available for ABLeS communities
+title: Resources available for ABLeS participants
 ---
 
 
