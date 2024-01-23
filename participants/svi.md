@@ -6,10 +6,6 @@ type: ABLeS Participant
 ---
 
 
-## Project title
-
-Crismani Bioinformatics at St. Vincent’s Institute of Medical Research
-
 ## Collaborators and funding
 
 

@@ -5,10 +5,6 @@ toc: false
 type: ABLeS Participant
 ---
 
-## Project title
-
-Parabricks and GATK benchmarking
-
 ## Collaborators and funding
 
 

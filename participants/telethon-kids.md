@@ -5,8 +5,6 @@ toc: false
 type: ABLeS Participant
 ---
 
-## Project title
-
 ## Collaborators and funding
 
 Telethon Kids Institute

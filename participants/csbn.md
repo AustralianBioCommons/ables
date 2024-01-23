@@ -5,10 +5,6 @@ toc: false
 type: ABLeS Participant
 ---
 
-## Project title
-
-Computational Structural Biology Node
-
 ## Collaborators and funding
 
 

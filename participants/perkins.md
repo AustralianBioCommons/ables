@@ -5,10 +5,6 @@ toc: false
 type: ABLeS Participant
 ---
 
-## Project title
-
-Rare Disease Genetics and Functional Genomics 
-
 ## Collaborators and funding
 
 

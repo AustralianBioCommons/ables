@@ -5,10 +5,6 @@ toc: false
 type: ABLeS Participant
 ---
 
-## Project title
-
-Janis development
-
 ## Collaborators and funding
 
 

@@ -5,10 +5,6 @@ toc: false
 type: ABLeS Participant
 ---
 
-## Project title
-
-Transcriptomics analysis for ZERO Childhood Cancer
-
 ## Collaborators and funding
 
 

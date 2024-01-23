@@ -1,7 +1,16 @@
 # see https://github.com/ELIXIR-Belgium/elixir-toolkit-theme
+copyright: 'This site uses Cookies. We use cookies to help the website run effectively. To find out more, read our [Privacy](https://www.biocommons.org.au/privacy) and [Cookies](https://www.biocommons.org.au/cookies) statements.'
+extra_line: ABLeS forms part of the national Australian BioCommons infrastructure and is subject to the Australian BioCommons [Code of Conduct](https://doi.org/10.5281/zenodo.4276854) and [Privacy Policy](https://www.biocommons.org.au/privacy).
 columns:
   - type: image
     image_width: 120px
     width: 3
     src: 'assets/img/Australian-Biocommons-Logo-Horizontal-RGB.png'
     alt: Australian BioCommons logo
+  - type: text
+    width: 3
+    children: 
+      - url_text: Contributors
+        url: /contributors
+      - url_text: Getting started
+        url: /getting_started

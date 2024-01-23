@@ -5,10 +5,6 @@ toc: false
 type: ABLeS Participant
 ---
 
-## Project title
-
-Development of an end-to-end nextflow ONT-based viral screening for plants.
-
 ## Collaborators and funding
 
 

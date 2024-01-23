@@ -5,10 +5,6 @@ toc: false
 type: ABLeS Participant
 ---
 
-## Project title
-
-Whole-genome structural variant profiling in heritable neuropathies.
-
 ## Collaborators and funding
 
 

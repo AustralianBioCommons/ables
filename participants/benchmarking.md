@@ -5,9 +5,6 @@ toc: false
 type: ABLeS Participant
 ---
 
-## Project title
-
-Benchmarking life science software on national and institutional HPC platforms.
 
 ## Collaborators and funding
 

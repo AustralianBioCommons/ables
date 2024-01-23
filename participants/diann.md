@@ -5,10 +5,6 @@ toc: false
 type: ABLeS Participant
 ---
 
-## Project title
-
-Development and optimisation of a DIA-NN workflow
-
 ## Collaborators and funding
 
 - Precision Nutrition research group, [School of Life and Environmental Sciences (CSP)](https://www.sydney.edu.au/science/schools/school-of-life-and-environmental-sciences.html), University of Sydney

@@ -52,10 +52,9 @@ Software accelerator allocations will directly support the further development, 
 
 ## Acknowledgements
 
-<p style="text-align: center;">
-<strong><em>ABLeS is co-funded by <a href="https://bioplatforms.com/biocommons/">Bioplatforms Australia</a> (enabled by <a href="https://www.dese.gov.au/ncris">NCRIS</a>), <a href="https://nci.org.au/">the National Computational Infrastructure (NCI)</a> and <a href="https://pawsey.org.au/">Pawsey Supercomputing Research Centre</a>.
+<strong><em>ABLeS is co-funded by <a href="https://bioplatforms.com/biocommons/">Bioplatforms Australia</a>, <a href="https://nci.org.au/">the National Computational Infrastructure (NCI)</a> and <a href="https://pawsey.org.au/">Pawsey Supercomputing Research Centre</a>. This program forms part of the national Australian BioCommons infrastructure. .
 </em></strong>
-</p>
+
 
 {% include affiliation-tiles-selection.html type="infrastructure" %}
 

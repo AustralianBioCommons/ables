@@ -6,10 +6,6 @@ type: ABLeS Participant
 ---
 
 
-## Project title
-
-Workspace for the Australian Amphibian and Reptile Genomics (AusARG)
-
 ## Collaborators and funding
 
 

@@ -1,33 +1,31 @@
 ---
-title: Workspace for Plant Pathogen Initiative
-description: 
+title: Workspace for Plant Pathogen Omics Initiative
+description: Investigate plant pathogen genomics, population genetics, virulence evolution, fungicide resistance evolution, and diagnostics
 toc: false
 type: ABLeS Participant
 ---
 
-## Project title
-
-Workspace for Plant Pathogen Initiative
-
 ## Collaborators and funding
 
+The Bioplatforms Australia-supported Plant Pathogen Omics Initiative will generate high
+quality molecular reference data for plant pathogens in Australia. This data will be developed
+through collaboration with the national plant pathogen community.
 
 ## Contact(s)
 
-- Benjamin Schwessinger <benjamin.schwessinger@anu.edu.au>
-
-
+- Bioinformatics Lead: Dr Benjamin Schwessinger <benjamin.schwessinger@anu.edu.au>
+- Project Manager: Dr Mabel Lum <mlum@bioplatforms.com>
 
 ## Project description and aims
 
-This project aims to investigate plant pathogen genomics, population genetics, virulence evolution, fungicide resistance evolution, and diagnostics.
+The Bioplatforms-supported Plant Pathogen Omics Initiative will generate high quality molecular reference data for plant pathogens in Australia. This data will be developed through collaboration with the national plant pathogen community and will be used as a foundational data asset to support:
 
-Methods:
+- Fundamental research and development in plant protection (e.g., understanding emergence
+and evolution of pathogens in crop systems, resolving taxonomy and race structure,
+informing biocide development, etc.); and
 
-- Genome assembly, 
-- Annotation, 
-- Population genetics, and 
-- Variation analysis
+- An effective national biosecurity surveillance system (e.g., incursion detection, rapid
+diagnostics tests, etc.)
 
 
 ## How is ABLeS supporting this work?
@@ -41,7 +39,7 @@ This work is supported through the reference data asset creation scheme provided
 + Publications, and 
 + Policy documents.
 
-Raw data and genomes under embargo will be stored on the Bioplatforms Australia data portal. At the time of publication, data will be at NCBI / SRA for long term storage.
+Raw data and genomes under embargo will be stored on the Bioplatforms Australia Data Portal. At the time of publication, data will be at NCBI / SRA for long term storage.
 
 
 <br/>

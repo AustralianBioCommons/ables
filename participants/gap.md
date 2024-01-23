@@ -1,22 +1,26 @@
 ---
-title: Workspace for Genomics of Australian Plants (GAP)
+title: Workspace for Genomics for Australian Plants (GAP)
 description: Development of genomics resources to enhance our understanding of the evolution and conservation of the unique Australian flora.
 toc: false
 type: ABLeS Participant
 ---
 
-## Project title
-
-Workspace for Genomics of Australian Plants (GAP)
-
 
 ## Collaborators and funding
 
+The Genomics for Australian Plants Framework Initiative was initiated by Bioplatforms in partnership
+with researchers from the Australian State and National Herbaria and Botanic Gardens.
+
+The Initiative is supported by funding from Bioplatforms Australia (enabled by NCRIS), the Ian Potter Foundation, Royal Botanic Gardens Foundation (Victoria), Royal Botanic Gardens Victoria, the Royal Botanic Gardens and Domain Trust, the Council of Heads of Australasian Herbaria, CSIRO, Centre for
+Australian National Biodiversity Research and the Department of Biodiversity, Conservation and
+Attractions, Western Australia.
 
 ## Contact(s)
 
-- Theodore Allnutt <Theodore.Allnutt@rbg.vic.gov.au>
-
+- GAP Bioinformatics Lead: Dr Theodore Allnutt <Theodore.Allnutt@rbg.vic.gov.au>
+- GAP Phylogenomics Bioinformatics Lead: Dr Alexander Schmidt-Lebuhn <Alexander.S-L@csiro.au>
+- GAP Project Lead: Prof David Cantrill <David.Cantrill@rbg.vic.gov.au>
+- GAP Project Manager: Dr Mabel Lum <mlum@bioplatforms.com>
 
 ## Project description and aims
 

@@ -9,6 +9,7 @@ theme_variables:
   # biocommons blue
   theme_color: 205a86
   back_to_top: true
+  privacy_statement_url: 
   topnav:
     brand_logo: assets/img/Australian-Biocommons-Logo-Horizontal-RGB.png
     github: true

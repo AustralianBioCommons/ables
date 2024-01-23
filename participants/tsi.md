@@ -5,10 +5,6 @@ toc: false
 type: ABLeS Participant
 ---
 
-## Project title
-
-Workspace for Threatened Species Initiative
-
 ## Collaborators and funding
 
 

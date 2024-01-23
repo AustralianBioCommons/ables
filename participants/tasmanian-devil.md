@@ -5,10 +5,6 @@ toc: false
 type: ABLeS Participant
 ---
 
-## Project title
-
-Genomic analysis of Tasmanian Devil
-
 ## Collaborators and funding
 
 

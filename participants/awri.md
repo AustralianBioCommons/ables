@@ -5,10 +5,6 @@ toc: false
 type: ABLeS Participant
 ---
 
-## Project title
-
-Workspace for Australian Wine Research Institute
-
 ## Collaborators and funding
 
 
