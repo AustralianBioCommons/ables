@@ -1,5 +1,5 @@
 ---
-title: Development and optimisation of a DIA-NN workflow
+title: Development and optimisation of a DIA-NN workflow for scalable proteomics
 description: Development of a scalable DIA-NN workflow for the processing of scanning SWATH mass spectra.
 toc: false
 type: ABLeS Participant
@@ -13,19 +13,23 @@ type: ABLeS Participant
 
 ## Contact(s)
 
-- Cali Willet
-- Carsten Schmitz-Peiffer 
-- Nathaniel Butterworth
+- Georgie Samaha, Sydney Informatics Hub, University of Sydney <georgina.samaha@sydney.edu.au>.
+
+- Cali Willet, Sydney Informatics Hub, University of Sydney <cali.willet@sydney.edu.au>
+
+- Carsten Schmitz-Peiffer, Charles Perkins Center, University of Sydney <carsten.schmitzpeiffer@sydney.edu.au> 
+
 
 
 ## Project description and aims
 
-Scanning SWATH is a novel method that now enables rapid mass spectrometry of hundreds of peptide samples, but the ability to process the resulting spectra using DIA-NN software is much more demanding and extends beyond the capability of most mass spectrometry facilities. This workflow will be available to all future users.
+Scanning SWATH is a novel method that now enables rapid mass spectrometry of hundreds of peptide samples.DIA-NN is a popular tool for processing data-independent acquisition (DIA) proteomics experiments. 
+However, throughput of DIA-NN is currently limited and processing large cohorts requires days of computing time and batch processing. 
+We will develop a scalable bioinformatics workflow that optimises the execution of DIA-NN for execution on high-performance computing infrastructure and commercial cloud to meet the growing demand of high-throughput proteomics experiments
 
 The workflow will enable rapid generation of unbiased quantitative data concerning the proteins present in high numbers of complex tissue samples, obtained for example under different dietary or genetic conditions. This will enable further mechanistic investigation of the phenotypes observed.
 
 Mouse species will be investigated during this project.
-
 
 
 [GitHub account](https://github.com/Sydney-Informatics-Hub/Scalable-DIA-NN).
