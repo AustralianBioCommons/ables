@@ -13,12 +13,13 @@ type: ABLeS Participant
 
 ## Contact(s)
 
-- Georgie Samaha, Sydney Informatics Hub, University of Sydney <georgina.samaha@sydney.edu.au>.
-
 - Cali Willet, Sydney Informatics Hub, University of Sydney <cali.willet@sydney.edu.au>
 
 - Carsten Schmitz-Peiffer, Charles Perkins Center, University of Sydney <carsten.schmitzpeiffer@sydney.edu.au> 
 
+- Lewin Small, Charles Perkins Center, University of Sydney, <lewin.small@sydney.edu.au>
+
+- Georgie Samaha, Sydney Informatics Hub, University of Sydney <georgina.samaha@sydney.edu.au>
 
 
 ## Project description and aims
@@ -29,9 +30,6 @@ We will develop a scalable bioinformatics workflow that optimises the execution 
 
 The workflow will enable rapid generation of unbiased quantitative data concerning the proteins present in high numbers of complex tissue samples, obtained for example under different dietary or genetic conditions. This will enable further mechanistic investigation of the phenotypes observed.
 
-Mouse species will be investigated during this project.
-
-
 [GitHub account](https://github.com/Sydney-Informatics-Hub/Scalable-DIA-NN).
 
 ## How is ABLeS supporting this work?
@@ -40,7 +38,8 @@ This work is supported through the software accelerator scheme provided by ABLeS
 
 ## Expected outputs enabled by participation in ABLeS
 
-We aspire to publish our studies in journals such as Cell Metabolism or Nature Communications. Data will be made freely available in a public database such as the ProteomeXchange Consortium.
+A computational workflow for DIA-NN software-based processing of scanning SWATH data. The workflow development can be followed on [GitHub](https://github.com/Sydney-Informatics-Hub/Scalable-DIA-NN).
+
 
 <br/>
 
