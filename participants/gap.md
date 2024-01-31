@@ -1,5 +1,5 @@
 ---
-title: Workspace for Genomics for Australian Plants (GAP)
+title: Workspace for Genomics for Australian Plants (GAP) Framework Initiative
 description: Development of genomics resources to enhance our understanding of the evolution and conservation of the unique Australian flora.
 toc: false
 type: ABLeS Participant
@@ -29,18 +29,24 @@ Attractions, Western Australia.
 
 Broadly, the key aims of the Initiative are:
 
-+ Sequence and assemble representative Australian plant genomes across across the plant tree of life to enable better conservation, utilisation and understanding of Australia’s unique plant diversity;
++ Build genomic capacity across Australian Botanic Gardens and Herbaria to create networks collaborating in the collection, management, dissemination and
+application of genomic data for Australian plants;
 
-+ Build genomic capacity across Australian Botanic Gardens and Herbaria to create networks collaborating in the collection, management, dissemination and application of genomic data for Australian plants;
-
-+ Provide tools to enable genomic data to be used to identify and classify biodiversity at a range of scales and to use these tools to inform conservation management and enable better decision making. 
-
++ Provide tools to enable genomic data to be used to identify and classify biodiversity
+at a range of scales and to use these tools to inform conservation management and
+enable better decision making.
 
 ## How is ABLeS supporting this work?
 
-This work is supported through the reference data asset creation scheme provided by ABLeS. The support includes 33 TB long term storage, 1 TB temoprary storage on scratch and 100 KSUs per quarter.
+This work is supported through the reference data asset creation scheme provided by ABLeS. The support includes 33 TB long term storage, 1 TB temoprary storage on scratch and 400 KSUs per quarter.
 
 ## Expected outputs enabled by participation in ABLeS
+
+1. Approximately 2000 samples&#39; phylogenomic assemblies of Angio-353 genes. The
+assemblies, and alignments and trees generated from them will be used to publish the
+Australian Angiosperm Tree of Life (AAToL) and will contribute data to the Plants and Fungi Tree of Life (PAFToL - led by Kew Gardens, UK).
+
+2. Within-species phylogenomic assemblies of Angio-353 for the genera in the GAP Stage 2 phylogenomics project.
 
 <br/>
 
