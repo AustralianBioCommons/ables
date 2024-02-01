@@ -7,6 +7,10 @@ type: ABLeS Participant
 
 ## Collaborators and funding
 
+- Minderoo Foundation
+- The Medical Research Future Fund
+- The Australian Cancer Research Foundation
+- Luminesce Alliance – Innovation for Children’s Health
 
 ## Contact(s)
 
@@ -25,6 +29,12 @@ The analysis will be carried out using [MINTIE](https://github.com/Oshlack/MINTI
 This work is supported through the production bioinformatics scheme provided by ABLeS. The supports includes 1 TB temprary storage, 5 TB long term storage and 100 KSUs per quarter.
 
 ## Expected outputs enabled by participation in ABLeS
+
+A computational workflow that identifies cryptic structural rearrangements and alternate splicing events from bulk RNA-sequencing data that will be fully integrated with whole genome sequencing data.
+
+We will analyse >1000 high-risk paediatric cancer patients enrolled on the ZERO childhood cancer precision medicine program and fully characterise cryptic structural rearrangements and alternate splicing events from RNA sequencing patient to be used in a clinically relevant time frame to identify drives of the patient’s disease. In addition, we will also expand this workflow to characterise the splicing landscape and structural rearrangements in all children with cancer in Australia to identify potential novel drivers of disease and alterations with targetable therapy options.
+
+The data generated from this project will be made publicly available, with workflows published on Github.
 
 <br/>
 
