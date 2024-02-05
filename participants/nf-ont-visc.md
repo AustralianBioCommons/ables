@@ -1,29 +1,32 @@
 ---
-title: Development of an end-to-end nextflow ONT-based viral screening for plants.
-description: 
+title: Development of an ONTViSc (ONT-based Viral Screening for Biosecurity) pipeline.
+description: ONTViSc is a Nextflow-based end-to-end bioinformatics pipeline designed to help diagnostics of viruses and viroid pathogens for biosecurity.
 toc: false
 type: ABLeS Participant
 ---
 
 ## Collaborators and funding
-
+Department of Agriculture, Fisheries and Forestry https://www.agriculture.gov.au/
+Australian BioCommons https://www.biocommons.org.au/
+Queensland University of Technology https://www.qut.edu.au/
+Queensland Cyber Infrastructure Foundation https://www.qcif.edu.au/
 
 ## Contact(s)
 
-- Magdalena Antczak <magdalena.antczak@qcif.edu.au>
+Queensland University of Technology (QUT)
+- Marie-Emilie Gauthier gauthiem@qut.edu.au
+- Roberto Barrero roberto.barrero@qut.edu.au
+Queensland Cyber Infrastructure Foundation (QCIF)
+- Magdalena Antczak magdalena.antczak@qcif.edu.au
 
 ## Project description and aims
 
-This project is funded by Queensland University of Technology (QUT) and the Australian BioCommons. 
+Aims of the project:
+•	Design, develop, test, and optimise an end-to-end nf-ONTvisc workflow for the diagnosis of plant and insect viruses using ONT long read data collected via whole genome metagenomics sequencing and / or amplicon targeted sequencing.
+•	Assess the performance of nf-ONTvisc workflow for running on diverse platforms including on-prem HPC and national compute infrastructure facilities (Pawsey Supercomputing Centre and the National Computational Infrastructure (NCI)).
+•	Prepare a hands-on training user guide for the upskilling of end users and make the resource available through appropriate platforms.
 
-Objectives:
-
-- Design, develop, test, and optimise an end-to-end nf-ONTvisc workflow for the diagnosis of plant and insect viruses using ONT long read data collected via whole genome metagenomics sequencing and / or amplicon targeted sequencing.
-
-- Assess the performance of nf-ONTvisc workflow for running on diverse platforms including on-prem HPC and national compute infrastructure facilities (Pawsey Supercomputing Centre and the National Computational Infrastructure (NCI)).
-
-- Prepare a hands-on training user guide for the upskilling of end users and make the resource available through appropriate platforms.
-
+The project's first phase was completed at the end of December 2023. Version 1.0 of the ONTViSc pipeline is now available on [GitHub](https://github.com/eresearchqut/ontvisc) and [WorkflowHub](https://workflowhub.eu/workflows/683). Detailed instructions can be found in the [wiki](https://github.com/eresearchqut/ontvisc/wiki). A step-by-step draft of a guide on how to set up and execute the ONTvisc pipeline on one of the HPC systems: Lyra (Queensland University of Technology), Setonix (Pawsey) and Gadi (National Computational Infrastructure) can be found [here](https://mantczakaus.github.io/ontvisc_guide/). 
 
 ## How is ABLeS supporting this work?
 
@@ -31,6 +34,4 @@ This work is supported through the software accelerator scheme provided by ABLeS
 
 ## Expected outputs enabled by participation in ABLeS
 
-<br/>
-
-> *These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above.*
+ABLeS enables the ONTViSc pipeline to be tested using the Seqera platform on Gadi (NCI) and Setonix (Pawsey). This ensures that the workflow is compatible with the Seqera platform, Slurm and PBS-based computing environments and, hence, accessible to a wider community. 
