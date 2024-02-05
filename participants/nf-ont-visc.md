@@ -6,10 +6,14 @@ type: ABLeS Participant
 ---
 
 ## Collaborators and funding
-Department of Agriculture, Fisheries and Forestry https://www.agriculture.gov.au/
-Australian BioCommons https://www.biocommons.org.au/
-Queensland University of Technology https://www.qut.edu.au/
-Queensland Cyber Infrastructure Foundation https://www.qcif.edu.au/
+
+- Department of Agriculture, Fisheries and Forestry https://www.agriculture.gov.au/
+
+- Australian BioCommons https://www.biocommons.org.au/
+
+- Queensland University of Technology https://www.qut.edu.au/
+
+- Queensland Cyber Infrastructure Foundation https://www.qcif.edu.au/
 
 ## Contact(s)
 
@@ -35,3 +39,5 @@ This work is supported through the software accelerator scheme provided by ABLeS
 ## Expected outputs enabled by participation in ABLeS
 
 ABLeS enables the ONTViSc pipeline to be tested using the Seqera platform on Gadi (NCI) and Setonix (Pawsey). This ensures that the workflow is compatible with the Seqera platform, Slurm and PBS-based computing environments and, hence, accessible to a wider community. 
+
+> *These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above.*
