@@ -18,9 +18,11 @@ type: ABLeS Participant
 ## Contact(s)
 
 Queensland University of Technology (QUT)
+
 - Marie-Emilie Gauthier gauthiem@qut.edu.au
-- Roberto Barrero roberto.barrero@qut.edu.au
-Queensland Cyber Infrastructure Foundation (QCIF)
+
+- Roberto Barrero roberto.barrero@qut.edu.au Queensland Cyber Infrastructure Foundation (QCIF)
+
 - Magdalena Antczak magdalena.antczak@qcif.edu.au
 
 ## Project description and aims
