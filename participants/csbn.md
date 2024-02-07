@@ -25,7 +25,7 @@ The Structural Biology Node will explore software and hardware efficiencies in t
 
 
 Aims:  
-- Benchmarking AlphaFold variants (e.g. [`OpenFold`](https://doi.org/10.1101/2022.11.20.517210 ), [`FastFold`](https://doi.org/10.48550/arXiv.2203.00854) and optimising their use on HPC facilities 
+- Benchmarking AlphaFold variants (e.g. [`OpenFold`](https://doi.org/10.1101/2022.11.20.517210), [`FastFold`](https://doi.org/10.48550/arXiv.2203.00854) and optimising their use on HPC facilities 
 - Apply protein generative AI (e.g. [`RFDiffusion`](https://doi.org/10.1038/s41586-023-06415-8), [`EvoDiff`](https://doi.org/10.1101/2023.09.11.556673), [`ProteinMPNN`](https://doi.org/10.1101/2022.06.03.494563)) for generation of novel protein designs that can be used in fundamental biology and therapeutic research  
 - Validating compilation of CUDA code of the above software onto AMD GPUs.
 
