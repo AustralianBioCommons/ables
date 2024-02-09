@@ -1,9 +1,12 @@
 ---
-title: Transcriptomics analysis for ZERO Childhood Cancer
+title: Transcriptomics team at ZERO Childhood Cancer
 description: Analysis of high-risk paediatric children enrolled in the Zero Childhood Cancer initiative.
 toc: false
 type: ABLeS Participant
 ---
+
+## Project title
+Transcriptomics analysis for ZERO Childhood Cancer
 
 ## Collaborators and funding
 

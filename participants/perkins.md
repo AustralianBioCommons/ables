@@ -1,9 +1,12 @@
 ---
-title: Rare Disease Genetics and Functional Genomics 
+title: The Rare Disease Genetics and Functional Genomics Research Group
 description: Workflow consolidation, testing and implementation for Rare Disease Genetics and Functional Genomics managed by the Harry Perkins Institute of Medical Research.
 toc: false
 type: ABLeS Participant
 ---
+
+## Project title
+Rare Disease Genetics and Functional Genomics 
 
 ## Collaborators and funding
 

@@ -1,9 +1,13 @@
 ---
-title: Genome Assembly for Genomics for Australian Plants (GAP)
+title: Genomics for Australian Plants (GAP) Framework Initiative
 description: Genome Assembly and base calling for genomes genreated by GAP. 
 toc: false
 type: ABLeS Participant
 ---
+
+## Project title
+
+Genome Assembly for Genomics for Australian Plants (GAP)
 
 ## Collaborators and funding
 

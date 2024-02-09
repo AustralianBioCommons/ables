@@ -1,9 +1,12 @@
 ---
-title: Janis - Portable Pipelines Project
+title: Peter MacCallum Cancer Centre
 description: Janis is an open-source Python tool that has been developed to assist with the translation between bioinformatics workflow specifications.
 toc: false
 type: ABLeS Participant
 ---
+
+## Project title
+Janis - Portable Pipelines Project
 
 ## Collaborators and funding
 

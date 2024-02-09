@@ -1,9 +1,12 @@
 ---
-title: Workspace for ZERO Childhood Cancer
+title: ZERO Childhood Cancer
 description:  Analysis of a large number of healthy and tumour samples by the Zero Childhood Cancer initiative.
 toc: false
 type: ABLeS Participant
 ---
+
+## Project title
+Workspace for ZERO Childhood Cancer
 
 ## Collaborators and funding
 

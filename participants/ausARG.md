@@ -1,10 +1,14 @@
 ---
-title: Workspace for the Australian Amphibian and Reptile Genomics (AusARG)
+title: The Australian Amphibian and Reptile Genomics (AusARG) initiative
 description: Bioinformatics analyses for the Australian Amphibian and Reptile Genomics initiative.
 toc: false
 type: ABLeS Participant
 ---
 
+
+## Project title
+
+Bioinformatics analyses for the Australian Amphibian and Reptile Genomics initiative
 
 ## Collaborators and funding
 

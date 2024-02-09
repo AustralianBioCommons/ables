@@ -1,9 +1,12 @@
 ---
-title: Prenatal programming of respiratory epithelial progenitors and early postnatal respiratory disease.
+title: P4 Respiratory Health for Kids team at Telethon Kids Institute
 description: Prenatal programming of respiratory epithelial progenitors and early postnatal respiratory disease.
 toc: false
 type: ABLeS Participant
 ---
+
+## Project title
+Prenatal programming of respiratory epithelial progenitors and early postnatal respiratory disease.
 
 ## Collaborators and funding
 

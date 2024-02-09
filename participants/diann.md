@@ -1,9 +1,13 @@
 ---
-title: Development and optimisation of a DIA-NN workflow for scalable proteomics
+title: Precision Nutrition research group at  University of Sydney
 description: Development of a scalable DIA-NN workflow for the processing of scanning SWATH mass spectra.
 toc: false
 type: ABLeS Participant
 ---
+
+## Project title
+
+Development and optimisation of a DIA-NN workflow for scalable proteomics
 
 ## Collaborators and funding
 

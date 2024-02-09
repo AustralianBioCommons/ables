@@ -1,9 +1,13 @@
 ---
-title: Genomic analysis of Tasmanian Devil
+title: University of Canberra
 description: The project will analyse Tasmanian Devil genome to shed light on causes of Tasmanian  Devil facial tumour disease (DFTD) disease. 
 toc: false
 type: ABLeS Participant
 ---
+
+## Project title
+
+Genomic analysis of Tasmanian Devil
 
 ## Collaborators and funding
 

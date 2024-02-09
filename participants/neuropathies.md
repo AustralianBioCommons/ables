@@ -1,9 +1,13 @@
 ---
-title: Whole genome structural variant profiling in heritable neuropathies
+title: Northcott Neuroscience Laboratory at ANZAC Research Institute
 description: Development of a workflow for Structural variation detection and filtration.
 toc: false
 type: ABLeS Participant
 ---
+
+## Project title
+
+Whole genome structural variant profiling in heritable neuropathies
 
 ## Collaborators and funding
 

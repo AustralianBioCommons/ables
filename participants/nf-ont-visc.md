@@ -1,9 +1,13 @@
 ---
-title: Development of an ONTViSc (ONT-based Viral Screening for Biosecurity) pipeline.
+title: Queensland University of Technology (QUT)
 description: ONTViSc is a Nextflow-based end-to-end bioinformatics pipeline designed to help diagnostics of viruses and viroid pathogens for biosecurity.
 toc: false
 type: ABLeS Participant
 ---
+
+## Project title
+
+Development of an ONTViSc (ONT-based Viral Screening for Biosecurity) pipeline.
 
 ## Collaborators and funding
 

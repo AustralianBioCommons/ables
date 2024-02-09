@@ -1,9 +1,15 @@
 ---
-title: Computational Structural Biology Node
+title:  Structural Biology Facility at UNSW 
 description: Explore software and hardware efficiencies in the current deep learning revolution in computational structural biology.
 toc: false
 type: ABLeS Participant
 ---
+
+
+## Project title
+
+Computational Structural Biology Node
+
 
 ## Collaborators and funding
 

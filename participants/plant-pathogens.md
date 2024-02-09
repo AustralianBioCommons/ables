@@ -1,9 +1,12 @@
 ---
-title: Workspace for Plant Pathogen Omics Initiative
+title: Plant Pathogen Omics Initiative
 description: Investigate plant pathogen genomics, population genetics, virulence evolution, fungicide resistance evolution, and diagnostics
 toc: false
 type: ABLeS Participant
 ---
+
+## Project title
+Workspace for Plant Pathogen Omics Initiative
 
 ## Collaborators and funding
 
@@ -18,7 +21,7 @@ through collaboration with the national plant pathogen community.
 
 ## Project description and aims
 
-The Bioplatforms-supported Plant Pathogen Omics Initiative will generate high quality molecular reference data for plant pathogens in Australia. This data will be developed through collaboration with the national plant pathogen community and will be used as a foundational data asset to support:
+The Bioplatforms-supported Plant Pathogen Omics Initiative will generate high quality molecular reference data for plant pathogens important to the Australia economy or ecosystems. The data will be developed through collaboration with the national plant pathogen community and will be used as a foundational data asset to support:
 
 - Fundamental research and development in plant protection (e.g., understanding emergence
 and evolution of pathogens in crop systems, resolving taxonomy and race structure,

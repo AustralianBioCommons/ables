@@ -1,9 +1,12 @@
 ---
-title: Genetic diversity of Australian wine grapevine germplasm
+title: The Australian Wine Research Institute (AWRI)
 description: Produce reference genomes for several grapevine varieties and to provide these as foundational datasets for further work.
 toc: false
 type: ABLeS Participant
 ---
+
+## Project title
+Genetic diversity of Australian wine grapevine germplasm
 
 ## Collaborators and funding
 

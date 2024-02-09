@@ -1,10 +1,13 @@
 ---
-title: Workspace for Genomics for Australian Plants (GAP) Framework Initiative
+title: Genomics for Australian Plants (GAP) Framework Initiative
 description: Development of genomics resources to enhance our understanding of the evolution and conservation of the unique Australian flora.
 toc: false
 type: ABLeS Participant
 ---
 
+## Project title
+
+Workspace for Genomics for Australian Plants (GAP) Framework Initiative
 
 ## Collaborators and funding
 

@@ -1,11 +1,12 @@
 ---
-title: Metagenome-informed discovery, development and optimization of genome editing solutions.
+title: PLATYPUS BIO
 description: Development of new molecular tools to enhance and expand the genomics-based therapeutic toolkit.
 toc: false
 type: ABLeS Participant
 ---
 
-
+## Project title
+Metagenome-informed discovery, development and optimization of genome editing solutions.
 
 ## Contact(s)
 

@@ -1,9 +1,12 @@
 ---
-title: Workspace for Threatened Species Initiative
+title: Threatened Species Initiative
 description: Bioinformatics analyses for the Threatened Species Initiative.
 toc: false
 type: ABLeS Participant
 ---
+
+## Project title
+Workspace for Threatened Species Initiative
 
 ## Collaborators and funding
 

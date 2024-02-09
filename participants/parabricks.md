@@ -1,9 +1,12 @@
 ---
-title: Parabricks and GATK benchmarking
+title:  Southern Cross University
 description: Benchmarking for NVIDIA Parabricks and GATK RNA-Seq variant calling workflows.
 toc: false
 type: ABLeS Participant
 ---
+
+## Project title
+Parabricks and GATK benchmarking
 
 ## Collaborators and funding
 
