@@ -36,7 +36,7 @@ Aims of the project:
 •	Assess the performance of nf-ONTvisc workflow for running on diverse platforms including on-prem HPC and national compute infrastructure facilities (Pawsey Supercomputing Centre and the National Computational Infrastructure (NCI)).
 •	Prepare a hands-on training user guide for the upskilling of end users and make the resource available through appropriate platforms.
 
-The project's first phase was completed at the end of December 2023. Version 1.0 of the ONTViSc pipeline is now available on [GitHub](https://github.com/eresearchqut/ontvisc) and [WorkflowHub](https://workflowhub.eu/workflows/683). Detailed instructions can be found in the [wiki](https://github.com/eresearchqut/ontvisc/wiki). A step-by-step draft of a guide on how to set up and execute the ONTvisc pipeline on one of the HPC systems: Lyra (Queensland University of Technology), Setonix (Pawsey) and Gadi (National Computational Infrastructure) can be found [here](https://mantczakaus.github.io/ontvisc_guide/). 
+The project's first phase was completed at the end of December 2023. Version 1.0 of the ONTViSc pipeline is now available on [GitHub](https://github.com/eresearchqut/ontvisc) and [WorkflowHub](https://workflowhub.eu/workflows/683). Detailed information can be found on [GitHub](https://github.com/eresearchqut/ontvisc). A step-by-step draft of a guide on how to set up and execute the ONTvisc pipeline on one of the HPC systems: Lyra (Queensland University of Technology), Setonix (Pawsey) and Gadi (National Computational Infrastructure) can be found [here](https://mantczakaus.github.io/ontvisc_guide/). 
 
 ## How is ABLeS supporting this work?
 
