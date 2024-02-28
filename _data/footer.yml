@@ -3,7 +3,7 @@ copyright: 'This site uses cookies to help the website run effectively. To find 
 extra_line: ABLeS is subject to the Australian BioCommons [Code of Conduct](https://doi.org/10.5281/zenodo.4276854) and [Privacy Policy](https://www.biocommons.org.au/privacy).
 columns:
   - type: image
-    image_width: 120px
+    image_width: 320px
     width: 3
     src: 'assets/img/Australian-Biocommons-Logo-Tagline-Infrastructure-RGB.png'
     alt: Australian BioCommons logo featuring the tagline this service forms part of the national Australian BioCommons infrastructure
