@@ -1,6 +1,6 @@
 ---
 title: Walter and Eliza Hall Institute of Medical Research (WEHI)
-description: This project will help life-science researchers improve the estimation of their grants and compute resources by creating .
+description: This project will help life-science researchers improve the estimation of their grants and compute resources by creating a portable and rerunnable pipeline that benchmarks commonly used life-science analysis software.
 toc: false
 type: ABLeS Participant
 ---
