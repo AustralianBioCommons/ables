@@ -1,0 +1,42 @@
+############################
+### List of affiliations ###
+############################
+
+### see https://github.com/ELIXIR-Belgium/elixir-toolkit-theme
+
+#########################################################################################################
+### add affiliations below and use the name(s) in the relevant metadata sections or code on each page ###
+#########################################################################################################
+
+### add new affiliations below as needed
+
+- name: Australian BioCommons
+  image_url: /assets/img/Australian-Biocommons-Logo-Horizontal-RGB.png
+  expose: true
+  type: infrastructure
+  url: https://www.biocommons.org.au/
+
+- name: Bioplatforms Australia
+  image_url: /assets/img/bioplatforms-australia-logo.png
+  expose: true
+  type: infrastructure
+  url: https://bioplatforms.com/
+
+- name: NCRIS
+  image_url: /assets/img/ncris-logo1.png
+  expose: true
+  type: infrastructure
+  url: https://www.education.gov.au/ncris
+
+- name: NCI
+  image_url: /assets/img/NCI+Australia+logo+black+PNG+transparent.png
+  expose: true
+  type: infrastructure
+  url: https://nci.org.au/
+
+- name: Pawsey
+  image_url: /assets/img/pawsey-logo-beige.png
+  expose: true
+  type: infrastructure
+  url: https://pawsey.org.au/
+

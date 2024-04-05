@@ -2,15 +2,16 @@
 title: ABLeS
 topnav_title: ABLeS
 description: ABLeS
-remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@1.26.0
+remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@2.4.0
 permalink: pretty
 
 theme_variables:
   # biocommons blue
   theme_color: 205a86
   back_to_top: true
+  privacy_statement_url: 
   topnav:
-    brand_logo: assets/img/main_logo.png
+    brand_logo: assets/img/Australian-Biocommons-Logo-Horizontal-RGB.png
     github: true
 
 defaults:
@@ -43,3 +44,6 @@ defaults:
 
 # Makes Aux links open in a new tab. Default is false
 #aux_links_new_tab: true
+
+plugins:
+  - elixir-toolkit-theme-plugins
