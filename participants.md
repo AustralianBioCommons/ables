@@ -26,7 +26,7 @@ toc: false
     </div>
 </div>
 
-<br />
+<br>
 
 ## Participants
 
