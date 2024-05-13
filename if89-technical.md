@@ -2,7 +2,7 @@
 title: ABLeS - Application Installation Guidelines
 ---
 
-# Introduction
+## Introduction
 
 The following documentation describes the installation procedures for bioinformatics software at the National Computational Infrastructure (NCI project allocation if89) enabled by the Australian BioCommons and included in Tools and Workflows repository.
 
@@ -18,7 +18,7 @@ For each software, an installation script should be created to install the softw
 This helps to automate the process when a reinstallation is required. 
 This script should be added to the repository of all scripts and patches, which is available at: [https://git.nci.org.au/dsr900/ables-software-installations](https://git.nci.org.au/dsr900/ables-software-installations). This script repository follows the same file structure as the NCI `/apps` directory which is `/<package>/<version>`.
 
-# Prerequisites
+## Prerequisites
 In order to contribute to `if89`, you need to satisfy the following conditions:
 
 1. **Obtain access to the `if89` project**: Everyone can request access to `if89` if they have a user account on GADI. Simply, request to join at this [link](https://my.nci.org.au/mancini/project/if89).
@@ -30,7 +30,7 @@ In order to contribute to `if89`, you need to satisfy the following conditions:
       * Javed Shaikh: <javed.shaikh@anu.edu.au>
    
 
-# General Guidelines
+## General guidelines
 
 These are some general guidelines to be aware of before installing any software:
 
@@ -51,7 +51,7 @@ This will create a ‘fat binary’ that contains optimised code for all listed 
 `$ g{cc,++,fortran} -march=broadwell ...`
 8. Module and/or common files must also be created by the installation script.
  
-# First-time installation procedure
+## First-time installation procedure
 
 Before installing any software, make sure the software is not already installed into `/g/data/if89/apps/` as well as into NCI supported apps `/apps/`.
 
@@ -134,13 +134,13 @@ The install template is available directly under the root directory of `ables-so
  ~~~
 
 
-# Modifying Existing Installations
+## Modifying existing installations
 
 * If an app installation needs to be altered after being made generally available, an update script needs to be added to the repository in the same directory as the installation script of the application being modified, and the same branch-merge procedure must be followed. 
 * The update script should be named `update.*` and the same update script will not be run twice. It is recommended to give the update script a descriptive name e.g. `update.shortdescription.sh`. 
 * The database of installations maintained by the installer tool will record the order in which update scripts were run, so in cases of disaster recovery, the current state of an application in the installation area will be able to be reconstructed by running `install.sh`, then all `update.*`  scripts in a given `<software>/<version>`  directory chronologically.
 
-# When scripted installations are not possible
+## When scripted installations are not possible
 
 If scripted installations are not possible, sufficient documentation needs to be available such that the installation can be performed consistently by any `if89` maintainer.
 Please contact ABLeS team if you have such case.
@@ -150,7 +150,7 @@ Please contact ABLeS team if you have such case.
 * An installation script is still required, however, all it needs to do is untar the completed installation from the staging area into `/g/data/if89/apps`. 
 * Examples of acceptable manual installations are when GUI installers are required, or when pre-built software must be retrieved from behind an authenticated web service.
 
-# Installation Script Standards
+## Installation script standards
 
 A few general rules need to be followed in order for the installation repository and python tool to work together cohesively. 
 They are as follows:
@@ -192,7 +192,7 @@ The `helper_functions.sh` script defines some useful variables and functions:
 * `download_source <url> <app_name> <app_version>`: Download the file from `<url>` to the directory `${SOURCE_DOWNLOADS_CACHE}/<app_name>/<app_version>` for archiving (this copy should not be used in the installation). Download_source will then copy the downloaded file to the working directory which can download It also keeps a copy in the working directory which can be used for the remaining part of the installation instead of using the downloaded file in `${SOURCE_DOWNLOADS_CACHE}`. This function should be used in preference to curl  or wget  when retrieving source code, as it saves files to a shared area where they can be retrieved later without internet access. This helps ensure reproducibility, as it guards against externally sourced files changing or being removed from the web entirely.
 
 
-# Contributors to this documentation:
+## Contributors to this documentation:
 
 * **Dale Roberts** *(NCI)*
 * **Johan Gustafsson** *(Australian BioCommons, University of Melbourne)*
