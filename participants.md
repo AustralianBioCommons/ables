@@ -1,5 +1,5 @@
 ---
-title: ABLeS Participants
+title: ABLeS participants
 toc: false
 ---
 
