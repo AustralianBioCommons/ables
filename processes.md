@@ -80,9 +80,9 @@ If you are new to the ABLeS program, please read the processes below to get star
 </table>
 
 
-## Which ABLeS project matches your work?
+## Which ABLeS allocation matches your work?
 
-ABLeS users will follow one of the paths illustrated below as per the three schemes supported by ABLeS (`Creation of reference data assets`, `Production bioinformatics`, and `Software accelerator`).
+ABLeS users will follow one of the paths illustrated below as per the three allocation schemes supported by ABLeS (`Creation of reference data assets`, `Production bioinformatics`, and `Software accelerator`).
 
 <br/>
 
@@ -91,7 +91,7 @@ ABLeS users will follow one of the paths illustrated below as per the three sche
 
 ## ABLeS process for different stages of a project's lifetime
 
-The Australian BioCommons and the bioinformatics leads for each group have different roles during ABLeS project initiation, operation and close. 
+The Australian BioCommons and the bioinformatics leads for each group have different roles during an ABLeS project's initiation, operation and closing phases. 
 
 ABLeS projects are led and maintained by their users with the support of the ABLeS team to facilitate access to ABLeS resources.
 
@@ -183,7 +183,7 @@ ABLeS projects are led and maintained by their users with the support of the ABL
 <br/>
 
 
-## ABLeS Expectations
+## ABLeS expectations
 
 |Principle| Description|
 |-------------|------------------------------------------------------------------|
