@@ -1,5 +1,5 @@
 ---
-title: Precision Nutrition research group at  University of Sydney
+title: The Cancer Signalling Research Group at the University of Newcastle (UON)
 description: The project aims to model temporal tumour adaptations to therapy and predict targetable vulnerabilities, based on non-invasive blood profiling, for therapeutic adjustments of patients with DMG under treatment.
 toc: false
 type: ABLeS Participant
