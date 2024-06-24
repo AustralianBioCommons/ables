@@ -1,6 +1,6 @@
 ---
-title: The School of Life and Environmental Sciences at  University of Sydney
-description: Impact of structural variants on the evolution of parity modes in *Lerista bougainvillii*, a reproductively bimodal lizard
+title: The School of Life and Environmental Sciences at University of Sydney
+description: Impact of structural variants on the evolution of parity modes in Lerista bougainvillii, a reproductively bimodal lizard
 toc: false
 type: ABLeS Participant
 ---
