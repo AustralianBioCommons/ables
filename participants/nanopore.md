@@ -17,7 +17,7 @@ Accelerating nanopore basecalling on different GPU architectures
 
 ## Contact(s)
 
-- Hasindu Gamaarachchi, UNSW Sydney, <hasindu+bc@unsw.edu.au>
+- Hasindu Gamaarachchi, UNSW Sydney, <hasindu@unsw.edu.au>
 
 
 ## Project description and aims
