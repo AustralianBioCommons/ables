@@ -6,6 +6,7 @@ type: ABLeS Participant
 ---
 
 ## Project title
+
 Analysing Spatial Transcriptome Data
 
 ## Collaborators and funding
@@ -24,9 +25,6 @@ Analysing Spatial Transcriptome Data
 
 - Rui Hou, Harry Perkins Institute of Medical Research, <rui.hou@uwa.edu.au>
 
-
-
-
 ## Project description and aims
 
 This project leverages the power of single-cell and spatial transcriptomics technologies to establish a comprehensive understanding of the intricate signalling landscapes tumours, in comparison to normal tissues. The key aims are:
@@ -43,7 +41,6 @@ This project leverages the power of single-cell and spatial transcriptomics tech
 
 Through machine learning, network modelling, spatial statistics, and integrative multi-omics analysis, this program pushes boundaries in bioinformatics and precision oncology to improve outcomes for cancer patients.
 
-
 ## How is ABLeS supporting this work?
 
 ABLeS is providing critical computational resources and infrastructure to support the large-scale data analysis and bioinformatics efforts of this interdisciplinary program. Specifically:
@@ -56,9 +53,7 @@ ABLeS is providing critical computational resources and infrastructure to suppor
 
 By providing these critical computational resources, storage infrastructure, and software ecosystem, ABLeS plays a pivotal role in enabling the success of this pioneering research program, accelerating discoveries in spatial cancer signalling and precision oncology.
 
-
-This work is supported through Production bioinformatics scheme provided by ABLeS. The supports includes unlimited temporary storage on scratch, 1 TB permenant storage  and 50 KSUs per quarter.
-
+This work is supported through Production bioinformatics scheme provided by ABLeS. The supports includes unlimited temporary storage on scratch, 1 TB permenant storage and 50 KSUs per quarter.
 
 ## Expected outputs enabled by participation in ABLeS
 
@@ -72,7 +67,6 @@ This work is supported through Production bioinformatics scheme provided by ABLe
 
 **Quantitative models of ligand-receptor interactions and signalling crosstalk** - These computational models will be described in published manuscripts and the code/data will be shared via repositories.
 
-
 <br/>
 
-> *These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above.*
+> _These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above._

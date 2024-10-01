@@ -10,4 +10,3 @@ title: Help and Contact Details
 | Requesting tool installations                                                                | Please use the [ABLeS GoogleForm](https://docs.google.com/forms/d/e/1FAIpQLScpiyqERdxw6gMxjlq_CkiI3qvJ60YaeWHKTJChMjcnv8aBBA/viewform?usp=sf_link)                |
 | Reporting challenges with a specific bioinformatics workflow, or requesting assistance with this workflow | Please use the [ABLeS GoogleForm](https://docs.google.com/forms/d/e/1FAIpQLSere1PvgPEuJkpvQUk1-11C88IAeQNQKEUFc-Qgbn5GgKK2jw/viewform?usp=sf_link)                |
 | Any other issue                                                                             | Email: <br/> <ziad@biocommons.org.au> <br/> <steven@biocommons.org.au>  |
-

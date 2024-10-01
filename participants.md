@@ -31,4 +31,3 @@ toc: false
 ## Participants
 
 {% include section-navigation-tiles.html type="ABLeS Participant" search=true col="4" %}
-
