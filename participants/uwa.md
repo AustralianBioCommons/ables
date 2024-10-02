@@ -27,7 +27,7 @@ The aim of this project is to train a deep learning model that can accurately pr
 
 ## How is ABLeS supporting this work?
 
-This work is supported through software accelerator scheme provided by ABLeS. The supports includes unlimited temporary storage on scratch, 1 5B long term storage and 50 KSUs per quarter.
+This work is supported through software accelerator scheme provided by ABLeS. The supports includes unlimited temporary storage on scratch, 3 TB long term storage and 50 KSUs per quarter.
 
 ## Expected outputs enabled by participation in ABLeS
 
