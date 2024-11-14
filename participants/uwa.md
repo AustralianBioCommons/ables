@@ -19,7 +19,7 @@ This work is primarily supported by an Australian Government Research Training P
 
 ## Contact(s)
 
-- Caleb Thomas, The University of Western Australia, <1496215@student.uwa.edu.au>
+- Caleb Thomas, The University of Western Australia, <21496215@student.uwa.edu.au>
 
 ## Project description and aims
 
