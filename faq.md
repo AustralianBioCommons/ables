@@ -14,7 +14,7 @@ toc: false
           <div class="accordion-body">
             The cost of running jobs on GADI is measured by service units (SU). The number of SUs used by a job can vary based on two main factors:
             <ol>
-                <li>The amount of walltime used by the job.</li> 
+                <li>The amount of walltime used by the job.</li>
                 <li>The resources reserved for the job.</li>
             </ol>
             More details on job debiting can be found <a href="https://opus.nci.org.au/display/Help/2.+Compute+Grant+and+Job+Debiting">here</a>
@@ -29,10 +29,10 @@ toc: false
         </h2>
         <div id="collapse-faq-2" class="accordion-collapse collapse" aria-labelledby="heading-faq-2" data-bs-parent="#accordion-faq">
           <div class="accordion-body">
-            The allocation of SUs is on a quarterly basis. At the beginning of each quarter, BioCommons will allocate 100 kSU of computational resources to each group. Additional resources will be allocated according to the quarterly plan proposed by the group, as well as the resources still available in that quarter. 
+            The allocation of SUs is on a quarterly basis. At the beginning of each quarter, BioCommons will allocate 100 kSU of computational resources to each group. Additional resources will be allocated according to the quarterly plan proposed by the group, as well as the resources still available in that quarter.
             <br/>Groups should utilise the allocated SUs:
             <ol>
-                <li>For projects approved by the steering committee.</li> 
+                <li>For projects approved by the steering committee.</li>
                 <li>Using the tools, methods and/or workflows that are suited to their group requirements.</li>
                 <li>While making sure to consider that the allocation is a shared resource for their group (if in doubt, consult with your group bioinformatics lead, or the BioCommons)</li>
             </ol>
@@ -42,7 +42,7 @@ toc: false
                     <li>Groups can request additional resources when needed through the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfzHJajEKTnGuYWb1gLRR2nlUExLIRM7qSGy_hhbiCKB3KX2Q/viewform?usp=sf_link"><strong>GoogleForm</strong></a>, if the quarterly plan did not accurately predict resource requirements.</li>
                     <li>Unused SUs **can NOT** be rolled-over to the next quarter. </li>
                     <li>As ABLeS is a shared resource covering many groups, it is expected that each group will adopt a best-effort approach to firstly estimate their computational requirement realistically and accurately, and also actively manage the allocations which are provided (i.e. don’t waste your allocation, as the resource is still finite). </li>
-                </ul>                
+                </ul>
                 </blockquote>
           </div>
         </div>
@@ -55,7 +55,7 @@ toc: false
                 </h2>
                 <div id="collapse-faq-3" class="accordion-collapse collapse" aria-labelledby="heading-faq-3" data-bs-parent="#accordion-faq">
                   <div class="accordion-body">
-                   Please see <a href="/ables/resources">the resources page</a> for more information on the software that is available at the NCI. 
+                   Please see <a href="/ables/resources">the resources page</a> for more information on the software that is available at the NCI.
                   </div>
                 </div>
               </div>
@@ -84,4 +84,3 @@ toc: false
                 </div>
               </div>
         </div>
-

@@ -6,6 +6,7 @@ type: ABLeS Participant
 ---
 
 ## Project title
+
 Genetic diversity of Australian wine grapevine germplasm
 
 ## Collaborators and funding
@@ -30,11 +31,9 @@ defining grapevine cultivars and more importantly, this can be extended to diffe
 clones within those cultivars. WGS is therefore being performed on grapevine germplasm
 from across Australia to categorise the genetic variation present in this important crop.
 
-
 ## How is ABLeS supporting this work?
 
 This work is supported through the production bioinformatics scheme provided by ABLeS. The supports includes unlimited temporary storage on scratch, 1 TB permenant storage and 50 KSUs per quarter.
-
 
 ## Expected outputs enabled by participation in ABLeS
 
@@ -43,4 +42,4 @@ appropriate public repositories for use by the wider community.
 
 <br/>
 
-> *These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above.*
+> _These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above._

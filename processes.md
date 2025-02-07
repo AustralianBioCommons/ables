@@ -91,7 +91,7 @@ ABLeS users will follow one of the paths illustrated below as per the three allo
 
 ## ABLeS process for different stages of a project's lifetime
 
-The Australian BioCommons and the bioinformatics leads for each group have different roles during an ABLeS project's initiation, operation and closing phases. 
+Australian BioCommons and the bioinformatics leads for each group have different roles during an ABLeS project's initiation, operation and closing phases. 
 
 ABLeS projects are led and maintained by their users with the support of the ABLeS team to facilitate access to ABLeS resources.
 
@@ -115,7 +115,7 @@ ABLeS projects are led and maintained by their users with the support of the ABL
             <li>Create of a project allocation (at NCI or Pawsey) for a group</li>
             <li>Invite the group bioinformatics leads to a project allocation as Chief Investigators</li>
             <li>Provide information on how to utilise ABLeS resources and contribute to the shared tool and software repository.</li>
-            <li>Manage the resources available to the ABLeS programme across all active projects.</li>
+            <li>Manage the resources available to the ABLeS program across all active projects.</li>
           </ol>
           </div>
         </div>
@@ -169,7 +169,7 @@ ABLeS projects are led and maintained by their users with the support of the ABL
             <li>Notify Australian BioCommons when you are ready to close your project.</li>
             <li>Make sure all project data is archived as the project storage will be released.</li>
             <li>Make sure all workflows are registered with <a href="https://workflowhub.eu/">WorkflowHub</a> and well documented so they are findable.</li>
-            <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdO1w-RY8OexUBwJx8BHNMwSRNPA3_-5r6pefdQW8ancbKZqw/viewform?usp=sf_link">Report the project outcomes</a> to the Australian BioCommons.</li>
+            <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdO1w-RY8OexUBwJx8BHNMwSRNPA3_-5r6pefdQW8ancbKZqw/viewform?usp=sf_link">Report the project outcomes</a> to Australian BioCommons.</li>
           </ol>
           <b> Australian BioCommons' role:</b>
           <ol>

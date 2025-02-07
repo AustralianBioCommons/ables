@@ -5,30 +5,28 @@ title: Resources available for ABLeS participants
 
 ## Computational resources
 
-ABLes computational resources are allocated to each project quarterly and additional resources can be requested by each project's bioinformatics lead. 
+ABLes computational resources are allocated to each project quarterly and additional resources can be requested by each project's bioinformatics lead.
 
 {% include callout.html type="note" content="Additional resources can be requested [using this form](https://docs.google.com/forms/d/e/1FAIpQLSfzHJajEKTnGuYWb1gLRR2nlUExLIRM7qSGy_hhbiCKB3KX2Q/viewform?usp=sf_link)." %}
 
-
 ### Pawsey Supercomputing Centre
 
-ABLeS includes 10 million service units (SUs) of compute capacity on [Setonix](https://pawsey.org.au/systems/setonix/) and flexible storage on the fast S3 based [Acacia](https://pawsey.org.au/systems/acacia/) storage system. These SUs can be utilised across CPU and GPU nodes. 
+ABLeS includes 10 million service units (SUs) of compute capacity on [Setonix](https://pawsey.org.au/systems/setonix/) and flexible storage on the fast S3 based [Acacia](https://pawsey.org.au/systems/acacia/) storage system. These SUs can be utilised across CPU and GPU nodes.
 
 ### National Computational Infrastructure (NCI)
 
-ABLeS encompasses 16 million SUs of compute capacity and 500 TB of storage available per annum on the [Gadi supercomputer at the NCI](https://nci.org.au/our-systems/hpc-systems). These SUs can be utilised to run jobs on different nodes of GADI that are equipped with either CPUs or GPUs. 
+ABLeS encompasses 16 million SUs of compute capacity and 500 TB of storage available per annum on the [Gadi supercomputer at the NCI](https://nci.org.au/our-systems/hpc-systems). These SUs can be utilised to run jobs on different nodes of GADI that are equipped with either CPUs or GPUs.
 
 Details on:
-- [Gadi HPC resources](https://nci.org.au/our-systems/hpc-systems) 
-- [Gadi storage system](https://nci.org.au/our-systems/storage-systems).
 
+- [Gadi HPC resources](https://nci.org.au/our-systems/hpc-systems)
+- [Gadi storage system](https://nci.org.au/our-systems/storage-systems).
 
 ## Specialist expertise
 
 ABLeS projects are supported by NCI, Pawsey and ABLeS specialists to install, develop, optimise and deploy tools and workflows.
 
 {% include callout.html type="note" content="If you are part of an ABLeS project and need help, please submit a request through [this GoogleForm](https://docs.google.com/forms/d/e/1FAIpQLSfzHJajEKTnGuYWb1gLRR2nlUExLIRM7qSGy_hhbiCKB3KX2Q/viewform?usp=sf_link)." %}
-
 
 ## Available software and reference data
 
@@ -38,12 +36,11 @@ ABLeS projects are supported by NCI, Pawsey and ABLeS specialists to install, de
 
 There is a wide range of centrally installed software for Setonix users, including popular bioinformatics tools. More information about [software on Setonix](https://support.pawsey.org.au/documentation/display/US/Software+Stack).
 
-Setonix users can also install their choice of software on the `/software` partition. We also encourage usage of containers with Singularity. Users are able to download any containers they like! 
+Setonix users can also install their choice of software on the `/software` partition. We also encourage usage of containers with Singularity. Users are able to download any containers they like!
 
 #### Reference datasets at Pawsey
 
-Popular bioinformatics [reference datasets](https://support.pawsey.org.au/documentation/display/US/Life+Science+and+Bioinformatics) are available on Pawsey. Additional reference sets can be requested via help@pawsey.org.au
-
+Popular bioinformatics [reference datasets](https://support.pawsey.org.au/documentation/display/US/Life+Science+and+Bioinformatics) are available on Pawsey. Additional reference sets can be requested via <help@pawsey.org.au>
 
 ### National Computational Infrastructure (NCI)
 
@@ -59,8 +56,8 @@ Anyone from an NCI project is also invited to contribute to `if89`, and add more
 
 Details are available **[here](/ables/if89/)**.
 
-
 ## Resource summary
+
 <div style="display: block; margin-left: auto;  margin-right: auto;">
     <style type="text/css">
     .tg  {border-collapse:collapse;border-spacing:0;}

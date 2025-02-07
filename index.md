@@ -16,7 +16,7 @@ toc: false
 
 ## About ABLeS
 
-The ABLeS (Australian BioCommons Leadership Share) program was established in April 2021 to more readily support data-driven bioinformatics. This effort is supported by the [Australian BioCommons](https://www.biocommons.org.au/) in partnership with Bioplatforms Australia, the [National Computational Infrastructure (NCI, Canberra)](https://nci.org.au/), and the [Pawsey Supercomputing Research Centre (Pawsey, Perth)](https://pawsey.org.au/). 
+The ABLeS (Australian BioCommons Leadership Share) program was established in April 2021 to more readily support data-driven bioinformatics. This effort is supported by [Australian BioCommons](https://www.biocommons.org.au/) in partnership with Bioplatforms Australia, [National Computational Infrastructure (NCI, Canberra)](https://nci.org.au/), and the [Pawsey Supercomputing Research Centre (Pawsey, Perth)](https://pawsey.org.au/). 
 
 ABLeS targets established groups and communities that are focused on a common research theme, create reference data and/or software, and have the ability to plan and prioritise a computational research program.
 
@@ -33,6 +33,9 @@ The support available includes access to computational and data infrastructure, 
 More details are available in the ABLeS publication:
 
 > **Gustafsson, Ove Johan Ragnar, Al Bkhetan, Ziad, Francis, Rhys & Manos, Steven.** (2023). *Enabling national step changes in bioinformatics through ABLeS, the Australian BioCommons Leadership Share (3.0).* Zenodo. [https://doi.org/10.5281/zenodo.10139651](https://doi.org/10.5281/zenodo.10139651)
+
+You can also watch a 10 minute overview of ABLeS on the Australian BioCommons YouTube Channel:
+>**[Introduction to ABLeS](https://youtu.be/fvUfzpaHz3U)**
 
 
 ## ABLeS project types

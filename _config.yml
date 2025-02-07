@@ -4,6 +4,7 @@ topnav_title: ABLeS
 description: ABLeS
 remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@2.4.0
 permalink: pretty
+gtag: G-T8GWK081T9
 
 theme_variables:
   # biocommons blue
