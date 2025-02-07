@@ -1,8 +1,6 @@
 ---
 title:  ARC Centre of Excellence for Indigenous and Environmental Histories and Futures (CIEHF).
-description: This project aims to advance sedimentary ancient DNA (sedaDNA) research in Australia by
-developing an automated bioinformatics pipeline for efficient and validated taxonomic
-profiling of modern and ancient target taxa in sediment samples.
+description: This project aims to advance sedimentary ancient DNA (sedaDNA) research in Australia by developing an automated bioinformatics pipeline for efficient and validated taxonomic profiling of modern and ancient target taxa in sediment samples.
 toc: false
 type: ABLeS Participant
 ---
