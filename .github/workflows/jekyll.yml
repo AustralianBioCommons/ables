@@ -49,23 +49,4 @@ jobs:
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
-
-  deploy:
-    runs-on: ubuntu-24.04
-    needs: build
-
-    if: |
-      github.event_name == 'workflow_dispatch' ||
-      (github.event_name == 'push' && github.event.repository.default_branch == github.ref_name)
-    concurrency:
-      group: "pages"
-      cancel-in-progress: true
-
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+        
