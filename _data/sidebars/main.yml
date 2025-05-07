@@ -2,8 +2,10 @@
 subitems:
   - title: Home
     url: /index
+  - title: Eligibility
+    url: /eligibility
   - title: Getting started
-    url: /processes
+    url: /projects_allocations
   - title: Available resources
     url: /resources
   - title: ABLeS Participants
