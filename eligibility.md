@@ -1,4 +1,7 @@
-# Eligibility
+---
+title: Eligibility
+toc: false
+---
 
 ABLeS is available to research groups and bioinformatics communities across Australia.
 
@@ -87,3 +90,15 @@ More details are provided in the table below:
   </tr>
 </tbody>
 </table>
+
+## ABLeS expectations
+
+|Principle| Description|
+|-------------|------------------------------------------------------------------|
+|**Project leadership**| A project lead is responsible for all use of resources provided, which will need to adhere to relevant facility processes and policies. The lead will also monitor and manage reasonable usage of their project computational infrastructure allocations.|
+|**Group-level decision making**| A collaborative decision making mechanism to prioritise the bioinformatics work using relevant computational resources must exist. This can be a formalised steering committee, a working group, or some other forum which is representative of the collaboration. Resources used must be agreed upon / in line with the community’s decision making mechanism and align with community priorities.|
+|**Group-level expertise**|The community has expertise which will drive and execute its bioinformatics agenda. This expertise offers a strong collaboration link with the expertise and support available through ABLeS, NCI and Pawsey.|
+|**Collaboration & consultation**|ABLeS is collaborative and involves BioCommons, the research community, and the computational facilities. It is also a standing item for discussion and forums play a strong role in managing the use of ABLeS: groups will thus engage with BioCommons in an open and collaborative manner, with regular meetups.|
+|**Follow compute facility access policies**|All users must abide by the relevant access policies of Pawsey and NCI. [NCI Terms and Conditions of Access](https://nci.org.au/users/nci-terms-and-conditions-access); [NCI Data Collections Management](https://opus.nci.org.au/display/NDP/NCI+Data+Collections+and+Publishing); and [Pawsey Conditions of Access](https://support.pawsey.org.au/documentation/display/US/Conditions+of+Use).|
+|**Time frame / duration of allocations**|Each project is reviewed at the 6 month mark, to ensure resources are being used as efficiently as practical and so challenges can be identified / addressed by the ABLeS team. Reference data and production projects are ongoing by definition, while software accelerator projects need to be renewed at 6 months if the work originally described for the project has not been completed.|
+

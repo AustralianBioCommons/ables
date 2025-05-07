@@ -7,72 +7,15 @@ If you are new to the ABLeS program, please read the processes below to get star
 
 ## Which ABLeS allocation matches your work?
 
-ABLeS users will follow one of the paths illustrated below as per the three allocation schemes supported by ABLeS (`Creation of reference data assets`, `Production bioinformatics`, and `Software accelerator`).
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ucp9{background-color:#8ea869;color:#000000;text-align:left;vertical-align:middle}
-.tg .tg-7o2y{background-color:#9b9b9b;color:#ffffff;text-align:center;vertical-align:middle}
-.tg .tg-baqh{text-align:center;vertical-align:middle;font-weight:bold}
-.tg .tg-vv4z{background-color:#8ea869;text-align:center;vertical-align:middle;color:#ffffff}
-.tg .tg-kcp5{background-color:#205a86;color:#ffffff;text-align:center;vertical-align:middle;font-weight:bold}
-.tg .tg-0lax{text-align:left;vertical-align:middle}
-.tg .tg-ibb5{background-color:#8ea869;color:#000000;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-kcp5" rowspan="2">Project Type</th>
-    <th class="tg-kcp5" rowspan="2">Aim</th>
-    <th class="tg-kcp5" colspan="3">Allocation</th>
-  </tr>
-  <tr>
-    <th class="tg-7o2y">Creation of reference data assets</th>
-    <th class="tg-7o2y">Production Bioinformatics</th>
-    <th class="tg-7o2y">Software Accelerator</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-baqh">Reference Data</td>
-    <td class="tg-0lax">Creation of reference data</td>
-    <td class="tg-baqh">&#10003;</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">Production Bioinformatics</td>
-    <td class="tg-0lax">Production-level work and research-driven implementation of best-practice bioinformatics</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh">&#10003;</td>
-    <td class="tg-baqh"></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">Software Accelerator</td>
-    <td class="tg-0lax">Development, testing, or optimization of research software, especially for large-scale applications</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh">&#10003;</td>
-  </tr>
-</tbody>
-</table>
-
-
-## ABLeS projects & Allocations
-
-#### Allocation Creation of reference data assets 
+### Allocation Creation of reference data assets 
 
 ABLeS reference data allocations support research groups and consortia within the life sciences to access the dedicated compute capacity required to efficiently construct reference data.
 
-#### Allocation Production bioinformatics
+### Allocation Production bioinformatics
 
 Institutes, consortia and core facilities are increasingly facing issues scaling their in-house compute and data infrastructure to the questions, sample sizes, and data set sizes they are addressing as part of their research programs. ABLeS production allocations support these groups to implement and run their computational workflow approaches for omics data analysis *at scale*.
 
-#### Allocation Software accelerator
+### Allocation Software accelerator
 
 Software accelerator allocations will directly support the further development, installation, optimisation, testing and/or benchmarking of bioinformatics software. These allocations are intended to create a culture of best practice in software, helping bioinformaticians to effectively share and document their work, and make it [FAIR (findable, accessible, interoperable and reusable)](https://doi.org/10.1038/s41597-022-01710-x).
 
@@ -84,7 +27,7 @@ Australian BioCommons and the bioinformatics leads for each group have different
 
 ABLeS projects are led and maintained by their users with the support of the ABLeS team to facilitate access to ABLeS resources.
 
-![ABLeS project lifecycle](/images/ABLeS_project_lifetime.png)
+![ABLeS project lifecycle](/images/ables_project_lifetime.png)
 
 Use the drop-down menu below to explore more details:
 
@@ -186,15 +129,3 @@ Use the drop-down menu below to explore more details:
 </div>
 
 <br/>
-
-## ABLeS expectations
-
-|Principle| Description|
-|-------------|------------------------------------------------------------------|
-|**Project leadership**| A project lead is responsible for all use of resources provided, which will need to adhere to relevant facility processes and policies. The lead will also monitor and manage reasonable usage of their project computational infrastructure allocations.|
-|**Group-level decision making**| A collaborative decision making mechanism to prioritise the bioinformatics work using relevant computational resources must exist. This can be a formalised steering committee, a working group, or some other forum which is representative of the collaboration. Resources used must be agreed upon / in line with the community’s decision making mechanism and align with community priorities.|
-|**Group-level expertise**|The community has expertise which will drive and execute its bioinformatics agenda. This expertise offers a strong collaboration link with the expertise and support available through ABLeS, NCI and Pawsey.|
-|**Collaboration & consultation**|ABLeS is collaborative and involves BioCommons, the research community, and the computational facilities. It is also a standing item for discussion and forums play a strong role in managing the use of ABLeS: groups will thus engage with BioCommons in an open and collaborative manner, with regular meetups.|
-|**Follow compute facility access policies**|All users must abide by the relevant access policies of Pawsey and NCI. [NCI Terms and Conditions of Access](https://nci.org.au/users/nci-terms-and-conditions-access); [NCI Data Collections Management](https://opus.nci.org.au/display/NDP/NCI+Data+Collections+and+Publishing); and [Pawsey Conditions of Access](https://support.pawsey.org.au/documentation/display/US/Conditions+of+Use).|
-|**Time frame / duration of allocations**|Each project is reviewed at the 6 month mark, to ensure resources are being used as efficiently as practical and so challenges can be identified / addressed by the ABLeS team. Reference data and production projects are ongoing by definition, while software accelerator projects need to be renewed at 6 months if the work originally described for the project has not been completed.|
-
