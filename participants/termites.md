@@ -7,13 +7,13 @@ type: ABLeS Participant
 
 ## Project title
 
-Testing links between life-history and genome evolution 
+Testing links between life-history and genome evolution
 
 ## Collaborators and funding
 
 **Collaborators:**
 
-- The University of Sydney 
+- The University of Sydney
 - The University of Melbourne
 - Australian Research Council Discovery Project
 
@@ -30,13 +30,13 @@ We will perform chromosome-scale long-read genome sequencing, population genomic
 
 2. determine how neo-Y chromosomes evolve at the molecular level and whether they display differential expression compared to neo-X chromosomes
 
-3. examine the role of translocations in MSLC 
+3. examine the role of translocations in MSLC
 
 Our project will provide major advances in our understanding of sex chromosome and genome evolution, which underpin biological diversification processes
 
 ## How is ABLeS supporting this work?
 
-We added the support that was requested in the google form eg service units allocated, storage capacity.
+This work is supported through the production bioinformatics scheme provided by ABLeS. The supports includes unlimited temporary storage on scratch, 5 TB long-term storage and 50 KSUs allocation per quarter.
 
 ## Expected outputs enabled by participation in ABLeS
 

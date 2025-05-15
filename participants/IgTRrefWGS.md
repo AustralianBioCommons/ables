@@ -36,12 +36,7 @@ We will perform high coverage whole genome sequencing on high molecular weight D
 
 ## How is ABLeS supporting this work?
 
-ABLeS is supporting our project by providing access to NCI Gadi to host a range of tasks requiring high levels of computing power to perform de-novo assembly, contig-alignment, and quality control of our large datasets. 
-
-NCI Gadi usage defined by:
-gdata 3Tb
-scratch 4Tb
-20 KSU per quarter 
+This work is supported through the production bioinformatics scheme provided by ABLeS. The supports includes 4TB storage on scratch, 3 TB long-term storage and 50 KSUs allocation per quarter.
 
 ## Expected outputs enabled by participation in ABLeS
 

@@ -11,7 +11,7 @@ Quantitative Proteomics Analysis of Drought Tolerance in Australian Wild Cotton 
 
 ## Collaborators and funding
 
-The project involves collaboration between the Australian Proteome Facility and The School of Natural Sciences at Macquarie University. 
+The project involves collaboration between the Australian Proteome Facility and The School of Natural Sciences at Macquarie University.
 The project was funded by Bioplatforms Australia.
 
 ## Contact(s)
@@ -25,7 +25,7 @@ The aim of the project is to perform quantitative proteomics analysis on five sp
 
 ## How is ABLeS supporting this work?
 
-ABLeS provided high performance computing resources for genome and transcriptome assembly, and annotation of protein sequences in the assembled genome. ABLeS provided the resources within short notice as the project was urgent. 
+This work is supported through the production bioinformatics scheme provided by ABLeS. The supports includes unlimited temporary storage on scratch, 3 TB permanent storage and 100 KSUs allocation per quarter.
 
 ## Expected outputs enabled by participation in ABLeS
 

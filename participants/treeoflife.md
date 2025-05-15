@@ -13,7 +13,7 @@ Australian Tree of Life Infrastructure Establishment
 
 **Collaborators:**
 
-- Bioplatforms Australia 
+- Bioplatforms Australia
 - The University of Melbourne
 - Minderoo Foundation
 
@@ -31,8 +31,7 @@ Link to project’s official website: [https://www.biocommons.org.au/atol](https
 
 ## How is ABLeS supporting this work?
 
-- Service Units for developing assembly pipelines
-- Object storage for input/output data
+This work is supported through the production bioinformatics scheme provided by ABLeS. The supports includes unlimited temporary storage on scratch, 2 TB long-term storage and 50 KSUs allocation per quarter.
 
 ## Expected outputs enabled by participation in ABLeS
 
