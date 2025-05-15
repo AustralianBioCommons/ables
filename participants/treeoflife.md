@@ -1,5 +1,5 @@
 ---
-title:  Australian Tree of Life Infrastructure Establishment 
+title:  Australian BioCommons
 description: Faster generation, publication and re-use of reference genomes for Australian species. 
 toc: false
 type: ABLeS Participant

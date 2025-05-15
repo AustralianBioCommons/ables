@@ -1,5 +1,5 @@
 ---
-title:  Testing links between life-history and genome evolution
+title:  Evolution and Phylogenetics Lab, The University of Sydney
 description: This project will investigate the formation of unusual chains of chromosomes that are increasingly being found in various vertebrate and invertebrate taxa, using an organism in which they are most commonly found, termites. We will test the hypothesis that inbreeding drives the evolution of meiotic sex linked chromosomes. 
 toc: false
 type: ABLeS Participant

@@ -1,5 +1,5 @@
 ---
-title:  Workspace for New South Wales Plant Tree of Life (NSWPToL) project
+title:  Botanic Gardens of Sydney;
 description: We aim to use the Angiosperms353 target capture methodology to sequence every native NSW flowering plant species during stage one of our Phylogenomic Flagship project (about 7000 species and subspecies).
 toc: false
 type: ABLeS Participant
@@ -7,7 +7,7 @@ type: ABLeS Participant
 
 ## Project title
 
-Producing a haplotype-resolved germline Ig/TR reference assembly with high-fidelity whole genome sequencing in commonly-used laboratory mouse strains.
+Workspace for New South Wales Plant Tree of Life (NSWPToL) project.
 
 ## Collaborators and funding
 
