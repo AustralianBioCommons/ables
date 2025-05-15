@@ -1,5 +1,5 @@
 ---
-title: Quantitative Proteomics Analysis of Drought Tolerance in Australian Wild Cotton Species
+title: Australian Proteome Facility
 description: This project investigates drought tolerance in Australian wild cotton species through quantitative proteomics analysis, comparing protein expression under drought and normal conditions. We will annotate protein sequences for three species using publicly available genomic and transcriptomic data, aiding our understanding of their drought response mechanisms.
 toc: false
 type: ABLeS Participant
