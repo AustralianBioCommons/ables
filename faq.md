@@ -39,7 +39,7 @@ toc: false
             <blockquote>
                 <strong>Note:</strong>
                 <ul>
-                    <li>Groups can request additional resources when needed through the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfzHJajEKTnGuYWb1gLRR2nlUExLIRM7qSGy_hhbiCKB3KX2Q/viewform?usp=sf_link"><strong>GoogleForm</strong></a>, if the quarterly plan did not accurately predict resource requirements.</li>
+                    <li>Groups can request additional resources when needed through the <a href="https://docs.google.com/forms/d/e/1FAIpQLSe_zrqiE7QSh1FFlmzMxFV6F_u5G-4dnAJ1H7vpN6kkkATyww/viewform?usp=header"><strong>GoogleForm</strong></a>, if the quarterly plan did not accurately predict resource requirements.</li>
                     <li>Unused SUs **can NOT** be rolled-over to the next quarter. </li>
                     <li>As ABLeS is a shared resource covering many groups, it is expected that each group will adopt a best-effort approach to firstly estimate their computational requirement realistically and accurately, and also actively manage the allocations which are provided (i.e. don’t waste your allocation, as the resource is still finite). </li>
                 </ul>
