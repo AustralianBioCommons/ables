@@ -7,7 +7,7 @@ title: Resources available for ABLeS participants
 
 ABLes computational resources are allocated to each project quarterly and additional resources can be requested by each project's bioinformatics lead.
 
-{% include callout.html type="note" content="Additional resources can be requested [using this form](https://docs.google.com/forms/d/e/1FAIpQLSfzHJajEKTnGuYWb1gLRR2nlUExLIRM7qSGy_hhbiCKB3KX2Q/viewform?usp=sf_link)." %}
+{% include callout.html type="note" content="Additional resources can be requested [using this form](https://docs.google.com/forms/d/e/1FAIpQLSe_zrqiE7QSh1FFlmzMxFV6F_u5G-4dnAJ1H7vpN6kkkATyww/viewform?usp=header)." %}
 
 ### Pawsey Supercomputing Centre
 
@@ -26,7 +26,7 @@ Details on:
 
 ABLeS projects are supported by NCI, Pawsey and ABLeS specialists to install, develop, optimise and deploy tools and workflows.
 
-{% include callout.html type="note" content="If you are part of an ABLeS project and need help, please submit a request through [this GoogleForm](https://docs.google.com/forms/d/e/1FAIpQLSfzHJajEKTnGuYWb1gLRR2nlUExLIRM7qSGy_hhbiCKB3KX2Q/viewform?usp=sf_link)." %}
+{% include callout.html type="note" content="If you are part of an ABLeS project and need help, please submit a request through [this GoogleForm](https://docs.google.com/forms/d/e/1FAIpQLSe_zrqiE7QSh1FFlmzMxFV6F_u5G-4dnAJ1H7vpN6kkkATyww/viewform?usp=header)." %}
 
 ## Available software and reference data
 

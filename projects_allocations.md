@@ -43,7 +43,7 @@ Use the drop-down menu below to explore more details:
           <b>Project bioinformatics lead's role:</b>
           <ol>
             <li>Familarise themselves with ABLeS schemes, expectations, and responsibilities.</li>
-            <li>Submit a project plan that contains the details of the project (<a href="https://docs.google.com/forms/d/e/1FAIpQLSf9UVEuhbAsbvVzTEvvE9mLoietryb7e3sDmv74Xhl-1YWj2Q/viewform?usp=sf_link">link</a>). The community’s steering committee (or bioinformatics leads) should approve the plan.</li>
+            <li>Submit a project plan that contains the details of the project (<a href="https://docs.google.com/forms/d/e/1FAIpQLScTzDsJeLxB9if4PnuOiDsDCtSESKTc5d39rDSTUGu5fjCw3Q/viewform?usp=header">link</a>). The community’s steering committee (or bioinformatics leads) should approve the plan.</li>
             <li>Identify known challenges that BioCommons, NCI, or Pawsey may be able to address and / or support as part of ABLeS. You can use the <a href="https://docs.google.com/forms/d/e/1FAIpQLSere1PvgPEuJkpvQUk1-11C88IAeQNQKEUFc-Qgbn5GgKK2jw/viewform?usp=sf_link">GoogleForm</a> to let us know about these challenges.</li>
           </ol> 
           <b>Australian BioCommons' role:</b>
@@ -66,7 +66,7 @@ Use the drop-down menu below to explore more details:
           <div class="accordion-body">
           <b>Project bioinformatics lead's role:</b>
           <ol>
-            <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfzHJajEKTnGuYWb1gLRR2nlUExLIRM7qSGy_hhbiCKB3KX2Q/viewform?usp=sf_link">Request additional resources</a> when the project needs more resources than are available. Each project gets <a href="ables/resources">default resources</a> automatically at the beginning of each quarter without the need to request them.</li>
+            <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSe_zrqiE7QSh1FFlmzMxFV6F_u5G-4dnAJ1H7vpN6kkkATyww/viewform?usp=header">Request additional resources</a> when the project needs more resources than are available. Each project gets <a href="ables/resources">default resources</a> automatically at the beginning of each quarter without the need to request them.</li>
             <li>Attend a quarterly meeting with BioCommons to discuss and report the outcomes of the project (data, methods, publications etc.) in the previous quarter.</li>
             <li>Manage the resources provided by ABLeS including:
               <ul>
@@ -121,8 +121,8 @@ Use the drop-down menu below to explore more details:
 ## Quick access links
 
 <div class="grid gap-2" style="box-sizing: content-box;">
-    <a class="btn btn-primary col-lg-5 col-xl-3 col-xxl-3 col-md-5 col-sm-8 col-8" href="https://docs.google.com/forms/d/e/1FAIpQLSf9UVEuhbAsbvVzTEvvE9mLoietryb7e3sDmv74Xhl-1YWj2Q/viewform?usp=sf_link" style="margin:10px;  padding:10px;">Project Proposal Form</a>
-    <a class="btn btn-primary col-lg-5 col-xl-3 col-xxl-3 col-md-5 col-sm-8 col-8" href="https://docs.google.com/forms/d/e/1FAIpQLSfzHJajEKTnGuYWb1gLRR2nlUExLIRM7qSGy_hhbiCKB3KX2Q/viewform?usp=sf_link" style="margin:10px;  padding: 10px 0px 10px 0px;">Request Additional Resources</a>
+    <a class="btn btn-primary col-lg-5 col-xl-3 col-xxl-3 col-md-5 col-sm-8 col-8" href="https://docs.google.com/forms/d/e/1FAIpQLScTzDsJeLxB9if4PnuOiDsDCtSESKTc5d39rDSTUGu5fjCw3Q/viewform?usp=header" style="margin:10px;  padding:10px;">Project Proposal Form</a>
+    <a class="btn btn-primary col-lg-5 col-xl-3 col-xxl-3 col-md-5 col-sm-8 col-8" href="https://docs.google.com/forms/d/e/1FAIpQLSe_zrqiE7QSh1FFlmzMxFV6F_u5G-4dnAJ1H7vpN6kkkATyww/viewform?usp=header" style="margin:10px;  padding: 10px 0px 10px 0px;">Request Additional Resources</a>
     <a class="btn btn-primary col-lg-5 col-xl-3 col-xxl-3 col-md-5 col-sm-8 col-8" href="https://workflowhub.eu/" style="margin:10px;  padding: 10px 0px 10px 0px;"> Share your workflow</a>
     <a class="btn btn-primary col-lg-5 col-xl-3 col-xxl-3 col-md-5 col-sm-8 col-8" href="https://docs.google.com/forms/d/e/1FAIpQLSere1PvgPEuJkpvQUk1-11C88IAeQNQKEUFc-Qgbn5GgKK2jw/viewform?usp=sf_link" style="margin:10px;  padding:10px;">Help/Feedback Form</a>
     <a class="btn btn-primary col-lg-5 col-xl-3 col-xxl-3 col-md-5 col-sm-8 col-8" href="https://docs.google.com/forms/d/e/1FAIpQLSdO1w-RY8OexUBwJx8BHNMwSRNPA3_-5r6pefdQW8ancbKZqw/viewform?usp=sf_link" style="margin:10px;  padding:10px;">Report Project Outcome Form</a>
