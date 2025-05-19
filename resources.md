@@ -26,7 +26,7 @@ Details on:
 
 ABLeS projects are supported by NCI, Pawsey and ABLeS specialists to install, develop, optimise and deploy tools and workflows.
 
-{% include callout.html type="note" content="If you are part of an ABLeS project and need help, please submit a request through [this GoogleForm](https://docs.google.com/forms/d/e/1FAIpQLSe_zrqiE7QSh1FFlmzMxFV6F_u5G-4dnAJ1H7vpN6kkkATyww/viewform?usp=header)." %}
+{% include callout.html type="note" content="If you are part of an ABLeS project and need help, please submit a request through [this GoogleForm](https://docs.google.com/forms/d/e/1FAIpQLSere1PvgPEuJkpvQUk1-11C88IAeQNQKEUFc-Qgbn5GgKK2jw/viewform?usp=sf_link)." %}
 
 ## Available software and reference data
 
