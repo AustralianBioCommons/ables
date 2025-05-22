@@ -1,5 +1,5 @@
 ---
-title:  Cancer Signalling Research Group, School of Biomedical Sciences & Pharmacy, University of Newcastle.
+title:  Cancer Signalling Research Group, School of Biomedical Sciences & Pharmacy, University of Newcastle
 description: Development of DMG ADvanced mAchine learning Precision Treatment Strategy (ADAPTS) platform. This project aims to model temporal tumour adaptations to therapy and predict targetable vulnerabilities, based on non-invasive blood profiling, for therapeutic adjustments of patients with DMG under treatment.
 toc: false
 type: ABLeS Participant

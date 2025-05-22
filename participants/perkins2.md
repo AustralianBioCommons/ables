@@ -1,5 +1,5 @@
 ---
-title: Systems biology and genomics lab, Harry Perkins Institute of Medical Research.
+title: Systems biology and genomics lab, Harry Perkins Institute of Medical Research
 description: Unravel the spatial signalling ecosystem of cancer cells versus normal tissues through integrated analysis of single-cell and spatial transcriptomics data.
 toc: false
 type: ABLeS Participant

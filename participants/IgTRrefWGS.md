@@ -1,5 +1,5 @@
 ---
-title:  Producing a haplotype-resolved germline Ig/TR reference assembly with high-fidelity whole genome sequencing in commonly-used laboratory mouse strains.
+title:  Producing a haplotype-resolved germline Ig/TR reference assembly with high-fidelity whole genome sequencing in commonly-used laboratory mouse strains
 description: Defining accurate strain-specific germline references is an essential tool for understanding the development of B and T cells during immune responses. We are producing a haplotype-resolved Immunoglobulin and T cell receptor germline reference assembly using high-fidelity whole genome sequencing on BALB/c and B10.BR mice, followed by de-novo reference assembly, contig-alignment and annotation.
 toc: false
 type: ABLeS Participant

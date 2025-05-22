@@ -1,5 +1,5 @@
 ---
-title: School of Computer Science and Engineering, UNSW Sydney.
+title: School of Computer Science and Engineering, UNSW Sydney
 description: The project aims to first support and then accelerate nanopore basecalling on multiple GPU architectures from different vendors.
 toc: false
 type: ABLeS Participant

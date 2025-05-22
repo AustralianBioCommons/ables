@@ -1,5 +1,5 @@
 ---
-title: Population Health and Immunity, WEHI.
+title: Population Health and Immunity, WEHI
 description: This project aims to establish a robust metagenome assembled genome (MAG) database specifically focussing on bacterial communities from freshwater and wastewater ecosystems. Development of comprehensive metagenome assembled genome (MAG) database can provide essential insights into these ecosystems, ultimately supporting/allowing researchers to easily access and utilize the genomic data for their studies and decision-making.
 toc: false
 type: ABLeS Participant
