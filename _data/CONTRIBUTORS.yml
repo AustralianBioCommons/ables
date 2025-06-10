@@ -5,93 +5,118 @@
 # reference maintainers/contributors by their name used in contributors metadata section on the pages.
 
 Steven Manos:
-    git: smanosmxm
-    email: steven@biocommons.org.au
-    orcid:
-    role: lead
-    affiliation: Australian BioCommons / University of Melbourne
+  git: smanosmxm
+  email: steven@biocommons.org.au
+  orcid:
+  role: lead
+  affiliation: Australian BioCommons / University of Melbourne
 
 Johan Gustafsson:
-    git: supernord
-    email: johan@biocommons.org.au
-    orcid: 0000-0002-2977-5032
-    role: Engagement
-    affiliation: Australian BioCommons, University of Melbourne
+  git: supernord
+  email: johan@biocommons.org.au
+  orcid: 0000-0002-2977-5032
+  role: Engagement
+  affiliation: Australian BioCommons, University of Melbourne
 
 Ziad Al Bkhetan:
-    git: ziadbkh
-    email: ziad@biocommons.org.au
-    orcid: 0000-0002-4032-5331
-    role: Technical/Engagement
-    affiliation: Australian BioCommons, University of Melbourne
+  git: ziadbkh
+  email: ziad@biocommons.org.au
+  orcid: 0000-0002-4032-5331
+  role: Technical/Engagement
+  affiliation: Australian BioCommons, University of Melbourne
 
 Hardip Patel:
-    git: hp2048
-    email: Hardip.patel@anu.edu.au
-    orcid: orcid=0000-0003-3169-049X
-    role: if89 Contributor
-    affiliation: National Centre for Indigenous Genomics, John Curtin School of Medical Research, The Australian National University
+  git: hp2048
+  email: Hardip.patel@anu.edu.au
+  orcid: orcid=0000-0003-3169-049X
+  role: if89 Contributor
+  affiliation: National Centre for Indigenous Genomics, John Curtin School of Medical Research, The Australian National University
 
 J King Chang:
-    git: JKing2000
-    email: joykchang@hotmail.com
-    orcid: 
-    role: if89 Contributor
-    affiliation: School of Biotechnology and Biomolecular Science, Faculty of Science, UNSW, Sydney
+  git: JKing2000
+  email: joykchang@hotmail.com
+  orcid:
+  role: if89 Contributor
+  affiliation: School of Biotechnology and Biomolecular Science, Faculty of Science, UNSW, Sydney
 
 Dale Roberts:
-    git: dsroberts
-    email: dsroberts@unimelb.edu.au
-    orcid: 0000-0003-3952-6344
-    role: if89 Contributor
-    affiliation: National Computational Infrastructure (NCI) (at the time of this work), ARC Centre of Excellence for Climate Extremes
+  git: dsroberts
+  email: dsroberts@unimelb.edu.au
+  orcid: 0000-0003-3952-6344
+  role: if89 Contributor
+  affiliation: National Computational Infrastructure (NCI) (at the time of this work), ARC Centre of Excellence for Climate Extremes
 
 Andrey Bliznyuk:
-    git: 
-    email: Andrey.Bliznyuk@anu.edu.au
-    orcid: 
-    role: if89 Contributor
-    affiliation: National Computational Infrastructure (NCI)
+  git:
+  email: Andrey.Bliznyuk@anu.edu.au
+  orcid:
+  role: if89 Contributor
+  affiliation: National Computational Infrastructure (NCI)
 
 Kyle Drover:
-    git:  dorkylever
-    email: kyle.drover@anu.edu.au
-    orcid: 
-    role: if89 Contributor
-    affiliation: 
-
+  git: dorkylever
+  email: kyle.drover@anu.edu.au
+  orcid:
+  role: if89 Contributor
+  affiliation:
 
 Terry Bertozzi:
-    git: 
-    email: 
-    orcid: 0000-0001-6665-3395
-    role: if89 Contributor
-    affiliation: South Australian Museum
+  git:
+  email:
+  orcid: 0000-0001-6665-3395
+  role: if89 Contributor
+  affiliation: South Australian Museum
 
 Javed Shaikh:
-    git: 
-    email: javed.shaikh@anu.edu.au 
-    orcid: 
-    role: if89 Contributor
-    affiliation: National Computational Infrastructure (NCI), Australian National University (ANU)
+  git:
+  email: javed.shaikh@anu.edu.au
+  orcid:
+  role: if89 Contributor
+  affiliation: National Computational Infrastructure (NCI), Australian National University (ANU)
 
 Kisaru Liyanage:
-    git: kisarur
-    email: kisaru.liyanage@anu.edu.au
-    orcid: 
-    role: if89 Contributor
-    affiliation: National Computational Infrastructure (NCI)
+  git: kisarur
+  email: kisaru.liyanage@anu.edu.au
+  orcid:
+  role: if89 Contributor
+  affiliation: National Computational Infrastructure (NCI)
 
 Tim Amos:
-    git: Timothy-Amos
-    email: t.amos@garvan.org.au
-    orcid: 0000-0002-5829-6655
-    role: if89 Contributor
-    affiliation: Garvan Institute of Medical Research
+  git: Timothy-Amos
+  email: t.amos@garvan.org.au
+  orcid: 0000-0002-5829-6655
+  role: if89 Contributor
+  affiliation: Garvan Institute of Medical Research
 
 Hyungtaek Jung:
-    git: OZTaekOppa
-    email: hyungtaek.jung@anu.edu.au
-    orcid: 0000-0003-2464-1235
-    role: if89 Contributor
-    affiliation: National Centre for Indigenous Genomics, Australian National University
+  git: OZTaekOppa
+  email: hyungtaek.jung@anu.edu.au
+  orcid: 0000-0003-2464-1235
+  role: if89 Contributor
+  affiliation: National Centre for Indigenous Genomics, Australian National University
+
+Leah Kemp:
+  git: leahkemp
+  email: l.kemp@garvan.org.au
+  role: if89 Contributor
+  affiliation: Garvan Institute of Medical Research
+
+Wenjing Xue:
+  git: eileen-xue
+  email: wenjing.xue@anu.edu.au
+  role: if89 Contributor
+  affiliation: National Computational Infrastructure (NCI)
+
+Kirat Alreja:
+  git: kiratalreja3
+  email: kirat.alreja@anu.edu.au
+  orcid: 0009-0007-8937-9844
+  role: if89 Contributor
+  affiliation: National Centre for Indigenous Genomics, Australian National University
+
+Andre Martins Reis:
+  git: almreis
+  email: a.martinsreis@garvan.org.au
+  orcid: 0000-0002-7300-1157
+  role: if89 Contributor
+  affiliation: Garvan Institute of Medical Research
