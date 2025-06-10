@@ -1,5 +1,5 @@
 ---
-title:  Transplantation Immunobiology Group, Central Clinical School, The University of Sydney
+title: Transplantation Immunobiology Group, Central Clinical School, The University of Sydney
 description: Defining accurate strain-specific germline references is an essential tool for understanding the development of B and T cells during immune responses. We are producing a haplotype-resolved Immunoglobulin and T cell receptor germline reference assembly using high-fidelity whole genome sequencing on BALB/c and B10.BR mice, followed by de-novo reference assembly, contig-alignment and annotation.
 toc: false
 type: ABLeS Participant
@@ -44,4 +44,4 @@ Our work will result in haplotype-resolved Immunoglobulin and T cell receptor ge
 
 <br/>
 
-> *These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above.*
+> _These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above._

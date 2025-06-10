@@ -1,5 +1,5 @@
 ---
-title:  Walter and Eliza Hall Medical Research Institute 
+title: Walter and Eliza Hall Medical Research Institute
 description: Haemosphere is a publicly available resource of transcriptional data for human and mouse blood cells. This allows researchers around the world to access the expression data for their genes of interest, and identify novel genes that are interesting in their field of study.
 toc: false
 type: ABLeS Participant
@@ -39,4 +39,4 @@ We expect that this support will enable the continued use of this resource by th
 
 <br/>
 
-> *These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above.*
+> _These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above._

@@ -6,6 +6,7 @@ type: ABLeS Participant
 ---
 
 ## Project title
+
 Accelerating nanopore basecalling on different GPU architectures
 
 ## Collaborators and funding
@@ -17,7 +18,6 @@ Accelerating nanopore basecalling on different GPU architectures
 ## Contact(s)
 
 - Hasindu Gamaarachchi, UNSW Sydney, <hasindu@unsw.edu.au>
-
 
 ## Project description and aims
 
@@ -31,7 +31,6 @@ GPU architectures from different vendors, including the AMD GPUs that are availa
 Pawsey supercomputer.
 https://github.com/BonsonW/slorado
 
-
 ## How is ABLeS supporting this work?
 
 This work is supported through the software accelerator scheme provided by ABLeS. The supports includes 1 TB long term storage and 20 KSUs per quarter.
@@ -44,4 +43,4 @@ this project.
 
 <br/>
 
-> *These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above.*
+> _These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above._

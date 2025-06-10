@@ -19,10 +19,9 @@ Tailoring precision immunotherapy to age and sex differences through digital tis
 
 **Funding:** SAiGENCI startup funds, CZI Essential Open Source Software for Science.
 
-
 ## Contact(s)
 
-- Stefano Mangiola, SAiGENCI  <stefano.mangiola@adelaide.edu.au>
+- Stefano Mangiola, SAiGENCI <stefano.mangiola@adelaide.edu.au>
 
 ## Project description and aims
 

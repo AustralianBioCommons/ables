@@ -6,13 +6,14 @@ type: ABLeS Participant
 ---
 
 ## Project title
+
 Metagenome-informed discovery, development and optimization of genome editing solutions.
 
 ## Contact(s)
 
 - Simon Jackson simon.jackson@platypusbio.com
 
-![PlatypusBio](../images/platypusbio.jpg){: style="display: block; margin-left: auto;  margin-right: auto;"}
+![PlatypusBio](../images/platypusbio.jpg){: style="display: block; margin-left: auto; margin-right: auto;"}
 
 ## Project description and aims
 
@@ -24,11 +25,10 @@ untapped microbes around the globe. From nature to sequence to therapies,
 our vision is to support new and alternate therapeutic approaches in the
 precision genomics era.
 
-
 ## How is ABLeS supporting this work?
 
 This work is supported through the production bioinformatics scheme provided by ABLeS. The supports includes 1 TB temprary storage, 5 TB long term storage and 100 KSUs per quarter.
 
 <br/>
 
-> *These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above.*
+> _These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above._

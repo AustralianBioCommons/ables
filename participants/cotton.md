@@ -17,7 +17,7 @@ The project was funded by Bioplatforms Australia.
 ## Contact(s)
 
 - Ignatius Pang, Australian Proteome Analysis Facility (APAF), <ignatius.pang@mq.edu.au>
-- Brian Atwell, School of Natural Sciences, Macquarie University, <brian.atwell@mq.edu.au> 
+- Brian Atwell, School of Natural Sciences, Macquarie University, <brian.atwell@mq.edu.au>
 
 ## Project description and aims
 
@@ -29,7 +29,7 @@ This work is supported through the production bioinformatics scheme provided by 
 
 ## Expected outputs enabled by participation in ABLeS
 
-The outcome research will be written as a manuscript and submitted to a peer reviewed journal for publication. The assembled genome and protein annotations will be submitted to public genomics repository (e.g. NCBI’s databases). 
+The outcome research will be written as a manuscript and submitted to a peer reviewed journal for publication. The assembled genome and protein annotations will be submitted to public genomics repository (e.g. NCBI’s databases).
 
 <br/>
 

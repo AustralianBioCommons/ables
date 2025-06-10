@@ -32,11 +32,11 @@ Queensland University of Technology (QUT)
 ## Project description and aims
 
 Aims of the project:
-•	Design, develop, test, and optimise an end-to-end nf-ONTvisc workflow for the diagnosis of plant and insect viruses using ONT long read data collected via whole genome metagenomics sequencing and / or amplicon targeted sequencing.
-•	Assess the performance of nf-ONTvisc workflow for running on diverse platforms including on-prem HPC and national compute infrastructure facilities (Pawsey Supercomputing Centre and the National Computational Infrastructure (NCI)).
-•	Prepare a hands-on training user guide for the upskilling of end users and make the resource available through appropriate platforms.
+• Design, develop, test, and optimise an end-to-end nf-ONTvisc workflow for the diagnosis of plant and insect viruses using ONT long read data collected via whole genome metagenomics sequencing and / or amplicon targeted sequencing.
+• Assess the performance of nf-ONTvisc workflow for running on diverse platforms including on-prem HPC and national compute infrastructure facilities (Pawsey Supercomputing Centre and the National Computational Infrastructure (NCI)).
+• Prepare a hands-on training user guide for the upskilling of end users and make the resource available through appropriate platforms.
 
-The project's first phase was completed at the end of December 2023. Version 1.0 of the ONTViSc pipeline is now available on [GitHub](https://github.com/eresearchqut/ontvisc) and [WorkflowHub](https://workflowhub.eu/workflows/683). Detailed information can be found on [GitHub](https://github.com/eresearchqut/ontvisc). A step-by-step draft of a guide on how to set up and execute the ONTvisc pipeline on one of the HPC systems: Lyra (Queensland University of Technology), Setonix (Pawsey) and Gadi (National Computational Infrastructure) can be found [here](https://mantczakaus.github.io/ontvisc_guide/). 
+The project's first phase was completed at the end of December 2023. Version 1.0 of the ONTViSc pipeline is now available on [GitHub](https://github.com/eresearchqut/ontvisc) and [WorkflowHub](https://workflowhub.eu/workflows/683). Detailed information can be found on [GitHub](https://github.com/eresearchqut/ontvisc). A step-by-step draft of a guide on how to set up and execute the ONTvisc pipeline on one of the HPC systems: Lyra (Queensland University of Technology), Setonix (Pawsey) and Gadi (National Computational Infrastructure) can be found [here](https://mantczakaus.github.io/ontvisc_guide/).
 
 ## How is ABLeS supporting this work?
 
@@ -44,6 +44,6 @@ This work is supported through the software accelerator scheme provided by ABLeS
 
 ## Expected outputs enabled by participation in ABLeS
 
-ABLeS enables the ONTViSc pipeline to be tested using the Seqera platform on Gadi (NCI) and Setonix (Pawsey). This ensures that the workflow is compatible with the Seqera platform, Slurm and PBS-based computing environments and, hence, accessible to a wider community. 
+ABLeS enables the ONTViSc pipeline to be tested using the Seqera platform on Gadi (NCI) and Setonix (Pawsey). This ensures that the workflow is compatible with the Seqera platform, Slurm and PBS-based computing environments and, hence, accessible to a wider community.
 
-> *These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above.*
+> _These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above._

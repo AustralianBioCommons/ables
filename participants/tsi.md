@@ -6,14 +6,14 @@ type: ABLeS Participant
 ---
 
 ## Project title
+
 Workspace for Threatened Species Initiative
 
 ## Collaborators and funding
 
-
 ## Contact(s)
 
-- Kate Farquharson <katherine.farquharson@sydney.edu.au> 
+- Kate Farquharson <katherine.farquharson@sydney.edu.au>
 
 ## Project description and aims
 
@@ -27,4 +27,4 @@ This work is supported through the reference data asset creation scheme provided
 
 <br/>
 
-> *These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above.*
+> _These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above._

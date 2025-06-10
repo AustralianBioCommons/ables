@@ -1,11 +1,12 @@
 ---
-title:  Southern Cross University
+title: Southern Cross University
 description: Analysis for NVIDIA Parabricks and GATK benchmarking for RNA-Seq, based on NVIDIA recommendations as well as for designing probes for an amplicon-based SNP array genotyping platform.
 toc: false
 type: ABLeS Participant
 ---
 
 ## Project title
+
 Parabricks and GATK benchmarking, and Cannabis SNPs Genotyping Array Design.
 
 ## Collaborators and funding
@@ -33,7 +34,8 @@ Toolkit GATK. Previous benchmarking project compared the GATK Germline and
 Parabricks fq2bam workflows, available at [this link](https://github.com/Southern-Cross-Plant-Science/GATK-Parabricks_benchmarking_Gadi_NCI).
 
 This project extended the pipeline and benchmarking to include the:
-- [GATK RNA-Seq variant discovery](https://gatk.broadinstitute.org/hc/en-us/articles/360035531192-RNAseq-short-variant-discovery-SNPs-Indels-), and 
+
+- [GATK RNA-Seq variant discovery](https://gatk.broadinstitute.org/hc/en-us/articles/360035531192-RNAseq-short-variant-discovery-SNPs-Indels-), and
 - [Parabricks rna_fq2bam](https://docs.nvidia.com/clara/parabricks/3.8.0/Documentation/ToolDocs/man_rna_fq2bam.html)
 
 The number of discovered variants, service unit (SU) usage and runtime will be compared.
@@ -53,7 +55,7 @@ This work is supported through Software accelerator scheme provided by ABLeS. Th
 
 ## Expected outputs enabled by participation in ABLeS
 
-The developed pipeline and benchmarking report are available at this [link](https://github.com/Southern-Cross-Plant-Science/GATK-Parabricks_benchmarking_Gadi_NCI). 
+The developed pipeline and benchmarking report are available at this [link](https://github.com/Southern-Cross-Plant-Science/GATK-Parabricks_benchmarking_Gadi_NCI).
 
 The generated Cannabis SNP genotypes are hosted at the [ICGRC - CannSeek Genotype Viewer](https://icgrc.info/genotype_viewer). This resource will be submitted for publication soon.
 
@@ -61,4 +63,4 @@ Pipeline for SNP-Assay design using machine learning methods, and benchmarking b
 
 <br/>
 
-> *These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above.*
+> _These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above._

@@ -2,7 +2,7 @@
 title: School of Biomedical Sciences, The University of Western Australia.
 description: This project involves investigating a novel neural network architecture for predicting protein-ligand binding affinity constants with potentially improved accuracy and generalisation compared to previous methods.
 toc: false
-type: ABLeS Participant
+type: ABLeS Participant - Completed
 ---
 
 ## Project title
