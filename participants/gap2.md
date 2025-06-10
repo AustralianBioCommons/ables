@@ -1,6 +1,6 @@
 ---
 title: Genomics for Australian Plants (GAP) Framework Initiative
-description: Genome Assembly and base calling for genomes genreated by GAP. 
+description: Genome Assembly and base calling for genomes genreated by GAP.
 toc: false
 type: ABLeS Participant
 ---
@@ -22,16 +22,15 @@ The Initiative is supported by funding from Bioplatforms Australia (enabled by N
 
 - GAP Project Manager: Dr Mabel Lum <mlum@bioplatforms.com>
 
-
 ## Project description and aims
 
 The [Genomics for Australian Plants](https://www.genomicsforaustralianplants.com/) Framework Initiative was initiated by Bioplatforms in partnership with researchers from the Australian State and National Herbaria and Botanic Gardens.
 Broadly, the key aims of this part of the Initiative are:
 
-+ Sequence and assemble representative Australian plant genomes across across the plant
-tree of life to enable better conservation, utilisation and understanding of Australia’s unique plant diversity;
+- Sequence and assemble representative Australian plant genomes across across the plant
+  tree of life to enable better conservation, utilisation and understanding of Australia’s unique plant diversity;
 
-+ Build genomic capacity across Australian Botanic Gardens and Herbaria to create networks collaborating in the collection, management, dissemination and application of genomic data for Australian plants;
+- Build genomic capacity across Australian Botanic Gardens and Herbaria to create networks collaborating in the collection, management, dissemination and application of genomic data for Australian plants;
 
 ## How is ABLeS supporting this work?
 
@@ -47,4 +46,4 @@ repositories, and a descriptive publication written.
 
 <br/>
 
-> *These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above.*
+> _These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above._

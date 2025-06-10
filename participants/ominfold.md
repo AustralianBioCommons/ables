@@ -18,7 +18,7 @@ OmniFold: Open-Source Biomolecular Structure Prediction for All
 - [Phil Wang (independent)](https://lucidrains.github.io).
 
 - [Hoa La and Minjia Zhang](https://minjiazhang.github.io), Department of Computer Science,
-University of Illinois Urbana-Champagne
+  University of Illinois Urbana-Champagne
 
 - George Bouras, Adelaide Medical School, Faculty of Health and Medical Sciences, University of Adelaide
 
@@ -49,4 +49,4 @@ Model weights and full inference pipeline will be available via GitHub and Huggi
 
 <br/>
 
-> *These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above.*
+> _These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above._

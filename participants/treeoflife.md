@@ -1,13 +1,13 @@
 ---
-title:  Australian BioCommons
-description: Faster generation, publication and re-use of reference genomes for Australian species. 
+title: Australian BioCommons
+description: Faster generation, publication and re-use of reference genomes for Australian species.
 toc: false
 type: ABLeS Participant
 ---
 
 ## Project title
 
-Australian Tree of Life Infrastructure Establishment 
+Australian Tree of Life Infrastructure Establishment
 
 ## Collaborators and funding
 
@@ -24,6 +24,7 @@ Australian Tree of Life Infrastructure Establishment
 ## Project description and aims
 
 The Australian Tree of Life will be a digital library of molecular data for species relevant to Australia, powered by:
+
 1. A Genome Engine, enabling rapid, automated genome assembly, annotation and publication
 2. Data labs that enhance use of genomics resources in biodiversity and biosecurity.
 
@@ -40,4 +41,4 @@ This work is supported through the production bioinformatics scheme provided by 
 
 <br/>
 
-> *These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above.*
+> _These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above._

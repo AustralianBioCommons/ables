@@ -6,6 +6,7 @@ type: ABLeS Participant
 ---
 
 ## Project title
+
 The Effect of a Mediterranean Diet on Blood DNA Methylation Profiles in Pregnant Women.
 
 ## Collaborators and funding
@@ -13,7 +14,6 @@ The Effect of a Mediterranean Diet on Blood DNA Methylation Profiles in Pregnant
 - [Clinical Epigenetic team, Telethon Kids Institute](https://www.telethonkids.org.au/)
 
 - [The ORIGINS Project](https://originsproject.telethonkids.org.au/)
-
 
 ## Contact(s)
 
@@ -35,7 +35,7 @@ Details about The ORIGINS Study can be accessed via the following link:
 
 ## How is ABLeS supporting this work?
 
-This work is supported through the production bioinformatics scheme provided by ABLeS. The supports includes unlimited temporary storage on scratch, 5 TB permenant storage  and 50 KSUs per quarter.
+This work is supported through the production bioinformatics scheme provided by ABLeS. The supports includes unlimited temporary storage on scratch, 5 TB permenant storage and 50 KSUs per quarter.
 
 ## Expected outputs enabled by participation in ABLeS
 
@@ -43,4 +43,4 @@ ABLeS will enable the processing of raw methylation sequenced data (fastq files)
 
 <br/>
 
-> *These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above.*
+> _These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above._

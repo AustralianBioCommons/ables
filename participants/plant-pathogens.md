@@ -6,6 +6,7 @@ type: ABLeS Participant
 ---
 
 ## Project title
+
 Workspace for Plant Pathogen Omics Initiative
 
 ## Collaborators and funding
@@ -24,12 +25,11 @@ through collaboration with the national plant pathogen community.
 The Bioplatforms-supported Plant Pathogen Omics Initiative will generate high quality molecular reference data for plant pathogens important to the Australia economy or ecosystems. The data will be developed through collaboration with the national plant pathogen community and will be used as a foundational data asset to support:
 
 - Fundamental research and development in plant protection (e.g., understanding emergence
-and evolution of pathogens in crop systems, resolving taxonomy and race structure,
-informing biocide development, etc.); and
+  and evolution of pathogens in crop systems, resolving taxonomy and race structure,
+  informing biocide development, etc.); and
 
 - An effective national biosecurity surveillance system (e.g., incursion detection, rapid
-diagnostics tests, etc.)
-
+  diagnostics tests, etc.)
 
 ## How is ABLeS supporting this work?
 
@@ -37,14 +37,13 @@ This work is supported through the reference data asset creation scheme provided
 
 ## Expected outputs enabled by participation in ABLeS
 
-+ Genome resources for Australian biosecurity, 
-+ New workflows, 
-+ Publications, and 
-+ Policy documents.
+- Genome resources for Australian biosecurity,
+- New workflows,
+- Publications, and
+- Policy documents.
 
 Raw data and genomes under embargo will be stored on the Bioplatforms Australia Data Portal. At the time of publication, data will be at NCBI / SRA for long term storage.
 
-
 <br/>
 
-> *These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above.*
+> _These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above._

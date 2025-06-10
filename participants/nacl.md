@@ -20,13 +20,13 @@ Vanessa Melino, University of Newcastle, <vanessa.melino@newcastle.edu.au>
 ## Project description and aims
 
 - **Aim 1.** Define and resolve the phylogenetic relationships of novel class of RNA-binding proteins across the plant kingdom and marine photosynthetic organisms.
-*Planned Analysis 1.* Collecting >2000 protein sequences across organisms, multiple sequence alignments and maximum likelihood calculations.
+  _Planned Analysis 1._ Collecting >2000 protein sequences across organisms, multiple sequence alignments and maximum likelihood calculations.
 - **Aim 2.** Identify RNA-binding targets and common binding motifs for this novel class of RNA-binding proteins from salt extremophile when expressed in GM Arabidopsis and exposed to salt stress.
-*Planned Analysis 2.* RNA-immunoprecipitation to isolate and sequence RNA binding partners by RIP-seq and input RNA by RNA-seq. Quality control and adapter trimming of raw reads, alignment to reference, read counts and enrichment analysis. Differential expression analysis and GO ontology and functional annotation.
+  _Planned Analysis 2._ RNA-immunoprecipitation to isolate and sequence RNA binding partners by RIP-seq and input RNA by RNA-seq. Quality control and adapter trimming of raw reads, alignment to reference, read counts and enrichment analysis. Differential expression analysis and GO ontology and functional annotation.
 - **Aim 3.** Identify new gene targets and regulatory elements for unique salt tolerance mechanisms identified in wild extremophiles (Salicornia genus).
-*Planned Analysis 3.* Visualisation of RNA-seq and IsoSeq data on new reference genomes for six Salicornia species, improved annotation using Apollo version 3.
+  _Planned Analysis 3._ Visualisation of RNA-seq and IsoSeq data on new reference genomes for six Salicornia species, improved annotation using Apollo version 3.
 - **Aim 4.** Genome-wide association study of domestication traits across a genotyped population of a wild extremophile (Salicornia genus).
-*Planned Analysis 4.* Seed quality traits with equal distribution across the diploid Salicornia population used in GWAS testing for differences in allele frequency with different models. Bioinformatic visualization of SNPs across population as compared to the reference genome.
+  _Planned Analysis 4._ Seed quality traits with equal distribution across the diploid Salicornia population used in GWAS testing for differences in allele frequency with different models. Bioinformatic visualization of SNPs across population as compared to the reference genome.
 
 **Outcomes:** This project will generate new knowledge on a unique salt tolerance mechanism enabling salt extremophiles to grow with salt water. Regulatory pathways will be identified bioinformatically and tested experimentally in a synthetic biology approach. ABLeS will also enable our team to use our extensive omic resources for better understanding of hpw the pathways are regulated forming the basis of a new sub-discipline in stress adaptation research.
 [https://www.newcastle.edu.au/profile/vanessa-melino](https://www.newcastle.edu.au/profile/vanessa-melino)

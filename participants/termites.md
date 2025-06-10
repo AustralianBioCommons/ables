@@ -1,6 +1,6 @@
 ---
-title:  Evolution and Phylogenetics Lab, The University of Sydney
-description: This project will investigate the formation of unusual chains of chromosomes that are increasingly being found in various vertebrate and invertebrate taxa, using an organism in which they are most commonly found, termites. We will test the hypothesis that inbreeding drives the evolution of meiotic sex linked chromosomes. 
+title: Evolution and Phylogenetics Lab, The University of Sydney
+description: This project will investigate the formation of unusual chains of chromosomes that are increasingly being found in various vertebrate and invertebrate taxa, using an organism in which they are most commonly found, termites. We will test the hypothesis that inbreeding drives the evolution of meiotic sex linked chromosomes.
 toc: false
 type: ABLeS Participant
 ---
@@ -24,7 +24,7 @@ Testing links between life-history and genome evolution
 
 ## Project description and aims
 
-We will perform chromosome-scale long-read genome sequencing, population genomic, molecular evolutionary, and differential expression analyses on *G. nakajimai* and *N. insularis* to:
+We will perform chromosome-scale long-read genome sequencing, population genomic, molecular evolutionary, and differential expression analyses on _G. nakajimai_ and _N. insularis_ to:
 
 1. test the hypothesized links between inbreeding, deleterious mutation sheltering, and MSLC
 
@@ -40,9 +40,9 @@ This work is supported through the production bioinformatics scheme provided by 
 
 ## Expected outputs enabled by participation in ABLeS
 
-We will generate genome sequences for a number of termite species, including Australian species which are pests of wood in service. These will be deposited in genome databanks. 
+We will generate genome sequences for a number of termite species, including Australian species which are pests of wood in service. These will be deposited in genome databanks.
 We will publish a number of papers on the genomes of termites, and their novel chromosome structures.
 
 <br/>
 
-> *These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above.*
+> _These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above._

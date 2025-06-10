@@ -1,6 +1,6 @@
 ---
 title: University of Canberra
-description: The project will analyse Tasmanian Devil genome to shed light on causes of Tasmanian  Devil facial tumour disease (DFTD) disease. 
+description: The project will analyse Tasmanian Devil genome to shed light on causes of Tasmanian  Devil facial tumour disease (DFTD) disease.
 toc: false
 type: ABLeS Participant
 ---
@@ -11,11 +11,9 @@ Genomic analysis of Tasmanian Devil
 
 ## Collaborators and funding
 
-
 ## Contact(s)
 
 - Ambikesh Jayal <ambi.jayal@canberra.edu.au>
-
 
 ## Project description and aims
 
@@ -35,14 +33,12 @@ The subtelomeres of only a few species have been characterised so far; this incl
 
 3. Explore the subtelomere's role in regulating the Tasmanian devil's unique telomere and its facial tumours.
 
-
-
 ## How is ABLeS supporting this work?
 
-This work is supported through the production bioinformatics scheme provided by ABLeS. The supports includes 1 TB temporary storage on scratch, 0.5 TB permenant storage  and 50 KSUs per quarter.
+This work is supported through the production bioinformatics scheme provided by ABLeS. The supports includes 1 TB temporary storage on scratch, 0.5 TB permenant storage and 50 KSUs per quarter.
 
 ## Expected outputs enabled by participation in ABLeS
 
 <br/>
 
-> *These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above.*
+> _These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above._

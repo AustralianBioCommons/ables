@@ -6,6 +6,7 @@ type: ABLeS Participant
 ---
 
 ## Project title
+
 Analysis of cancer multi-omics and imaging data
 
 ## Collaborators and funding
@@ -26,7 +27,7 @@ Analysis of cancer multi-omics and imaging data
 
 ## Contact(s)
 
-- Anna Trigos, Peter MacCallum Cancer Centre, <anna.trigos@petermac.org> 
+- Anna Trigos, Peter MacCallum Cancer Centre, <anna.trigos@petermac.org>
 
 ## Project description and aims
 
@@ -37,13 +38,14 @@ Analysis of cancer multi-omics and imaging data
 2. Understand how cancer ecosystems enable cancer progression and treatment resistance
 
 3. Develop methods to analyse the spatial distribution of tumour and
-microenvironment cells
+   microenvironment cells
 
 4. Predict disease progression and treatment response from patient PET and CT imaging
 
 More details are in our [website](https://www.petermac.org/research/research-programs-and-labs/computational-biology-program/anna-trigos-lab)
 
 ## How is ABLeS supporting this work?
+
 This work is supported through the Production Bioinformatics scheme provided by ABLeS. The support includes 5 TB long term storage and 50 KSUs per quarter.
 
 ## Expected outputs enabled by participation in ABLeS
@@ -54,4 +56,4 @@ Tools and workflows can be accessed through: [https://github.com/TrigosTeam](htt
 
 <br/>
 
-> *These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above.*
+> _These details have been provided by project members at project initiation. For more information on the project, please consult the contact(s) or project links above._
