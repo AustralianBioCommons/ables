@@ -6,12 +6,12 @@ subitems:
     url: /eligibility
   - title: Getting started
     url: /projects_allocations
-  - title: Available resources
+  - title: ABLeS resources & how-to Guides
     url: /resources
-  - title: ABLeS Participants
-    url: /participants
-  - title: Shared software and reference data
+  - title: ABLeS software and reference data
     url: /if89
+  - title: ABLeS participants
+    url: /participants
   - title: Acknowledging ABLeS
     url: /acknowledgements
   - title: Help and contact details
