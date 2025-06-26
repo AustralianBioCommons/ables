@@ -1,17 +1,30 @@
 ---
-title: Resources available for ABLeS participants
+title: Resources available for ABLeS participants & how-to Guides
 ---
 
+This page outlines the computational infrastructure, specialist support, and software resources available to ABLeS project teams. Quick links and how-to guides are included to help you make the most of these resources.
 
 ## Computational resources
 
-ABLes computational resources are allocated to each project quarterly and additional resources can be requested by each project's bioinformatics lead.
+ABLeS projects receive compute and storage allocations on both the Pawsey Supercomputing Centre and the National Computational Infrastructure (NCI), reviewed quarterly. Additional resources may be requested by a project’s bioinformatics lead.
 
 {% include callout.html type="note" content="Additional resources can be requested [using this form](https://docs.google.com/forms/d/e/1FAIpQLSe_zrqiE7QSh1FFlmzMxFV6F_u5G-4dnAJ1H7vpN6kkkATyww/viewform?usp=header)." %}
 
 ### Pawsey Supercomputing Centre
 
 ABLeS includes 10 million service units (SUs) of compute capacity on [Setonix](https://pawsey.org.au/systems/setonix/) and flexible storage on the fast S3 based [Acacia](https://pawsey.org.au/systems/acacia/) storage system. These SUs can be utilised across CPU and GPU nodes.
+
+Centrally installed software and popular bioinformatics reference datasets are available on Pawsey. You can find more details **[here](/ables/if89/)**.
+
+#### How-to Guides
+
+<div style="border: 1px solid #a0a0a0; padding: 15px; border-radius: 5px; background-color: #f9f9f9;">
+Pawsey offers a range of in-person and online trainings, workshops, and activities to help you best use Pawsey resources:
+<ul>
+    <li><a href="https://pawsey.atlassian.net/wiki/spaces/US/pages/51917528/User+Training">Pawsey user training</a></li>
+    <li><a href="https://pawsey.atlassian.net/wiki/spaces/US/pages/51925434/Setonix+User+Guide">Setonix user Guide</a></li>
+</ul>
+</div>
 
 ### National Computational Infrastructure (NCI)
 
@@ -22,39 +35,24 @@ Details on:
 - [Gadi HPC resources](https://nci.org.au/our-systems/hpc-systems)
 - [Gadi storage system](https://nci.org.au/our-systems/storage-systems).
 
+Centrally installed software are available on NCI. You can find more details **[here](/ables/if89/)**.
+
+#### How-to Guides
+
+<div style="border: 1px solid #a0a0a0; padding: 15px; border-radius: 5px; background-color: #f9f9f9;">
+NCI provides <a href="https://nci.org.au/users/user-training">training resources and in-person training courses</a> throughout the year to help develop the skills of the NCI user community:
+<ul>
+    <li><a href="https://opus.nci.org.au/display/Help/NCI+Training+and+Educational+Events">Calendar of upcoming training opportunities</a></li>
+    <li><a href="https://opus.nci.org.au/">User Guides</a></li>
+    <li><a href="https://us14.list-manage.com/contact-form?u=591027c2b3f5eea58dacbcbf7&form_id=3ee635103a2d75f56c49b523d762d0fb">Register to become a NCI user</a></li>
+</ul>
+</div>
+
 ## Specialist expertise
 
-ABLeS projects are supported by NCI, Pawsey and ABLeS specialists to install, develop, optimise and deploy tools and workflows.
+ABLeS projects can access expert support from NCI, Pawsey and ABLeS specialists to install, develop, optimise and deploy tools and workflows.
 
-{% include callout.html type="note" content="If you are part of an ABLeS project and need help, please submit a request through [this GoogleForm](https://docs.google.com/forms/d/e/1FAIpQLSere1PvgPEuJkpvQUk1-11C88IAeQNQKEUFc-Qgbn5GgKK2jw/viewform?usp=sf_link)." %}
-
-## Available software and reference data
-
-### Pawsey Supercomputing Centre
-
-#### Software
-
-There is a wide range of centrally installed software for Setonix users, including popular bioinformatics tools. More information about [software on Setonix](https://support.pawsey.org.au/documentation/display/US/Software+Stack).
-
-Setonix users can also install their choice of software on the `/software` partition. We also encourage usage of containers with Singularity. Users are able to download any containers they like!
-
-#### Reference datasets at Pawsey
-
-Popular bioinformatics [reference datasets](https://support.pawsey.org.au/documentation/display/US/Life+Science+and+Bioinformatics) are available on Pawsey. Additional reference sets can be requested via <help@pawsey.org.au>
-
-### National Computational Infrastructure (NCI)
-
-#### Centrally supported software (`/apps`)
-
-Centrally supported software available through NCI can be viewed [here](https://opus.nci.org.au/display/Help/5.+Software+Applications).
-
-#### Shared repository of tools and software
-
-Users at NCI also have access to the `Australian BioCommons Tools and Workflows project`, in project allocation `if89`. This is a repository of popular tools, containers and workflows that can be used by anyone in the NCI system.
-
-Anyone from an NCI project is also invited to contribute to `if89`, and add more software installations that can be shared with others.
-
-Details are available **[here](/ables/if89/)**.
+{% include callout.html type="note" content="If you are part of an ABLeS project and need help, please submit a request through [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSere1PvgPEuJkpvQUk1-11C88IAeQNQKEUFc-Qgbn5GgKK2jw/viewform?usp=sf_link)." %}
 
 ## Resource summary
 
