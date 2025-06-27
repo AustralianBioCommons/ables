@@ -1,0 +1,173 @@
+<div class="news">
+    <div class="events-container">
+        <!-- News Section -->
+        <div class="news-section">
+            <!--<div class="events-header">
+                <h2 class="events-title">News</h2>
+                <p class="events-subtitle">Latest updates and announcements</p>
+            </div>
+             -->
+            <div class="news-category">
+                <!--<h3 class="category-title">Recent</h3>-->
+                {%- assign news = site.data.news | sort: 'date' %}
+                {%- assign count = 0 %}
+                <div class="news-list">
+                    {%- for new in news reversed %}
+                    <div class="news-item" onclick="redirectToNews('{{ new.url}}')">
+                        <div class="news-header">
+                            <h3 class="news-title">{{ new.name | escape }}</h3>
+                            <div class="news-date">{{ new.date | date: "%b %d, %Y" }}</div>
+                        </div>
+                        <div class="news-projects">
+                            {% if new.participants %}
+                            {%- for participant in new.participants %}
+                            <span class="project-tag" onclick="event.stopPropagation(); redirectToProject('{{ participant.url}}')">{{ participant.name | escape }}</span>
+                            {%- endfor %}
+                            {% endif %}
+                        </div>
+                        <div class="news-arrow">↗</div>
+                    </div>
+                    {%- assign count = count | plus: 1 %}
+                    {%- if include.limit and count == include.limit %}
+                    {%- break %}
+                    {%- endif %}
+                    {%- endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+    <style>
+        .news-section {
+            position: relative;
+        }
+        
+        .events-header {
+            margin-bottom: 30px;
+            text-align: left;
+        }
+        
+        .events-title {
+            font-size: clamp(2rem, 6vw, 3rem);
+            font-weight: 300;
+            letter-spacing: -0.01em;
+            margin-bottom: 5px;
+            color: #2d2d2d;
+        }
+        
+        .events-subtitle {
+            font-size: 1rem;
+            color: #666;
+            font-weight: 400;
+        }
+        
+        .news-category {
+            margin-bottom: 30px;
+        }
+        
+        .news-list {
+            display: flex;
+            flex-direction: column;
+            gap: 0;
+            margin-right: 15px;
+        }
+        
+        .news-item {
+            border-bottom: 1px solid #e0e0e0;
+            padding: 15px 0;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            position: relative;
+        }
+        
+        .news-item:last-child {
+            border-bottom: none;
+        }
+        
+        .news-item:hover {
+            background: #f8f8f8;
+            transform: translateX(-10px);
+            padding-left: 20px;
+        }
+        
+        .news-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 8px;
+            gap: 15px;
+        }
+        
+        .news-title {
+            font-size: 1.2rem;
+            font-weight: 600;
+            color: #2d2d2d;
+            line-height: 1.2;
+            flex: 1;
+        }
+        
+        .news-date {
+            font-size: 0.8rem;
+            color: #666;
+            font-weight: 500;
+            white-space: nowrap;
+            background: #f0f0f0;
+            padding: 3px 8px;
+            border-radius: 10px;
+        }
+        
+        .news-projects {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+            margin-bottom: 0;
+        }
+        
+        .project-tag {
+            background: #8ea869;
+            color: white;
+            font-size: 0.75rem;
+            padding: 3px 8px;
+            border-radius: 12px;
+            font-weight: 500;
+            white-space: nowrap;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            position: relative;
+            z-index: 10;
+        }
+        
+        .project-tag:hover {
+            background: #ff5252;
+            transform: scale(1.05);
+            box-shadow: 0 4px 12px rgba(255, 107, 107, 0.3);
+        }
+        
+        .news-arrow {
+            position: absolute;
+            top: 15px;
+            right: 10px;
+            width: 20px;
+            height: 20px;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+            color: #8ea869;
+            font-size: 1.2rem;
+        }
+        
+        .news-item:hover .news-arrow {
+            opacity: 1;
+        }
+        
+    </style>
+
+    <script>
+        function redirectToNews(newsId) {
+            // Open news article in new tab
+            window.open(`${newsId}`, '_blank');
+        }
+        
+        function redirectToProject(url) {
+            window.open(`${url}`, '_blank'); // Open in new tab
+        }
+    </script>
+</div>

@@ -1,0 +1,29 @@
+# see https://github.com/ELIXIR-Belgium/elixir-toolkit-theme
+
+# List of events
+#
+
+- name: ABLeS user group meeting
+  date: 2025-07-01
+  location: Online
+  description: Join us for the upcoming ABLeS User Group Meeting, featuring updates from ABLeS team, NCI and Pawsey, and presentations from three ABLeS-supported researchers.
+  url: https://docs.google.com/document/d/1U3gn5uE_2M4RN4LR_m93q52ME_T6Oaz2loWTE_3hOt0
+
+- name: ABLeS user group meeting
+  date: 2024-12-03
+  location: Online
+  description: The meeting brought together researchers from across Australia to share how they use ABLeS resources, with project talks, facility updates, and lively discussion.
+  url: https://www.biocommons.org.au/news/ables-user-group-meetings
+
+- name: ABLeS user group meeting
+  date: 2023-11-15
+  location: Online
+  description: Talks from Pawsey, NCI, Genomics for Australian Plants, Telethon Kids Institute, Sydney Informatics Hub, and Australian amphibian and reptile genomics.
+  url: https://docs.google.com/document/d/1OxsWKlBTCimdMkqgSPq1iRYfr4V5jD8ItH1VAhdHMis/edit?tab=t.0
+
+- name: ABLeS user group meeting
+  date: 2023-02-15
+  location: Online
+  description: The ABLeS Q1 2023 Community Meeting featured updates from the Australian amphibian and reptile genomics, Threatened Species Initiative and ZERO Childhood Cancer Consortium.
+  url: https://australianbiocommons.github.io/ables/news-events
+

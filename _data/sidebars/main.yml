@@ -2,13 +2,15 @@
 subitems:
   - title: Home
     url: /index
+  - title: News & events
+    url: /news-events
   - title: Eligibility
     url: /eligibility
   - title: Getting started
     url: /projects_allocations
-  - title: ABLeS resources & how-to Guides
+  - title: Resources & Training
     url: /resources
-  - title: ABLeS software and reference data
+  - title: Available software and data
     url: /if89
   - title: ABLeS participants
     url: /participants
