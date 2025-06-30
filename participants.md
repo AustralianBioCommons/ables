@@ -8,7 +8,7 @@ toc: false
     <div class="container">
         <div class="row">
             <div class="col-lg-3 col-xl-3 col-xxl-3 col-md-6 col-sm-12 col-12 rounded" style="background-color:#5ac3b1; text-align: center; vertical-align: middle; color:white; margin:25px;  padding:10px;">
-            <span style="font-family: 'Times New Roman', Times, serif; font-size: 450%; font-weight: bold;">40</span><br><span style="font-family: 'Times New Roman', Times, serif; font-size: 200%; font-weight: bold;color:#ffffff;">Groups</span><br>
+            <span style="font-family: 'Times New Roman', Times, serif; font-size: 450%; font-weight: bold;">45</span><br><span style="font-family: 'Times New Roman', Times, serif; font-size: 200%; font-weight: bold;color:#ffffff;">Groups</span><br>
             <i class="fas fa-users" style="font-size: 200%; color: white;"></i><br>
             </div>
             <div class="col-lg-3 col-xl-3 col-xxl-3 col-md-6 col-sm-12 col-12 rounded" style="background-color:#5ac3b1; text-align: center; vertical-align: middle; color:white; margin:25px;  padding:10px;">
