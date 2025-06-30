@@ -23,7 +23,7 @@ This project will draw on disparate fields (genomics, modelling, and microbial e
 
 ## How is ABLeS supporting this work?
 
-8TB Pawsey storage and access to GPUs. Number of users: 1. Expected duration of project funding until 2029. Expected to start: immediate.
+This work is supported through the Production Bioinformatics scheme provided by ABLeS. The support includes 5 TB long term storage and 50 KSUs per quarter.
 
 ## Expected outputs enabled by participation in ABLeS
 
