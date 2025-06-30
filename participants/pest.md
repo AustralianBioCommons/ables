@@ -29,7 +29,7 @@ Link to the IPM Omics Initiative webpage: [https://bioplatforms.com/project/inte
 
 ## How is ABLeS supporting this work?
 
-This work is supported through the Production Bioinformatics scheme provided by ABLeS. The support includes 5 TB long term storage and 50 KSUs per quarter.
+This work is supported through the reference data asset creation scheme provided by ABLeS. The support includes 5 TB long term storage and 100 KSUs per quarter.
 
 ## Expected outputs enabled by participation in ABLeS
 
