@@ -1,0 +1,55 @@
+# see https://github.com/ELIXIR-Belgium/elixir-toolkit-theme
+
+# List of news
+
+- name: Australian palaeoenvironments and biodiversity to be reconstructed through metagenomic analysis of sedimentary ancient DNA by national collaboration with Indigenous partners
+  url: https://www.biocommons.org.au/news/ciehf
+  date: 2025-03-31
+  participants:
+    - name: ARC Centre of Excellence for Indigenous and Environmental Histories and Futures
+      url: https://australianbiocommons.github.io/ables/participants/ciehf
+
+- name: Knowledge sharing enABLeS computational research across the life sciences
+  url: https://www.biocommons.org.au/news/ables-user-group-meetings
+  date: 2025-03-31
+
+- name: Supercomputing access powers development of a new multi-omics resource
+  url: https://www.biocommons.org.au/news/ables-icgrc
+  date: 2024-11-29
+  participants:
+    - name: Southern Cross University
+      url: https://australianbiocommons.github.io/ables/participants/parabricks
+
+- name: Supercomputing access powers paediatric research
+  url: https://www.biocommons.org.au/news/thekids-ables
+  date: 2024-08-29
+  participants:
+    - name: P4 Respiratory Health for Kids team at Telethon Kids Institute
+      url: https://australianbiocommons.github.io/ables/participants/telethon-kids
+
+- name: Latest tech unlocks deep sea mysteries hidden in museum collections
+  url: https://www.biocommons.org.au/news/deep-sea-ables
+  date: 2024-05-29
+  participants:
+    - name: Museums Victoria Research Institute
+      url: https://australianbiocommons.github.io/ables/participants/museum_vic/
+
+- name: "ABLeS: Enabling Australian researchers to tackle challenges in bioinformatics"
+  url: https://www.biocommons.org.au/news/ables-webinar2024
+  date: 2024-02-29
+  
+- name: "Creative collisions: Bio Day a hit at Supercomputing Asia 2024"
+  url: https://www.biocommons.org.au/news/sca2024-wrap
+  date: 2024-02-27
+  participants:
+    - name: Supercomputing Asia (SCA 2024)
+      url: https://sca24.sc-asia.org/
+
+- name: National collaboration advances computing power for bioinformatics
+  url: https://www.biocommons.org.au/news/pawsey-access
+  date: 2023-05-30
+  participants:
+    - name: Pawsey Supercomputing Centre
+      url: https://pawsey.org.au/
+    - name: National Computational Infrastructure
+      url: https://nci.org.au/

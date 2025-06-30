@@ -1,6 +1,6 @@
 ---
 title: South Australian immunoGENomics Cancer Institute (SAiGENCI)
-description: the porject aims to create a compositional, gene expression and cell-communication map and uncover significant diversity in immunotherapy targets across ages and sex.
+description: This project aims to create a compositional, gene expression and cell-communication map and uncover significant diversity in immunotherapy targets across ages and sex.
 toc: false
 type: ABLeS Participant
 ---
