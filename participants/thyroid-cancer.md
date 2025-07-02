@@ -1,13 +1,14 @@
 ---
 title: Thyroid Cancer Research Group, The University of Sydney
-description:
+description: Applying single cell RNA sequencing to understand the immune landscape of thyroid cancer, with the goal of identifying therapeutic targets and biomarkers.
 toc: false
 type: ABLeS Participant
 ---
 
 ## Project title
 
-Applying single cell RNA sequencing to understand the immune landscape of thyroid cancer, with the goal of identifying therapeutic targets and biomarkers.
+Thyroid Autoimmunity and the Immune Landscape in Thyroid Cancer
+
 
 ## Collaborators and funding
 
