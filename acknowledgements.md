@@ -9,11 +9,29 @@ The ABLeS program should be both cited and acknowledged in any publication, pres
 
 1. Use the following citation:
 
-> Gustafsson, Ove Johan Ragnar, Al Bkhetan, Ziad, Francis, Rhys & Manos, Steven. (2023). *Enabling national step changes in bioinformatics through ABLeS, the Australian BioCommons Leadership Share (3.0).* Zenodo. [https://doi.org/10.5281/zenodo.10139651](https://doi.org/10.5281/zenodo.10139651)
+```
+Gustafsson, Ove Johan Ragnar, Al Bkhetan, Ziad, Francis, Rhys & Manos, Steven. (2023). *Enabling national step changes in bioinformatics through ABLeS, the Australian BioCommons Leadership Share (3.0).* Zenodo. [https://doi.org/10.5281/zenodo.10139651](https://doi.org/10.5281/zenodo.10139651)
+```
+```
+@misc{gustafsson_2023_10139651,
+  author       = {Gustafsson, Ove Johan Ragnar and Al Bkhetan, Ziad and Francis, Rhys and Manos, Steven},
+  title        = {Enabling national step changes in bioinformatics through ABLeS, the Australian BioCommons Leadership Share},
+  month        = Nov,
+  year         = 2023,
+  publisher    = {Zenodo},
+  version      = {3.0},
+  doi          = {10.5281/zenodo.10139651},
+  url          = {https://doi.org/10.5281/zenodo.10139651},
+}
+```
+
+{:start="2"}
 
 2. Use the following acknowledgement statement:
 
->"The authors acknowledge the provision of computing and data resources provided by the Australian BioCommons Leadership Share (ABLeS) program. This program is co-funded by Bioplatforms Australia (enabled by NCRIS), the National Computational Infrastructure and Pawsey Supercomputing Research Centre."
+```
+"The authors acknowledge the provision of computing and data resources provided by the Australian BioCommons Leadership Share (ABLeS) program. This program is co-funded by Bioplatforms Australia (enabled by NCRIS), the National Computational Infrastructure and Pawsey Supercomputing Research Centre."
+```
 
 ## ABLeS co-authorship policy
 
