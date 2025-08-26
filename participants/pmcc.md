@@ -24,7 +24,7 @@ Leveraging these summarised databases effectively with patient and research coho
 
 ## How is ABLeS supporting this work?
 
-Quarterly allocation of 50000 SU and 5TB of long term storage. 
+This project is supported by the Production Bioinformatics scheme provided by ABLeS, providing access to compute and storage resources at the Pawsey Supercomputing Research Centre.
 
 ## Expected outputs enabled by participation in ABLeS
 

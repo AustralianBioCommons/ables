@@ -29,7 +29,7 @@ Project outcomes include enhanced knowledge on hemp sex expression, novel hemp c
 
 ## How is ABLeS supporting this work?
 
-NCI; Quarterly Service Units: 20kSUs; 2TB long term storage; 5 TB scratch; GPU: yes; number of users: 2-3; project duration: 6-12 months
+This project is supported by the Production Bioinformatics scheme provided by ABLeS, providing access to compute and storage resources at the National Computational Infrastructure (NCI).
 
 ## Expected outputs enabled by participation in ABLeS
 

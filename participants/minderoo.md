@@ -27,7 +27,7 @@ Australian Fish Genomics Initiative
 
 ## How is ABLeS supporting this work?
 
-Pawsey, ?, ?, ?, ~50 users, 2 years
+This project is supported by the Reference Data Generation scheme provided by ABLeS, providing access to compute and storage resources at the National Computational Infrastructure (NCI) and the Pawsey Supercomputing Research Centre.
 
 ## Expected outputs enabled by participation in ABLeS
 

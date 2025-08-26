@@ -31,12 +31,7 @@ The Australian Avian Genomics Initiative, established in 2023, aims to:
 
 ## How is ABLeS supporting this work?
 
-Infrastructure choice: Unsure (Pawsey?)
-Quarterly Service Units (estimate): ?
-Storage: requirements for long-term (during the project) and scratch: yes?
-Is access to GPUs required?: Yes?
-Expected number of users: ? 19 projects have been supported through the initiative so far
-Expected duration of the project: 3 years
+This project is supported by the Reference Data Generation scheme provided by ABLeS, providing access to compute and storage resources at the National Computational Infrastructure (NCI) and the Pawsey Supercomputing Research Centre.
 
 ## Expected outputs enabled by participation in ABLeS
 

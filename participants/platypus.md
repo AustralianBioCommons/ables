@@ -33,13 +33,7 @@ The aims include:
 
 ## How is ABLeS supporting this work?
 
-Infrastructure choice:  Pawsey
-Quarterly Service Units (estimate): 75 kSU
-Storage: 3 Tb storage and 1 Tb long term storage 
-Is access to GPUs required?: No
-Expected number of users: 2
-Expected duration of the project: 4 months
-We are ready to start using the resources
+This project is supported by the Production Bioinformatics scheme provided by ABLeS, providing access to compute and storage resources at the Pawsey Supercomputing Research Centre.
 
 ## Expected outputs enabled by participation in ABLeS
 

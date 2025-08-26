@@ -31,12 +31,7 @@ We request >= 128 GB of RAM (due to the computational demands of these bioinform
 
 ## How is ABLeS supporting this work?
 
-Infrastructure choice: Pawsey
-Quarterly Service Units (estimate): 100 kSUs
-Storage: >= 2 Tb
-Is access to GPUs required?: Not initially, but we may need them in due course (in a month or so, but it will depend on the approach our new computational specialist wants to use for analyses). 
-Expected number of users: 4
-Expected duration of the project: 3 years
+This project is supported by the Production Bioinformatics scheme provided by ABLeS, providing access to compute and storage resources at the Pawsey Supercomputing Research Centre.
 
 ## Expected outputs enabled by participation in ABLeS
 
