@@ -2,6 +2,20 @@
 
 # List of news
 
+- name: From cancer genomics to evolutionary biology - how ABLeS is powering Australian research
+  url: https://www.biocommons.org.au/news/ables-acknowledgements
+  date: 2025-09-30
+  participants:
+    - name: The Australian Amphibian and Reptile Genomics (AusARG) initiative
+      url: https://australianbiocommons.github.io/ables/participants/ausARG
+
+- name: Cancer researchers level up their high performance computing
+  url: https://www.biocommons.org.au/news/ables-cancer-research
+  date: 2025-08-29
+  participants:
+    - name: Anna Trigos lab, Peter MacCallum Cancer Centre
+      url: https://australianbiocommons.github.io/ables/participants/imaging
+
 - name: Australian palaeoenvironments and biodiversity to be reconstructed through metagenomic analysis of sedimentary ancient DNA by national collaboration with Indigenous partners
   url: https://www.biocommons.org.au/news/ciehf
   date: 2025-03-31
