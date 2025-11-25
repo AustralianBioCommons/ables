@@ -37,7 +37,7 @@ Here, we detail the central topic on PrP more in this brief introduction. Unlike
 
 ## How is ABLeS supporting this work?
 
-
+This work is supported through the Production Bioinformatics scheme provided by ABLeS. The support includes storage and compute allocation.
 
 ## Expected outputs enabled by participation in ABLeS
 

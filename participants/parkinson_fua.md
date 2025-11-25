@@ -27,7 +27,7 @@ To do extensive MD-studies of the full length aS(1-140) WT and its at least 6 mu
 
 ## How is ABLeS supporting this work?
 
-
+This work is supported through the Production Bioinformatics scheme provided by ABLeS. The support includes storage and compute allocation.
 
 ## Expected outputs enabled by participation in ABLeS
 
