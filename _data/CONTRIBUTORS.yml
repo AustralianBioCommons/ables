@@ -25,6 +25,13 @@ Ziad Al Bkhetan:
   role: Technical/Engagement
   affiliation: Australian BioCommons, University of Melbourne
 
+Giorgia Mori:
+  git: GiorgiaMori
+  email: giorgia@biocommons.org.au
+  orcid: 0000-0003-3469-5632
+  role: Communication/Training
+  affiliation: Australian BioCommons
+
 Hardip Patel:
   git: hp2048
   email: Hardip.patel@anu.edu.au
@@ -120,3 +127,17 @@ Andre Martins Reis:
   orcid: 0000-0002-7300-1157
   role: if89 Contributor
   affiliation: Garvan Institute of Medical Research
+
+Farhad Masoomi-Aladizgeh:
+  git: FarhadM-A
+  email: farhad.masoomi-aladizgeh@sydney.edu.au
+  orcid: 0000-0003-4270-7461
+  role: if89 Contributor
+  affiliation: The University of Sydney
+
+Haixia Guan:
+  email: haixia.guan@sydney.edu.au
+  orcid: 0009-0007-2310-5154
+  role: if89 Contributor
+  affiliation: The University of Sydney
+
