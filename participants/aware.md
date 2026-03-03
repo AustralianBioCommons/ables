@@ -2,7 +2,7 @@
 title: The University of Queensland
 description: This project develops GPU-accelerated, uncertainty-aware deep learning models for multimodal medical image segmentation by integrating imaging data with clinical signals and text using large language models (LLMs) and vision–language models (VLMs). The goal is to improve robustness, interpretability, and clinical reliability in computer-assisted diagnosis.
 toc: false
-type: ABLeS Participant - Completed
+type: ABLeS Participant
 page_id: aware
 ---
 
