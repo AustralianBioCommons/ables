@@ -2,7 +2,7 @@
 title: Beben Benyamin
 description: The project aims to investigate the roles of human endogenous retrovirus in motor neuron disease using multi-omics analysis.
 toc: false
-type: ABLeS Participant - Completed
+type: ABLeS Participant
 page_id: FightMND
 ---
 
@@ -27,7 +27,7 @@ Project aims:
 
 ## How is ABLeS supporting this work?
 
-
+This work is supported through the Production Bioinformatics scheme provided by ABLeS.
 
 ## Expected outputs enabled by participation in ABLeS
 
