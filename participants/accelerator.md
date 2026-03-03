@@ -29,7 +29,7 @@ Planned analyses include short-read population genomics, metagenomics, and quant
 
 ## How is ABLeS supporting this work?
 
-
+This work is supported through the Production Bioinformatics scheme provided by ABLeS.
 
 ## Expected outputs enabled by participation in ABLeS
 
