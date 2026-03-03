@@ -2,7 +2,7 @@
 title: Computational Drug Discovery Biology Group
 description: Small-molecule splicing modulators compounds may interact with recurrent AML mutations in spliceosome proteins like SF3B1, SRSF2, U2AF1, and cause synthetic lethality, killing mutant cells but spare healthy ones. In this project we will characterize the effect of 15 novel small-molecule splicing modulators compounds in the transcriptomes and RNA processing of cells using Nanopore single-molecule multimodal timing of in vivo mRNA synthesis protocol (https://www.biorxiv.org/content/10.1101/2025.04.27.650906v1.full.pdf).
 toc: false
-type: ABLeS Participant - Completed
+type: ABLeS Participant
 page_id: aml
 ---
 
