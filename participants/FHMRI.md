@@ -26,7 +26,7 @@ FHMRI Bioinformatics aims to support Flinders research groups with bioinformatic
 
 ## How is ABLeS supporting this work?
 
-
+This work is supported through the Production Bioinformatics scheme provided by ABLeS.
 
 ## Expected outputs enabled by participation in ABLeS
 
