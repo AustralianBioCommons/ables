@@ -2,7 +2,7 @@
 title: Data Science Unit, Computational Systems Oncology, SAiGENCI, Adelaide
 description: The TCGA Prostate Adenocarcinoma (PRAD) cohort, with its rich germline SNP-array data linked to detailed clinical outcomes, offers a unique opportunity to investigate how germline variation influences both cancer biology and treatment response. By integrating SNP-based genome-wide risk profiling with high-resolution HLA imputation, we can build genetic models that not only improve prediction of prostate cancer recurrence and survival, but also reveal how inherited variation interacts with tumor subtypes, immune features, and treatment modalities such as surgery, radiation, or ADT.
 toc: false
-type: ABLeS Participant - Completed
+type: ABLeS Participant
 page_id: HLA_prs
 ---
 
@@ -29,7 +29,7 @@ The proposed study will provide foundational insights into how inherited variati
 
 ## How is ABLeS supporting this work?
 
-
+This work is supported through the Production Bioinformatics scheme provided by ABLeS.
 
 ## Expected outputs enabled by participation in ABLeS
 
