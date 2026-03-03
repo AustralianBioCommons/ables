@@ -2,7 +2,7 @@
 title: Macquarie University
 description: Viviparity is thought to have originated as many as 115 times in squamates (snakes and lizards). However, we know very little about how natural selection acts on protein coding genes to dictate these transitions. Our study utilized over 30 genomes of snakes and lizards to investigate how diversifying selection has shaped the evolution of reproductive modes in squamates. 
 toc: false
-type: ABLeS Participant - Completed
+type: ABLeS Participant
 page_id: squamates
 ---
 
@@ -25,7 +25,7 @@ This project aims to investigate whether similar genes are under selection to su
 
 ## How is ABLeS supporting this work?
 
-
+This work is supported through the Production Bioinformatics scheme provided by ABLeS.
 
 ## Expected outputs enabled by participation in ABLeS
 
