@@ -2,7 +2,7 @@
 title: Peter MacCallum Cancer Centre, MacArthur Lab
 description: This multidimensional approach will provide a comprehensive exploration of TEs as potential drivers of both metastasis and therapeutic escape in melanoma. By generating high-resolution maps of TE insertions and methylation status, we aim to uncover how TEs contribute to disease evolution to allow the discovery of predictive biomarkers for therapy response or disease progression and novel therapeutic targets to overcome resistance.
 toc: false
-type: ABLeS Participant - Completed
+type: ABLeS Participant
 page_id: longread
 ---
 
@@ -33,7 +33,7 @@ Uncovering the Role of Transposable Elements in Melanoma Progression and Therapy
 
 ## How is ABLeS supporting this work?
 
-
+This work is supported through the Production Bioinformatics scheme provided by ABLeS.
 
 ## Expected outputs enabled by participation in ABLeS
 
