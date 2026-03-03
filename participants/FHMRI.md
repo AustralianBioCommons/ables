@@ -2,7 +2,7 @@
 title: FHMRI Bioinformatics
 description: FHMRI Bioinformatics is a new bioplatform to support bioinformatics analyses for research groups in the College of Medicine and Public Health at Flinders University.
 toc: false
-type: ABLeS Participant - Completed
+type: ABLeS Participant
 page_id: FHMRI
 ---
 
