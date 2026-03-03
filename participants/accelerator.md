@@ -2,7 +2,7 @@
 title: Omics Accelerator, Australia Wine Research Institute
 description: The Omics Accelerator is a NCRIS funded node that aims to develop and deploy multi-omic diagnostics for Australian industry. The requested project will utilize supercomputing resources for Omics accelerator and Metabolomics Australia method development.
 toc: false
-type: ABLeS Participant - Completed
+type: ABLeS Participant
 page_id: accelerator
 ---
 
