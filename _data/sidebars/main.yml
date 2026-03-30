@@ -2,8 +2,6 @@
 subitems:
   - title: Home
     url: /index
-  - title: About
-    url: /about
   - title: News & events
     url: /news-events
   - title: Getting started
