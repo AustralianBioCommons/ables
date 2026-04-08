@@ -16,7 +16,7 @@ As a result, Australian BioCommons and the bioinformatics leads for each project
 ![ABLeS project lifecycle](/images/ables_project_lifetime.png)
 
 
-### Use the drop-down menu below to explore more details:
+## Use the drop-down menu below to explore more details
 
 <div class="accordion" id="accordion-processes">
       <div class="accordion-item">
@@ -104,14 +104,6 @@ As a result, Australian BioCommons and the bioinformatics leads for each project
 </div>
 
 <br/>
-
-
-### Examples of different use cases for ABLeS allocations
-
-
-1. **Creation of reference data assets:** ABLeS supports research groups and consortia within the life sciences to access the dedicated compute capacity required to efficiently construct reference data of enduring value to the research community (e.g. genome assemblies). 
-2. **Production bioinformatics:** Institutes, consortia, and core facilities are increasingly facing issues scaling their in-house compute and data infrastructure to the questions, sample sizes, and data set sizes they are addressing as part of their research programs. ABLeS allocations can support these groups to implement and run their computational workflow approaches for omics data analysis *at scale*. 
-3. **Software accelerator:** Projects may further develop, install, optimise, test, and/or benchmark bioinformatics software. The intention is to create a culture of best practice in software, helping bioinformaticians to effectively share and document their work, and make it [FAIR (findable, accessible, interoperable and reusable)](https://doi.org/10.1038/s41597-022-01710-x).
 
 
 ## Quick access links
