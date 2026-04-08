@@ -65,7 +65,24 @@ ABLeS projects may receive compute and storage allocations on both the Pawsey Su
 - Additional resources may be granted as long as the required resources are available.
 - Time frame: Software projects are limited to 6 - 12 months
 
-{% include callout.html type="note" content="Additional resources may be requested by a project’s bioinformatics lead [**using this form**](https://docs.google.com/forms/d/e/1FAIpQLSe_zrqiE7QSh1FFlmzMxFV6F_u5G-4dnAJ1H7vpN6kkkATyww/viewform?usp=header)." %}
+{% include callout.html type="note" content="Additional resources may be requested by project leads [**using this form**](https://docs.google.com/forms/d/e/1FAIpQLSe_zrqiE7QSh1FFlmzMxFV6F_u5G-4dnAJ1H7vpN6kkkATyww/viewform?usp=header)." %}
+
+
+#### About the resources available at each computational facility
+
+
+##### Pawsey Supercomputing Centre
+
+ABLeS includes 10 million service units (SUs) of compute capacity on [Setonix](https://pawsey.org.au/systems/setonix/) and flexible storage on the fast S3 based [Acacia](https://pawsey.org.au/systems/acacia/) storage system. These SUs can be utilised across CPU and GPU nodes.
+
+Centrally installed software and popular bioinformatics reference datasets are available on Pawsey. You can find more details **[here](/ables/if89/)**.
+
+
+##### National Computational Infrastructure (NCI)
+
+ABLeS encompasses 16 million SUs of compute capacity and 500 TB of storage available per annum on the [Gadi supercomputer at the NCI](https://nci.org.au/our-systems/hpc-systems). These SUs can be utilised to run jobs on different nodes of Gadi that are equipped with either CPUs or GPUs.
+
+{% include tiles.html type = "gadi" %}
 
 
 ## 2. Specialist expertise
@@ -89,28 +106,36 @@ NCI provides <a href="https://nci.org.au/users/user-training">training resources
 {% include tiles.html type = "nci" %}
 
 
-## 3. Collectively maintained software and reference data (`project if89`)
-
-
-
-
-## About the resources available at each computational facility
-
+## 3. Software and reference data
 
 #### Pawsey Supercomputing Centre
 
-ABLeS includes 10 million service units (SUs) of compute capacity on [Setonix](https://pawsey.org.au/systems/setonix/) and flexible storage on the fast S3 based [Acacia](https://pawsey.org.au/systems/acacia/) storage system. These SUs can be utilised across CPU and GPU nodes.
 
-Centrally installed software and popular bioinformatics reference datasets are available on Pawsey. You can find more details **[here](/ables/if89/)**.
+##### Software
+
+There is a wide range of centrally installed software for Setonix users, including popular bioinformatics tools. More information about [software on Setonix](https://support.pawsey.org.au/documentation/display/US/Software+Stack).
+
+Setonix users can also install their choice of software on the `/software` partition. We also encourage usage of containers with Singularity. Users are able to download any containers they like!
+
+
+##### Reference datasets
+
+Popular bioinformatics [reference datasets](https://support.pawsey.org.au/documentation/display/US/Life+Science+and+Bioinformatics) are available on Pawsey. Additional reference sets can be requested via <help@pawsey.org.au>
 
 
 #### National Computational Infrastructure (NCI)
 
-ABLeS encompasses 16 million SUs of compute capacity and 500 TB of storage available per annum on the [Gadi supercomputer at the NCI](https://nci.org.au/our-systems/hpc-systems). These SUs can be utilised to run jobs on different nodes of GADI that are equipped with either CPUs or GPUs.
 
-Details on:
+##### Centrally supported software: `/apps`
 
-- [Gadi HPC resources](https://nci.org.au/our-systems/hpc-systems)
-- [Gadi storage system](https://nci.org.au/our-systems/storage-systems).
+Centrally supported software available through NCI can be [**viewed here**](https://opus.nci.org.au/display/Help/5.+Software+Applications).
 
-Centrally installed software is available on NCI. You can find more details **[here](/ables/if89/)**.
+
+##### Shared repository of tools and software: `project if89`
+
+All NCI users can also join the [**Australian BioCommons Tools and Workflows project**](resources): in project allocation `if89`. This is a repository of popular software tools, containers, and workflows that can be used by anyone in the NCI system.
+
+Anyone from an NCI project is also invited to [**contribute to `if89`**](/if89-technical), and add more software installations that can be shared with others.
+
+
+
