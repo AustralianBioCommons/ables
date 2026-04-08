@@ -22,6 +22,10 @@ subitems:
     url: /acknowledgements
   - title: Help and contact details
     url: /contact-us
+  - title: For developers
+    subitems:
+     - title: Contributing to if89
+       url: /if89-technical
   - title: FAQ
     url: /faq
   - title: Team
