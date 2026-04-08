@@ -13,6 +13,7 @@ toc: false
             <li>Support for adopting best practices and effectively sharing outputs</li>
             <li>A community-driven repository of bioinformatics software</li>
         </ul>
+    <a class="emphasis" href="/eligibility/">Start here!</a>
   </aside>
   
   <main class="index-panel index-right-panel">
@@ -52,4 +53,4 @@ More details about ABLeS are [**available in the publication**](https://doi.org/
 
 ABLeS is co-funded by <a href="https://bioplatforms.com/biocommons/">Bioplatforms Australia</a>, <a href="https://nci.org.au/">the National Computational Infrastructure (NCI)</a> and <a href="https://pawsey.org.au/">Pawsey Supercomputing Research Centre</a>. This program forms part of the national Australian BioCommons infrastructure.
 
-{% include affiliation-tiles-selection.html type="infrastructure" %}
+{% include affiliation-tiles-selection_mod.html type="infrastructure" %}
