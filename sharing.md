@@ -1,5 +1,5 @@
 ---
-title: Sharing outputs and outcomes from an ABLeS project
+title: Sharing outputs from an ABLeS project
 toc: false
 ---
 
@@ -16,16 +16,17 @@ Info coming soon.
 
 ## General software
 
-Info coming soon.
+Software can be registered using [**bio.tools**](https://bio.tools/). Multiple different types of software can be registered including tools, scripts, portals, apps, libraries, suites, and more.
 
 
-## Workflows
+## Computational workflows
 
-Computational workflows can be shared using the [**WorkflowHub registry**](https://workflowhub.eu/). You can find both a [**quick start guide**](https://about.workflowhub.eu/docs/index#quick-start-guide), and [**in-depth documentation**](https://about.workflowhub.eu/docs/organising-and-setup/), on the WorkflowHub documentation site.
+Computational workflows can be shared using the [**WorkflowHub registry**](https://workflowhub.eu/). 
+If you would like guidance, there is a [**quick start guide**](https://about.workflowhub.eu/docs/index#quick-start-guide), [**in-depth documentation**](https://about.workflowhub.eu/docs/organising-and-setup/), and the webinar recording below.
 
 <iframe 
-    width="560" 
-    height="315" 
+    width="440" 
+    height="250" 
     src="https://www.youtube.com/embed/c69SMox73aE?si=9oG6AtdQoGyldkks" 
     title="YouTube video player" 
     frameborder="0" 
@@ -43,4 +44,4 @@ Computational workflows can be shared using the [**WorkflowHub registry**](https
 
 Standard operating protocols (SOPs) and other documents can also be shared using the [**WorkflowHub registry**](https://workflowhub.eu/).
 
-Additional options include pre-print servers, and Zenodo.
+Additional options include pre-print servers, and [**Zenodo**](https://zenodo.org/).
