@@ -13,12 +13,6 @@
 - title: "Report project outcome"
   type: existing
   url: https://docs.google.com/forms/d/e/1FAIpQLSdO1w-RY8OexUBwJx8BHNMwSRNPA3_-5r6pefdQW8ancbKZqw/viewform?usp=sf_link
-- title: "See available tools"
-  type: new
-  url: /resources#3-collectively-maintained-software-and-reference-data-project-if89
-- title: "Help, this is the first time I'm requesting an ABLeS project"
-  type: new
-  url: /eligibility
 - title: "General software"
   type: sharing
   url: /sharing#general-software
@@ -46,3 +40,9 @@
 - title: "Register to become a NCI user"
   url:
   type: nci
+- title: "Gadi HPC resources"
+  url: https://nci.org.au/our-systems/hpc-systems
+  type: gadi
+- title: "Gadi storage system"
+  url: https://nci.org.au/our-systems/storage-systems
+  type: gadi
