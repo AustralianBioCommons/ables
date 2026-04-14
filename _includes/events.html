@@ -8,7 +8,7 @@
             {%- assign current_date = "now" | date: "%s" -%}
             <!-- Upcoming Events -->
             <div class="events-category">
-                <h3 class="category-title">Upcoming</h3>
+                <!--<h3 class="category-title">Upcoming</h3>-->
                 {%- assign events = site.data.events | sort: 'date' -%}
                 {%- assign count = 0 -%}
                 <div class="events-list">
@@ -39,7 +39,7 @@
                 </div>
             </div>
             
-            <!-- Past Events -->
+            <!-- Past Events
             <div class="events-category past-events">
                 <h3 class="category-title">Past</h3>
                 <div class="events-list">
@@ -69,7 +69,7 @@
                     {% endif %}
                     {%- endfor %}
                 </div>
-            </div>
+            </div>-->
         </div>
     </div>
 

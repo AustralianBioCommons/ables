@@ -1,35 +1,22 @@
 ---
-title: ABLeS projects and allocations
+title: Setting up, running, and closing ABLeS projects
 toc: false
 ---
 
 If you are new to the ABLeS program, please read the processes below to get started using ABLeS resources. You may also **[contact us](contact-us.md)** for more information and assistance.
 
-## Which ABLeS allocation matches your work?
 
-### Allocation Creation of reference data assets 
-
-ABLeS reference data allocations support research groups and consortia within the life sciences to access the dedicated compute capacity required to efficiently construct reference data.
-
-### Allocation Production bioinformatics
-
-Institutes, consortia and core facilities are increasingly facing issues scaling their in-house compute and data infrastructure to the questions, sample sizes, and data set sizes they are addressing as part of their research programs. ABLeS production allocations support these groups to implement and run their computational workflow approaches for omics data analysis *at scale*.
-
-### Allocation Software accelerator
-
-Software accelerator allocations will directly support the further development, installation, optimisation, testing and/or benchmarking of bioinformatics software. These allocations are intended to create a culture of best practice in software, helping bioinformaticians to effectively share and document their work, and make it [FAIR (findable, accessible, interoperable and reusable)](https://doi.org/10.1038/s41597-022-01710-x).
-
-<br/>
-
-## ABLeS process for different stages of a project's lifetime
-
-Australian BioCommons and the bioinformatics leads for each group have different roles during an ABLeS project's initiation, operation and closing phases. 
+## ABLeS processes for different project stages
 
 ABLeS projects are led and maintained by their users with the support of the ABLeS team to facilitate access to ABLeS resources.
 
+As a result, Australian BioCommons and the bioinformatics leads for each project have different roles during initiation, operation and closing phases of an ABLeS project. 
+
+
 ![ABLeS project lifecycle](/images/ables_project_lifetime.png)
 
-Use the drop-down menu below to explore more details:
+
+## Use the drop-down menu below to explore more details
 
 <div class="accordion" id="accordion-processes">
       <div class="accordion-item">
@@ -109,7 +96,7 @@ Use the drop-down menu below to explore more details:
           </ol>
           <b> Australian BioCommons' role:</b>
           <ol>
-            <li>Finalise the closing process with the infrastrucure provider. </li>
+            <li>Finalise the closing process with the infrastructure provider. </li>
           </ol>
           </div>
         </div>
@@ -118,14 +105,17 @@ Use the drop-down menu below to explore more details:
 
 <br/>
 
+
 ## Quick access links
 
-<div class="grid gap-2" style="box-sizing: content-box;">
-    <a class="btn btn-primary col-lg-5 col-xl-3 col-xxl-3 col-md-5 col-sm-8 col-8" href="https://docs.google.com/forms/d/e/1FAIpQLScTzDsJeLxB9if4PnuOiDsDCtSESKTc5d39rDSTUGu5fjCw3Q/viewform?usp=header" style="margin:10px;  padding:10px;">Project Proposal Form</a>
-    <a class="btn btn-primary col-lg-5 col-xl-3 col-xxl-3 col-md-5 col-sm-8 col-8" href="https://docs.google.com/forms/d/e/1FAIpQLSe_zrqiE7QSh1FFlmzMxFV6F_u5G-4dnAJ1H7vpN6kkkATyww/viewform?usp=header" style="margin:10px;  padding: 10px 0px 10px 0px;">Request Additional Resources</a>
-    <a class="btn btn-primary col-lg-5 col-xl-3 col-xxl-3 col-md-5 col-sm-8 col-8" href="https://workflowhub.eu/" style="margin:10px;  padding: 10px 0px 10px 0px;"> Share your workflow</a>
-    <a class="btn btn-primary col-lg-5 col-xl-3 col-xxl-3 col-md-5 col-sm-8 col-8" href="https://docs.google.com/forms/d/e/1FAIpQLSere1PvgPEuJkpvQUk1-11C88IAeQNQKEUFc-Qgbn5GgKK2jw/viewform?usp=sf_link" style="margin:10px;  padding:10px;">Help/Feedback Form</a>
-    <a class="btn btn-primary col-lg-5 col-xl-3 col-xxl-3 col-md-5 col-sm-8 col-8" href="https://docs.google.com/forms/d/e/1FAIpQLSdO1w-RY8OexUBwJx8BHNMwSRNPA3_-5r6pefdQW8ancbKZqw/viewform?usp=sf_link" style="margin:10px;  padding:10px;">Report Project Outcome Form</a>
-</div>
 
-<br/>
+### New projects
+
+{% include tiles.html type = "new" %}
+
+
+### Existing projects
+
+{% include tiles.html type = "existing" %}
+
+

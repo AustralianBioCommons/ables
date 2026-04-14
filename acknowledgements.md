@@ -1,7 +1,9 @@
 ---
-title: Acknowledgements and Authorship
+title: ABLeS Acknowledgment guidelines
 toc: false
 ---
+
+Researchers who use ABLeS resources are expected to acknowledge ABLeS in any resulting publications, presentations, or research outputs.
 
 ## Citing and acknowledging ABLeS
 
@@ -35,6 +37,20 @@ Gustafsson, Ove Johan Ragnar, Al Bkhetan, Ziad, Francis, Rhys & Manos, Steven. (
 
 ## ABLeS co-authorship policy
 
-Authorship is NOT expected for routine / simple services provided (e.g. tool installation) and an acknowledgement is sufficient in these cases. We approach authorship issues with a generous spirit and aim to fairly attribute contributions.
+For routine or standard services (e.g. tool installation or access to compute infrastructure), a formal acknowledgement of ABLeS is sufficient.
 
-In some cases, it may be appropriate for ABLeS support staff, or specialists at NCI or Pawsey to be co-authors on publications. Examples of this include when these specialists provide significant input into the publication, including a significant contribution to method / protocol / pipeline development, study design, data and results analysis, or interpretation.
+In some cases, co-authorship may be appropriate.
+
+This typically applies where ABLeS support staff or specialists at NCI or Pawsey have made a substantial intellectual contribution to the work, such as:
+- Development or optimisation of methods, protocols, or pipelines
+- Study design input
+- Data or results analysis
+- Interpretation of findings
+
+We approach authorship discussions collaboratively and in the spirit of fair and transparent attribution.
+
+## Share your outputs
+
+We encourage all projects to inform the ABLeS team of publications, software releases, datasets, and other outputs arising from ABLeS-supported work. Sharing outcomes helps demonstrate national impact and strengthens continued support for the community.
+
+Visit our [**Sharing project outputs** page](ables/sharing.md) to learn how to notify us and be featured.

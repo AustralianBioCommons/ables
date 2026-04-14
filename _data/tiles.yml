@@ -1,0 +1,48 @@
+- title: "Request a new project"
+  type: new
+  url: https://docs.google.com/forms/d/e/1FAIpQLScTzDsJeLxB9if4PnuOiDsDCtSESKTc5d39rDSTUGu5fjCw3Q/viewform?usp=header
+- title: "Request additional resources"
+  type: existing
+  url: https://docs.google.com/forms/d/e/1FAIpQLSe_zrqiE7QSh1FFlmzMxFV6F_u5G-4dnAJ1H7vpN6kkkATyww/viewform?usp=header
+- title: "Request software installation"
+  type: existing
+  url: https://docs.google.com/forms/d/e/1FAIpQLScpiyqERdxw6gMxjlq_CkiI3qvJ60YaeWHKTJChMjcnv8aBBA/viewform?usp=sf_link
+- title: "Request general help"
+  type: existing
+  url: https://docs.google.com/forms/d/e/1FAIpQLSere1PvgPEuJkpvQUk1-11C88IAeQNQKEUFc-Qgbn5GgKK2jw/viewform?usp=sf_link
+- title: "Report project outcome"
+  type: existing
+  url: https://docs.google.com/forms/d/e/1FAIpQLSdO1w-RY8OexUBwJx8BHNMwSRNPA3_-5r6pefdQW8ancbKZqw/viewform?usp=sf_link
+- title: "General software"
+  type: sharing
+  url: /sharing#general-software
+- title: "Computational workflows"
+  type: sharing
+  url: /sharing#workflows
+- title: "Reference data"
+  type: sharing
+  url: /sharing#reference-data
+- title: "SOPs and protocols"
+  type: sharing
+  url: /sharing#sops-and-protocols
+- title: "Pawsey user training"
+  url: https://pawsey.atlassian.net/wiki/spaces/US/pages/51917528/User+Training
+  type: pawsey
+- title: "Setonix user guide"
+  url: https://pawsey.atlassian.net/wiki/spaces/US/pages/51925434/Setonix+User+Guide
+  type: pawsey
+- title: "Calendar of upcoming training opportunities"
+  url: https://opus.nci.org.au/display/Help/NCI+Training+and+Educational+Events
+  type: nci
+- title: "User guides"
+  url: https://opus.nci.org.au/
+  type: nci
+- title: "Register to become a NCI user"
+  url:
+  type: nci
+- title: "Gadi HPC resources"
+  url: https://nci.org.au/our-systems/hpc-systems
+  type: gadi
+- title: "Gadi storage system"
+  url: https://nci.org.au/our-systems/storage-systems
+  type: gadi

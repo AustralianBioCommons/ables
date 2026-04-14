@@ -1,5 +1,6 @@
 ---
-title: ABLeS - Application Installation Guidelines
+title: Project if89 software installation guidelines
+contributors: [Dale Roberts, Johan Gustafsson, Ziad Al Bkhetan, Hardip Patel]
 ---
 
 ## Introduction
@@ -18,6 +19,7 @@ For each software, an installation script should be created to install the softw
 This helps to automate the process when a reinstallation is required.
 This script should be added to the repository of all scripts and patches, which is available at: [https://git.nci.org.au/dsr900/ables-software-installations](https://git.nci.org.au/dsr900/ables-software-installations). This script repository follows the same file structure as the NCI `/apps` directory which is `/<package>/<version>`.
 
+
 ## Prerequisites
 
 In order to contribute to `if89`, you need to satisfy the following conditions:
@@ -29,6 +31,7 @@ In order to contribute to `if89`, you need to satisfy the following conditions:
    If you do not have access, please contact one of the following repository maintainers and they will add you:
       * Ziad Al Bkhetan: <ziad@biocommons.org.au>
       * Javed Shaikh: <javed.shaikh@anu.edu.au>
+
 
 ## General guidelines
 
@@ -51,6 +54,7 @@ This will create a ‘fat binary’ that contains optimised code for all listed 
 `$ g{cc,++,fortran} -march=broadwell ...`
 8. Module and/or common files must also be created by the installation script.
 
+
 ## First-time installation procedure
 
 Before installing any software, make sure the software is not already installed into `/g/data/if89/apps/` as well as into NCI supported apps `/apps/`.
@@ -69,7 +73,8 @@ The procedure consists of three main stages:
 2. Install the software on the `if89` project
 3. Add the installation script to the `ABLeS-software-repository`
 
-**Details are below**
+
+### Details are below
 
 1. Clone `ables-software-installations` If you have done this step before, jump to step 2.
    If this is your first time adding to `if89`, you will need to clone the `ables-software-installations` repository from [https://git.nci.org.au/dsr900/ables-software-installations](https://git.nci.org.au/dsr900/ables-software-installations). Access is managed through your Gadi username and password.
@@ -85,6 +90,8 @@ The procedure consists of three main stages:
     git clone https://git.nci.org.au/dsr900/ables-software-installations.git
 ```
 
+{:start="2"}
+
 2. Make sure that the local repository is up to date before starting work on any new package. A branch must be created from the latest version of the ‘main’ branch of the repository. Change `APP_NAME` and `APP_VERSION` according to the software you are installing.
 
 ~~~
@@ -96,6 +103,8 @@ The procedure consists of three main stages:
     export APP_VERSION="APP_VERSION"
     git checkout -b ${APP_NAME}/${APP_VERSION}
 ~~~
+
+{:start="3"}
 
 3. Create a directory for the app and its version following the same file structure as other apps.
 Copy the install script template to the directory and rename it to install.sh.
@@ -109,6 +118,8 @@ The install template is available directly under the root directory of `ables-so
     chmod u+x ./install.sh
 ~~~
 
+{:start="4"}
+
 4. We recommend using other paths for testing as mentioned in the template file. You can use the same file paths mentioned there for testing until you are happy with the installation, then use the original paths. Details are in the template file.
 5. Edit the install file according to the app you are installing according to the tips provided within the install template.
 6. Run the install.sh script to do the final installation. Make sure the paths are configured to contain the final values not the testing ones.
@@ -116,6 +127,8 @@ The install template is available directly under the root directory of `ables-so
 ~~~
      ./install.sh
 ~~~
+
+{:start="7"}
 
 7. Make sure you clean up the directory
     * only install.* and installation related files if they exist should be kept) and only keep the installation files needed to be pushed to the repository.
@@ -132,11 +145,13 @@ The install template is available directly under the root directory of `ables-so
     git push
  ~~~
 
+
 ## Modifying existing installations
 
 * If an app installation needs to be altered after being made generally available, an update script needs to be added to the repository in the same directory as the installation script of the application being modified, and the same branch-merge procedure must be followed.
 * The update script should be named `update.*` and the same update script will not be run twice. It is recommended to give the update script a descriptive name e.g. `update.shortdescription.sh`.
 * The database of installations maintained by the installer tool will record the order in which update scripts were run, so in cases of disaster recovery, the current state of an application in the installation area will be able to be reconstructed by running `install.sh`, then all `update.*`  scripts in a given `<software>/<version>`  directory chronologically.
+
 
 ## When scripted installations are not possible
 
@@ -147,6 +162,7 @@ Please contact ABLeS team if you have such case.
 * A final tar file containing the completed installation should be placed in the appropriate subdirectory of `$SOURCE_DOWNLOADS_CACHE`.
 * An installation script is still required, however, all it needs to do is untar the completed installation from the staging area into `/g/data/if89/apps`.
 * Examples of acceptable manual installations are when GUI installers are required, or when pre-built software must be retrieved from behind an authenticated web service.
+
 
 ## Installation script standards
 
@@ -167,6 +183,7 @@ They are as follows:
   * If the same functions are appearing repeatedly in multiple installation scripts, they can be added to the main helper_functions.sh script.
 * Any software that is identified only by a date stamp should use `YYYYMMDD` format to allow version comparison extensions to work correctly.
 * Avoid `<app>/<version>-<compiler>-<option>-<mpi>-...` type structures. A lot of this can be handled by the MPI/compiler hierarchies that can be created during application installations. Where multi-MPI/compiler installations are not possible, compatibility requirements should be enforced using modules extensions.
+
 
 # Appendices
 
@@ -189,9 +206,3 @@ The `helper_functions.sh` script defines some useful variables and functions:
 
 * `download_source <url> <app_name> <app_version>`: Download the file from `<url>` to the directory `${SOURCE_DOWNLOADS_CACHE}/<app_name>/<app_version>` for archiving (this copy should not be used in the installation). Download_source will then copy the downloaded file to the working directory which can download It also keeps a copy in the working directory which can be used for the remaining part of the installation instead of using the downloaded file in `${SOURCE_DOWNLOADS_CACHE}`. This function should be used in preference to curl  or wget  when retrieving source code, as it saves files to a shared area where they can be retrieved later without internet access. This helps ensure reproducibility, as it guards against externally sourced files changing or being removed from the web entirely.
 
-## Contributors to this documentation
-
-* **Dale Roberts** *(NCI)*
-* **Johan Gustafsson** *(Australian BioCommons, University of Melbourne)*
-* **Ziad Al Bkhetan** *(Australian BioCommons, University of Melbourne)*
-* **Hardip Patel** *(The John Curtin School of Medical Research, Australian National University)*

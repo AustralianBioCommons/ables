@@ -2,22 +2,30 @@
 subitems:
   - title: Home
     url: /index
-  - title: News & events
+  - title: Events & news
     url: /news-events
-  - title: Eligibility
-    url: /eligibility
   - title: Getting started
-    url: /projects_allocations
-  - title: Resources & Training
-    url: /resources
-  - title: Available software and data
-    url: /if89
+    subitems:
+      - title: Eligibility
+        url: /eligibility
+      - title: Projects
+        url: /projects_allocations
+      - title: Resources & Training
+        url: /resources
+      - title: Available software and data
+        url: /if89
+  - title: Sharing project outputs
+    url: sharing
   - title: ABLeS participants
     url: /participants
   - title: Acknowledging ABLeS
     url: /acknowledgements
   - title: Help and contact details
     url: /contact-us
+  - title: For developers
+    subitems:
+     - title: Contributing to if89
+       url: /if89-technical
   - title: FAQ
     url: /faq
   - title: Team
