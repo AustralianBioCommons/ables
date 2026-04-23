@@ -1,0 +1,73 @@
+{% comment %}
+include source was modified from that available at https://github.com/Australian-Structural-Biology-Computing/australian-structural-biology-computing.github.io/blob/2ad8159cddd12b3ec4dfbf33fbbf310af9d686ba/_includes/section-navigation-tiles_mod.html
+{% endcomment %}
+
+{%- assign links_to_add_as_tiles = site.data.tiles -%}
+<div class="tiles">
+  <div class="tiles-container">
+    <div class="tiles-list">
+      {%- for item in links_to_add_as_tiles -%}
+      {%- if item.type == include.type -%}
+      <a href="{{ item.url | relative_url }}" class="tile-link">
+          <div class="tile-item">
+            <div class="tile-content">
+              <h3 class="tile-title" style="margin-top: 0.4rem">{{ item.title }}</h3>
+            </div>
+          </div>
+      </a>
+      {%- endif -%}
+      {%- endfor -%}
+    </div>
+  </div>
+</div>
+
+<style>
+
+  .tiles-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 10px;
+  }
+
+  .tile-link {
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+  }
+
+  .tile-item {
+    border-radius: 12px;
+    padding: 10px;
+    transition: all 0.3s ease;
+    background: #f0f3fa;
+    width: 500px;
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 1px solid #ffffff;
+    color: #012152;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .tile-item:hover {
+    background: #012152;
+    color: #ffffff;
+    transform: translateY(-4px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+    border: 1px solid #000000;
+  }
+
+  .tile-title {
+    color: inherit;
+    font-size: 1.0rem;
+    font-weight: 100;
+    margin-bottom: 8px;
+    text-align: center;
+    vertical-align: middle;
+  }
+
+</style>
