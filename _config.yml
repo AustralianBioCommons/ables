@@ -14,6 +14,10 @@ theme_variables:
     brand_logo: assets/img/Australian-Biocommons-Logo-Horizontal-RGB.png
     github: true
 
+exclude:
+  - README.md
+  - vendor
+  
 defaults:
   -
     values:
