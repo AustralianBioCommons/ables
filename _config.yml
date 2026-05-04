@@ -44,4 +44,8 @@ defaults:
 #aux_links_new_tab: true
 
 plugins:
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-github-metadata
+  - webrick
   - elixir-toolkit-theme-plugins
