@@ -20,6 +20,9 @@ exclude:
   
 defaults:
   -
+    scope:
+      path: ""
+      type: "pages"
     values:
       permalink: /:basename
       layout: "page"
