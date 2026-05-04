@@ -13,7 +13,7 @@ toc: false
             <li>Support for adopting best practices and effectively sharing outputs</li>
             <li>A community-driven repository of bioinformatics software</li>
         </ul>
-    <a class="emphasis" href="/eligibility/">Start here!</a>
+    <a class="emphasis" href="eligibility">Start here!</a>
   </aside>
   
   <main class="index-panel index-right-panel">
