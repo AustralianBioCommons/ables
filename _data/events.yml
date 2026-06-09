@@ -2,7 +2,12 @@
 
 # List of events
 #
-
+- name: ABLeS user group meeting
+  date: 2026-06-23
+  location: Online
+  description: Join us for the upcoming ABLeS User Group Meeting featuring updates on ABLeS, infrastructure providers, and speakers showing their use cases from Macquarie University, Australian National University, and the Australian Proteome Analysis Facility. 
+  url: https://www.biocommons.org.au/events/ables-users
+  
 - name: ABLeS user group meeting
   date: 2025-12-02
   location: Online
