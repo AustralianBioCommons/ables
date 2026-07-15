@@ -53,4 +53,4 @@ We approach authorship discussions collaboratively and in the spirit of fair and
 
 We encourage all projects to inform the ABLeS team of publications, software releases, datasets, and other outputs arising from ABLeS-supported work. Sharing outcomes helps demonstrate national impact and strengthens continued support for the community.
 
-Visit our [**Sharing project outputs** page](ables/sharing.md) to learn how to notify us and be featured.
+Visit our [**Sharing project outputs** page](/ables/sharing) to learn how to notify us and be featured.
