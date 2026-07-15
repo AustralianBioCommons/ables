@@ -12,7 +12,7 @@ To qualify for access, your project must address the following three pillars:
 
 > Your work must have a <span class = "emphasis">molecular life sciences focus</span>.
 
-> You are willing to <span class = "emphasis">openly share your results and outputs (exceptions apply)</span>, including data, software, and methods. [**Read more about this here**](ables/sharing.md).
+> You are willing to <span class = "emphasis">openly share your results and outputs (exceptions apply)</span>, including data, software, and methods. [**Read more about this here**](sharing).
 
 
 ## 2. Technical readiness & responsible resource use
