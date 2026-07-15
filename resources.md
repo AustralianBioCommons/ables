@@ -75,7 +75,7 @@ ABLeS projects may receive compute and storage allocations on both the Pawsey Su
 
 ABLeS includes 10 million service units (SUs) of compute capacity on [Setonix](https://pawsey.org.au/systems/setonix/) and flexible storage on the fast S3 based [Acacia](https://pawsey.org.au/systems/acacia/) storage system. These SUs can be utilised across CPU and GPU nodes.
 
-Centrally installed software and popular bioinformatics reference datasets are available on Pawsey. You can find more details **[here](/ables/if89/)**.
+Centrally installed software and popular bioinformatics reference datasets are available on Pawsey. You can find more details **[here](/ables/if89)**.
 
 
 ##### National Computational Infrastructure (NCI)
