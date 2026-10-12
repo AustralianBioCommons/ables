@@ -9,7 +9,7 @@ toc: false
     <div class="container">
         <div class="row">
             <div class="col-lg-3 col-xl-3 col-xxl-3 col-md-6 col-sm-12 col-12 rounded" style="background-color:#5ac3b1; text-align: center; vertical-align: middle; color:white; margin:25px;  padding:10px;">
-            <span style="font-family: 'Times New Roman', Times, serif; font-size: 450%; font-weight: bold;">77</span><br><span style="font-family: 'Times New Roman', Times, serif; font-size: 200%; font-weight: bold;color:#ffffff;">Groups</span><br>
+            <span style="font-family: 'Times New Roman', Times, serif; font-size: 450%; font-weight: bold;">83</span><br><span style="font-family: 'Times New Roman', Times, serif; font-size: 200%; font-weight: bold;color:#ffffff;">Groups</span><br>
             <i class="fas fa-users" style="font-size: 200%; color: white;"></i><br>
             </div>
             <div class="col-lg-3 col-xl-3 col-xxl-3 col-md-6 col-sm-12 col-12 rounded" style="background-color:#5ac3b1; text-align: center; vertical-align: middle; color:white; margin:25px;  padding:10px;">
@@ -19,11 +19,11 @@ toc: false
         </div>
         <div class="row">
             <div class="col-lg-3 col-xl-3 col-xxl-3 col-md-6 col-sm-12 col-12 rounded" style="background-color:#5ac3b1; text-align: center; vertical-align: middle; color:white; margin:25px;  padding:10px;">
-            <span style="font-family: 'Times New Roman', Times, serif; font-size: 450%; font-weight: bold;">471</span><br><span style="font-family: 'Times New Roman', Times, serif; font-size: 200%; font-weight: bold;color:#ffffff;">Users</span><br>
+            <span style="font-family: 'Times New Roman', Times, serif; font-size: 450%; font-weight: bold;">514</span><br><span style="font-family: 'Times New Roman', Times, serif; font-size: 200%; font-weight: bold;color:#ffffff;">Users</span><br>
             <i class="fa-solid fa-user" style="font-size: 200%; color: white;"></i><br>
             </div>
             <div class="col-lg-3 col-xl-3 col-xxl-3 col-md-6 col-sm-12 col-12 rounded" style="background-color:#5ac3b1; text-align: center; vertical-align: middle; color:white; margin:25px;  padding:10px;">
-            <span style="font-family: 'Times New Roman', Times, serif; font-size: 450%; font-weight: bold;">296</span><br><span style="font-family: 'Times New Roman', Times, serif; font-size: 200%; font-weight: bold;color:#ffffff;">Tools</span><br>
+            <span style="font-family: 'Times New Roman', Times, serif; font-size: 450%; font-weight: bold;">331</span><br><span style="font-family: 'Times New Roman', Times, serif; font-size: 200%; font-weight: bold;color:#ffffff;">Tools</span><br>
             <i class="fa-solid fa-laptop-code" style="font-size: 200%; color: white;"></i><br>
             </div>
         </div>
